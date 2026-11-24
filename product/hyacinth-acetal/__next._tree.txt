@@ -1,0 +1,8 @@
+:HL["/petorose-site/_next/static/chunks/0w81p81z6h4ga.css","style"]
+:HL["/petorose-site/_next/static/media/0264c3c98799c37c-s.p.0fuf3937kiol3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/petorose-site/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/petorose-site/_next/static/media/5151bb70dd75a85b-s.p.1n10e_apdb6ux.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"hyacinth-acetal","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"product","h":131136,"c":"$Q2"}]]
+0:{"b":"SG7ObeMh5NmxMxo-c-4v-","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

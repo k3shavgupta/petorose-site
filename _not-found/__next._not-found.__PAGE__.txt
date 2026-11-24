@@ -1,27 +1,27 @@
-1:"$Sreact.fragment"
-2:"/petorose-site/_next/static/chunks/3qfy96eoyh-ek.js"
-3:I[39756,["$2"],"default"]
-4:I[37457,["$2"],"default"]
-b:I[97367,["$2"],"OutletBoundary"]
-c:"$Sreact.suspense"
-f:"ViewportBoundary"
-10:I[97367,["$2"],"$f"]
-11:"MetadataBoundary"
-12:I[97367,["$2"],"$11"]
-13:I[27201,["$2"],"IconMark"]
-:HL["/petorose-site/_next/static/chunks/0becr8xr5wu3f.css","style"]
-6:X
+2:"$Sreact.fragment"
+3:"/petorose-site/_next/static/chunks/3qfy96eoyh-ek.js"
+4:"/petorose-site/_next/static/chunks/24x7a9uv9x-m5.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
 9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto flex max-w-xl flex-col items-start px-5 py-24 sm:px-8","children":[["$","p",null,{"className":"font-mono text-sm text-noir-orchid","children":"404"}],["$","h1",null,{"className":"mt-2 font-noir-display text-5xl","children":"Page not found"}],["$","p",null,{"className":"mt-4 text-lg text-noir-muted","children":"The page you are looking for has moved or no longer exists."}],["$","div",null,{"className":"mt-8 flex flex-wrap gap-3","children":[["$","$Lb",null,{"href":"/products/","className":"rounded-full bg-noir-saffron px-5 py-2.5 font-semibold text-noir-bg hover:bg-[#ffc56b]","children":"Browse products"}],["$","$Lb",null,{"href":"/","className":"rounded-full border border-white/20 px-5 py-2.5 hover:bg-white/5","children":"Home"}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#120e24"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Petorose Alcones — Innovating Aromas | Aroma chemicals manufacturer, India"}],["$","meta","1",{"name":"description","content":"Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, manufactures specialty aroma chemicals and aroma ingredients in Bhiwadi, Rajasthan, India. Part of the Banwari Group."}],["$","meta","2",{"name":"application-name","content":"Petorose Alcones"}],["$","meta","3",{"property":"og:title","content":"Petorose Alcones — Innovating Aromas"}],["$","meta","4",{"property":"og:description","content":"Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, manufactures specialty aroma chemicals and aroma ingredients in Bhiwadi, Rajasthan, India. Part of the Banwari Group."}],["$","meta","5",{"property":"og:url","content":"https://k3shavgupta.github.io/petorose-site/"}],["$","meta","6",{"property":"og:site_name","content":"Petorose Alcones"}],["$","meta","7",{"property":"og:locale","content":"en_IN"}],["$","meta","8",{"property":"og:image","content":"https://k3shavgupta.github.io/petorose-site/og-image.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Petorose Alcones — Innovating Aromas"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Petorose Alcones — Innovating Aromas"}],["$","meta","15",{"name":"twitter:description","content":"Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, manufactures specialty aroma chemicals and aroma ingredients in Bhiwadi, Rajasthan, India. Part of the Banwari Group."}],["$","meta","16",{"name":"twitter:image","content":"https://k3shavgupta.github.io/petorose-site/og-image.jpg"}],["$","link","17",{"rel":"icon","href":"/petorose-site/favicon.ico"}],["$","link","18",{"rel":"apple-touch-icon","href":"/petorose-site/assets/site-meta/logo192.png"}],["$","$L14","19",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"SG7ObeMh5NmxMxo-c-4v-"}
+e:null
+17:true
+9:300
 9:C
-a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$6"}}]]
-7:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/petorose-site/_next/static/chunks/0becr8xr5wu3f.css","precedence":"next"}],["$","script","script-0",{"src":"/petorose-site/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"en","className":"MOT0tq_variable antialiased","children":["$","body",null,{"className":"min-h-dvh font-sans","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Petorose Alcones Pvt Ltd — Innovating Aromas"}],["$","meta","1",{"name":"description","content":"Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, manufactures aroma chemicals and aroma ingredients in Bhiwadi, Rajasthan. Part of the Banwari Group."}],["$","link","2",{"rel":"icon","href":"/petorose-site/favicon.ico?favicon.0wac97_3-7b_d.ico","sizes":"1643x1627","type":"image/x-icon"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$6"}},"a":"$@15","u":"$@16","b":"5W9SaeDwT_N3bkHUAW6iI"}
-d:null
-6:300
-16:true
-6:C
-15:0
-8:"$undefined"
-5:"$undefined"
-14:"$undefined"
-e:"$undefined"
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"

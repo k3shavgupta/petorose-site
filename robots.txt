@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://k3shavgupta.github.io/petorose-site/sitemap.xml
