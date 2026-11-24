@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Petorose logo redesign proposals</title>
+  <desc id="desc">Two restrained violet logo directions shown on light and dark backgrounds with the Rose Noir palette.</desc>
+  <rect width="1600" height="1000" fill="#F6F4FD"/>
+  <text x="88" y="104" fill="#120E24" font-family="Fraunces, Georgia, serif" font-size="58" font-weight="600">Petorose identity proposals</text>
+  <text x="90" y="150" fill="#645D76" font-family="Inter, Arial, sans-serif" font-size="21">Rose + chemistry, redrawn for clarity at buyer-facing and favicon sizes</text>
+  <rect x="88" y="208" width="680" height="500" rx="30" fill="#FFFFFF"/>
+  <rect x="832" y="208" width="680" height="500" rx="30" fill="#120E24"/>
+  <text x="128" y="266" fill="#4845E4" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">A · REFINED BLOOM</text>
+  <text x="872" y="266" fill="#E384EA" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">B · MOLECULAR ROSE</text>
+  <g transform="translate(150 316) scale(.82)">
+    <path fill="#4845E4" d="M128 10 230.2 69v118L128 246 25.8 187V69z"/>
+    <g fill="#F6F4FD" transform="translate(128 128)">
+      <path id="p" d="M0-18c10-22 31-37 53-30 4 24-10 44-35 52C11 4 5-4 0-18Z"/>
+      <use href="#p" transform="rotate(72)"/><use href="#p" transform="rotate(144)"/><use href="#p" transform="rotate(216)"/><use href="#p" transform="rotate(288)"/>
+    </g><circle cx="128" cy="128" r="23" fill="#E384EA"/>
+  </g>
+  <text x="390" y="397" fill="#120E24" font-family="Fraunces, Georgia, serif" font-size="55" font-weight="600" letter-spacing="5">PETOROSE</text>
+  <text x="394" y="444" fill="#4845E4" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="11">ALCONES</text>
+  <text x="128" y="624" fill="#645D76" font-family="Inter, Arial, sans-serif" font-size="21">Closest to the current mark; cleaner and more legible.</text>
+  <g transform="translate(890 316) scale(.82)">
+    <path d="M128 14 226.7 71v114L128 242l-98.7-57V71z" fill="#1D1636" stroke="#8B8DFF" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M128 65c33 0 60 23 60 51 0 31-26 57-60 57-31 0-56-20-56-46 0-24 21-42 46-42 24 0 42 14 42 33 0 18-16 31-35 31-15 0-28-8-28-20 0-10 9-17 20-17" fill="none" stroke="#F6F4FD" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="117" cy="112" r="9" fill="#FFB648"/>
+  </g>
+  <text x="1130" y="397" fill="#F6F4FD" font-family="Fraunces, Georgia, serif" font-size="55" font-weight="600" letter-spacing="5">PETOROSE</text>
+  <text x="1134" y="444" fill="#8B8DFF" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="11">ALCONES</text>
+  <text x="872" y="624" fill="#B8B0C9" font-family="Inter, Arial, sans-serif" font-size="21">More technical and minimal; strongest on dark surfaces.</text>
+  <text x="90" y="794" fill="#120E24" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">ROSE NOIR PALETTE</text>
+  <g transform="translate(90 830)">
+    <rect width="210" height="86" rx="14" fill="#120E24"/><rect x="226" width="210" height="86" rx="14" fill="#1D1636"/>
+    <rect x="452" width="210" height="86" rx="14" fill="#4845E4"/><rect x="678" width="210" height="86" rx="14" fill="#8B8DFF"/>
+    <rect x="904" width="210" height="86" rx="14" fill="#E384EA"/><rect x="1130" width="210" height="86" rx="14" fill="#FFB648"/>
+  </g>
+</svg>

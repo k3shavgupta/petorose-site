@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Petorose refined bloom proposal in reverse">
+  <path fill="#F6F4FD" d="M128 10 230.2 69v118L128 246 25.8 187V69z"/>
+  <g fill="#1D1636" transform="translate(128 128)">
+    <path id="petal" d="M0-18c10-22 31-37 53-30 4 24-10 44-35 52C11 4 5-4 0-18Z"/>
+    <use href="#petal" transform="rotate(72)"/><use href="#petal" transform="rotate(144)"/>
+    <use href="#petal" transform="rotate(216)"/><use href="#petal" transform="rotate(288)"/>
+  </g>
+  <circle cx="128" cy="128" r="23" fill="#A832BA"/>
+</svg>

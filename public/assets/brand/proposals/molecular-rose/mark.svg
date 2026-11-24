@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Petorose molecular rose proposal</title>
+  <desc id="desc">A rose spiral held within a fine hexagonal chemistry frame.</desc>
+  <path d="M128 14 226.7 71v114L128 242l-98.7-57V71z" fill="#1D1636" stroke="#8B8DFF" stroke-width="8" stroke-linejoin="round"/>
+  <g fill="none" stroke="#F6F4FD" stroke-width="18" stroke-linecap="round">
+    <path d="M128 65c33 0 60 23 60 51 0 31-26 57-60 57-31 0-56-20-56-46 0-24 21-42 46-42 24 0 42 14 42 33 0 18-16 31-35 31-15 0-28-8-28-20 0-10 9-17 20-17"/>
+  </g>
+  <circle cx="117" cy="112" r="9" fill="#FFB648"/>
+</svg>

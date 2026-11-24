@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Petorose Alcones</title>
+  <desc id="desc">Horizontal refined bloom logo proposal with Innovating Aromas tagline.</desc>
+  <g transform="translate(22 12) scale(.84)">
+    <path fill="#4845E4" d="M128 10 230.2 69v118L128 246 25.8 187V69z"/>
+    <g fill="#F6F4FD" transform="translate(128 128)">
+      <path id="petal" d="M0-18c10-22 31-37 53-30 4 24-10 44-35 52C11 4 5-4 0-18Z"/>
+      <use href="#petal" transform="rotate(72)"/><use href="#petal" transform="rotate(144)"/>
+      <use href="#petal" transform="rotate(216)"/><use href="#petal" transform="rotate(288)"/>
+    </g>
+    <circle cx="128" cy="128" r="23" fill="#E384EA"/>
+  </g>
+  <text x="278" y="107" fill="#120E24" font-family="Fraunces, 'Cormorant Garamond', Georgia, serif" font-size="72" font-weight="600" letter-spacing="8">PETOROSE</text>
+  <text x="282" y="157" fill="#4845E4" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="13">ALCONES</text>
+  <path d="M282 184h464" stroke="#D8D3EA"/>
+  <text x="282" y="216" fill="#645D76" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="7">INNOVATING AROMAS</text>
+</svg>
