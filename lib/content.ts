@@ -1,5 +1,6 @@
 import productsJson from "@/content/products.json";
 import companyJson from "@/content/company.json";
+import { asset } from "./base-path";
 
 export type ComplianceMark = boolean | null;
 
@@ -44,4 +45,4 @@ export function toSummary(p: Product): ProductSummary {
 }
 
 export const catalogueHref = (pdfPage?: number) =>
-  `${company.catalogue.file}${pdfPage ? `#page=${pdfPage}` : ""}`;
+  asset(`${company.catalogue.file}${pdfPage ? `#page=${pdfPage}` : ""}`);

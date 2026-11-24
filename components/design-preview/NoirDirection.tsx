@@ -162,7 +162,9 @@ export function NoirDirection({ products, initialSlug, heroSlugs, quickPicks, ca
             ))}
             <div className="col-span-2 bg-noir-surface p-3">
               <dt className="flex justify-between text-xs text-noir-muted">
-                <span>Tenacity</span>
+                <span>
+                  Tenacity <span className="text-noir-muted/80">· how long the scent lasts</span>
+                </span>
                 <span className="font-mono text-noir-text">{formatTenacity(product.tenacity) ?? "—"}</span>
               </dt>
               <dd className="mt-2 h-1.5 overflow-hidden rounded-full bg-white/10">
