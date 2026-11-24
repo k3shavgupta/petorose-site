@@ -20,9 +20,19 @@
       "Petorose Alcones develops these chemicals under the supervision of highly qualified scientists and lab experts, manufactured in an all-compliant international-grade facility. The company also ensures the availability of certifications like Kosher and Halal on a product-to-product basis."
     ],
     "claims": [
-      { "claim": "India’s first manufacturer of purest Anethole", "source": "website /about" },
-      { "claim": "Part of a 40 years old business group", "source": "website /about", "flag": "Catalogue says the management has 'roots in the early 1970s' (50+ years). Confirm which figure to use." },
-      { "claim": "Having pioneered the mint industry", "source": "catalogue p.1 (About)" }
+      {
+        "claim": "India’s first manufacturer of purest Anethole",
+        "source": "website /about"
+      },
+      {
+        "claim": "Part of a 40 years old business group",
+        "source": "website /about",
+        "flag": "Catalogue says the management has 'roots in the early 1970s' (50+ years). Confirm which figure to use."
+      },
+      {
+        "claim": "Having pioneered the mint industry",
+        "source": "catalogue p.1 (About)"
+      }
     ]
   },
   "group": {
@@ -30,9 +40,18 @@
     "url": "https://banwari.org/",
     "basedIn": "New Delhi, India",
     "groupCompanies": [
-      { "name": "Banwari", "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file" },
-      { "name": "Sampe", "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file", "description": "TODO: no information beyond the logo" },
-      { "name": "Petorose Alcones" }
+      {
+        "name": "Banwari",
+        "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file"
+      },
+      {
+        "name": "Sampe",
+        "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file",
+        "description": "TODO: no information beyond the logo"
+      },
+      {
+        "name": "Petorose Alcones"
+      }
     ]
   },
   "address": {
@@ -52,14 +71,21 @@
     "geo": "TODO: exact coordinates or Google Maps place link for the embedded map"
   },
   "phones": [
-    { "display": "+91 98112 90445", "e164": "+919811290445" },
-    { "display": "+91 88606 09772", "e164": "+918860609772" }
+    {
+      "display": "+91 98112 90445",
+      "e164": "+919811290445"
+    },
+    {
+      "display": "+91 88606 09772",
+      "e164": "+918860609772"
+    }
   ],
   "email": "contact@petorosealcones.com",
   "website": "https://www.petorosealcones.com",
   "whatsapp": {
-    "number": "TODO: no WhatsApp number is published. The old site's WhatsApp button only asked visitors for their own WhatsApp number (posted to /api/v1/whatsapp). Confirm which number should receive WhatsApp chats.",
-    "candidates": ["+919811290445", "+918860609772"]
+    "number": "+919811290445",
+    "display": "+91 98112 90445",
+    "note": "Same number as the first listed phone, per Keshav Gupta (2026-11-24)."
   },
   "certifications": [
     {
@@ -157,7 +183,10 @@
     "downloadName": "ProductCatalogueWeb2025",
     "pages": 44,
     "flipbook": "https://heyzine.com/flip-book/e08acd5c76.html",
-    "quote": { "text": "Perfume is a story in odor, sometimes poetry in memory.", "author": "Jean-Claude Ellena" }
+    "quote": {
+      "text": "Perfume is a story in odor, sometimes poetry in memory.",
+      "author": "Jean-Claude Ellena"
+    }
   },
   "featureVideo": {
     "file": "/assets/video/petorose-alcones-feature-video-720p.mp4",
@@ -182,8 +211,16 @@
   "homepage": {
     "heroHeading": "Innovating Aromas",
     "heroCta": "Know More",
-    "newProducts": ["hyacinth-core", "isocaproic-acid", "jalclone"],
-    "featuredProducts": ["methyl-3-nonenoate", "para-propyl-phenol", "chavibetol-50"],
+    "newProducts": [
+      "hyacinth-core",
+      "isocaproic-acid",
+      "jalclone"
+    ],
+    "featuredProducts": [
+      "methyl-3-nonenoate",
+      "para-propyl-phenol",
+      "chavibetol-50"
+    ],
     "eventBanner": {
       "image": "/assets/img/site/5march-banner-petorose.png",
       "text": "Petorose Alcones Pvt Ltd cordially invites you to XXVI FAFAI International Convention & Expo 2025, Yashobhoomi Convention Centre, New Delhi, India, 5th - 7th March 2025, Stall S8",
@@ -193,21 +230,39 @@
   "contactPage": {
     "intro": "We're here to help.",
     "formHeading": "Send your Query",
-    "formFields": ["Name", "Company/Organization", "Email", "Subject", "Message"],
-    "productEnquiryFields": ["Name", "Email", "Phone", "Message", "Product (pre-filled)"]
+    "formFields": [
+      "Name",
+      "Company/Organization",
+      "Email",
+      "Subject",
+      "Message"
+    ],
+    "productEnquiryFields": [
+      "Name",
+      "Email",
+      "Phone",
+      "Message",
+      "Product (pre-filled)"
+    ]
   },
   "logos": {
     "mark": "/assets/img/site/petroselogo.jpg",
     "wordmark": "/assets/img/site/typefacee.png",
     "footerLockup": "/assets/img/site/mono.jpg",
     "favicon": "/assets/site-meta/favicon.ico",
-    "appIcons": ["/assets/site-meta/logo192.png", "/assets/site-meta/logo512.png"],
+    "appIcons": [
+      "/assets/site-meta/logo192.png",
+      "/assets/site-meta/logo512.png"
+    ],
     "vector": "TODO: no SVG/vector logo exists in any source; request one for crisp rendering"
   },
   "footer": {
     "copyright": "©2019-2024 by Petorose Alcones Private Limited. All Rights Reserved",
     "madeIn": "Made in India",
-    "credit": { "text": "Developed and maintained by Design Avenue", "url": "http://www.designavenue.co.in/" }
+    "credit": {
+      "text": "Developed and maintained by Design Avenue",
+      "url": "http://www.designavenue.co.in/"
+    }
   },
   "seo": {
     "metaDescription": "Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, is a family-owned and operated Banwari Group based in New Delhi, India.",
