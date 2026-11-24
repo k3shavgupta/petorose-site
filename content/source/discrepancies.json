@@ -1,0 +1,596 @@
+[
+  {
+    "product": "Altanol",
+    "field": "description",
+    "site": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavical and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+    "catalogue": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavicol, and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle."
+  },
+  {
+    "product": "Altanol",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Altanol",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Anethole",
+    "field": "name",
+    "site": "Anethole",
+    "catalogue": "Anethole (Synthetic)"
+  },
+  {
+    "product": "Anethole",
+    "field": "alsoKnownAs",
+    "site": "Anethole 21/22",
+    "catalogue": "Anethole"
+  },
+  {
+    "product": "Anethole",
+    "field": "description",
+    "site": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity,anisic-balsimic odour.",
+    "catalogue": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity, anisic-balsamic odour."
+  },
+  {
+    "product": "Anethole",
+    "field": "chemicalName",
+    "site": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+    "catalogue": "1-mthoxy-4-[(1Z)-prop-1-en-1-yl] benzene"
+  },
+  {
+    "product": "Anethole",
+    "field": "tenacity",
+    "site": ">24",
+    "catalogue": "24 HOURS"
+  },
+  {
+    "product": "Anethole",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Anethole",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Anethole",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Arednitryl",
+    "field": "compliance.foodGrade",
+    "site": null,
+    "catalogue": false
+  },
+  {
+    "product": "Arednitryl",
+    "field": "compliance.kosher",
+    "site": null,
+    "catalogue": false
+  },
+  {
+    "product": "Caprifloren",
+    "field": "description",
+    "site": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, add more flavour to white flower compositions.",
+    "catalogue": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, adds more flavour to white flower compositions."
+  },
+  {
+    "product": "Caprifloren",
+    "field": "tenacity",
+    "site": ">180",
+    "catalogue": "180 HOURS"
+  },
+  {
+    "product": "Caprifloren",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Caprifloren",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Caprifloren",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Celerytone",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Celerytone",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Celerytone",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Chavibetol 50%",
+    "field": "description",
+    "site": "Chavibetol is the primary component of essential oil from the leaves of the betelplant. It is an aromatic compound with a spicy note.",
+    "catalogue": "Chavibetol is the primary component of essential oil from the leaves of the betel plant. It is an aromatic compound with a spicy note."
+  },
+  {
+    "product": "Chavibetol 50%",
+    "field": "formula",
+    "site": "- C10H1202",
+    "catalogue": "C10H12O2"
+  },
+  {
+    "product": "Chavibetol 50%",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Chavicol",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Chavicyl Acetate",
+    "field": "description",
+    "site": "Another core component of betel, chavicyl acetate has a strong and spicy odor profil, similar to chavicol and chavibetol.",
+    "catalogue": "Another core component of betel, chavicyl acetate has a strong and spicy odor profile, similar to chavicol and chavibetol."
+  },
+  {
+    "product": "Chavicyl Acetate",
+    "field": "tenacity",
+    "site": ">24",
+    "catalogue": "24 HOURS"
+  },
+  {
+    "product": "Chavicyl Acetate",
+    "field": "compliance.foodGrade",
+    "site": null,
+    "catalogue": true
+  },
+  {
+    "product": "Chavicyl Acetate",
+    "field": "compliance.kosher",
+    "site": null,
+    "catalogue": false
+  },
+  {
+    "product": "Creamy Lactone",
+    "field": "name",
+    "site": "Creamy Lactone",
+    "catalogue": "Creamy Lactone 10%"
+  },
+  {
+    "product": "Creamy Lactone",
+    "field": "description",
+    "site": "A very powerful and effective spiro lactone, enhancing white flower notes like jasmine and tuberose, and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works well with tonka.",
+    "catalogue": "A very powerful and effective spiro lactone, wherever creamy or fruity core is required. It enhances white flower notes like jasmine and tuberose and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works very well with tonka."
+  },
+  {
+    "product": "Creamy Lactone",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Creamy Lactone",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Creamy Lactone",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Ethyl Isocaproate",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Ethyl Isocaproate",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Ethyl Isocaproate",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Fadeus",
+    "field": "tenacity",
+    "site": null,
+    "catalogue": "24 HOURS"
+  },
+  {
+    "product": "Fadeus",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "description",
+    "site": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long lasting citrus effect.",
+    "catalogue": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long-lasting citrus effect."
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "chemicalName",
+    "site": "N,2-Dimethyl-Nphenylbutyramide",
+    "catalogue": "N,2-Dimethyl-N-phenylbutyramide"
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "fema",
+    "site": "3241",
+    "catalogue": null
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "tenacity",
+    "site": ">72",
+    "catalogue": "72 HOURS"
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Gardeniamide",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Grecazine",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Grecazine",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Gulabow",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Gulabow",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Gulabow",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Hijacynth",
+    "field": "description",
+    "site": "A powerful floral note in thedirection of Jasmine and Hyacinth, animalic as well in character.",
+    "catalogue": "A powerful floral note in the direction of Jasmine and Hyacinth, animalic as well in character."
+  },
+  {
+    "product": "Hyacinth Acetal",
+    "field": "description",
+    "site": "Common notes of floral green, honey, rose and tea, the odour of Hyacinth Acetal is dry and leafy, while the flavour is aromatically herbal.",
+    "catalogue": "Hyacinth Acetal has dried nuances of roses, honey, lilac, black tea and of course hyacinth, best used in floral compounds demanding soft but very long lasting heart. It shows the character of green accords with chypre compositions."
+  },
+  {
+    "product": "Hyacinth Acetal",
+    "field": "chemicalName",
+    "site": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+    "catalogue": "Phenylacetaldehyde Glycerylacetal"
+  },
+  {
+    "product": "Hyacinth Acetal",
+    "field": "tenacity",
+    "site": ">48",
+    "catalogue": "48 HOURS"
+  },
+  {
+    "product": "Hyacinth Core",
+    "field": "description",
+    "site": "Defined by notes of hyacinth florals and sweet pea, Hyacinth Core can be used with fruity, green, and violet leaf notes.",
+    "catalogue": "Defined by notes of hyacinth florals, and sweet pea, Hyacinth Core can be used with fruity, green and violet leaf notes."
+  },
+  {
+    "product": "Hyacinth Core",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Hyacinth Core",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Hyacinth Core",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Isocaproic Acid",
+    "field": "description",
+    "site": "A saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk, and sweat. The odor is sour, penetrating, and unpleasant, similar to rancid butter.",
+    "catalogue": "Isocaproic Acid is a saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk and sweat. The odor can be described as sour and penetrating, with unpleasant character similar to that of rancid butter."
+  },
+  {
+    "product": "Isocaproic Acid",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Isocaproic Acid",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Isocaproic Acid",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Jalclone",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Laval",
+    "field": "description",
+    "site": "A powerful, diffusing herbaceous odour, LOVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry,cranberry and chocolate.",
+    "catalogue": "A powerful, diffusing herbaceous odour. LAVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry, cranberry and chocolate."
+  },
+  {
+    "product": "Megavanil",
+    "field": "description",
+    "site": "Magavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+    "catalogue": "Megavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much."
+  },
+  {
+    "product": "Megavanil",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Megavanil",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Methyl-3-Nonenoate",
+    "field": "description",
+    "site": "An intense fresh, fruity, green odor with cucumber undrtones, with a varying tropical taste resembling melons and apples.",
+    "catalogue": "An intense fresh, fruity, green odor with cucumber undertones, with a varying tropical taste resembling melons and apples."
+  },
+  {
+    "product": "Muscomme W",
+    "field": "description",
+    "site": "White Musk with powdery, creamy notes and fresh fruity undertones.",
+    "catalogue": "White Musk with powdery, creamy notes; and fresh fruity undertones."
+  },
+  {
+    "product": "Muscomme W",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Muscomme W",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": true
+  },
+  {
+    "product": "Muscomme W",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Narangama",
+    "field": "description",
+    "site": "A complete set of fresh-citrusy notes of Orange, Bergamot, and Grapefruit, underlined with Neroli. Narangama possesses hints of florals subtly.",
+    "catalogue": "A complete set of fresh-citrusy notes of Orange, Bergamot and Grapefruit, underlined with Neroli, Narangama possesses hints of florals subtly."
+  },
+  {
+    "product": "Narangama",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Narangama",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Narangama",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Neroli Ketone",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Neroli Ketone",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Newfoleon",
+    "field": "description",
+    "site": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably",
+    "catalogue": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably."
+  },
+  {
+    "product": "Nutclone One",
+    "field": "cas",
+    "site": "C7H10O",
+    "catalogue": "1193-18-6"
+  },
+  {
+    "product": "Orrisnitrile",
+    "field": "name",
+    "site": "Orrisnitrile",
+    "catalogue": "Orrisnitril"
+  },
+  {
+    "product": "Orrisnitrile",
+    "field": "description",
+    "site": "Strengthens orris and violet flower notes, with green fatty floral tones",
+    "catalogue": "Strengthens orris and violet flower notes, with green fatty floral tones."
+  },
+  {
+    "product": "Palsantol",
+    "field": "chemicalName",
+    "site": "beta,2,2,3-tetramethyldelta-methylene-3-cyclopentene-1-butanol",
+    "catalogue": "beta,2,2,3-tetramethyl-delta-methylene-3-cyclopentene-1-butanol"
+  },
+  {
+    "product": "Palsantol",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Palsantol",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Palsantol",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Para Propyl Phenol",
+    "field": "description",
+    "site": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky",
+    "catalogue": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky."
+  },
+  {
+    "product": "Phenyl Ethyl Propionate",
+    "field": "description",
+    "site": "Like other phenolics, Phenyl Ethyl Propionate ha fruity, honeyed and slightly spicy odour.",
+    "catalogue": "Like other phenolics, Phenyl Ethyl Propionate has fruity, honeyed and slightly spicy odour."
+  },
+  {
+    "product": "Rhumytal",
+    "field": "compliance.foodGrade",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Rhumytal",
+    "field": "compliance.kosher",
+    "site": true,
+    "catalogue": false
+  },
+  {
+    "product": "Val Acetate",
+    "field": "description",
+    "site": "This intensifies the spicy-green aspects while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odor with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+    "catalogue": "This intensifies the spicy-green aspects, while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odour with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers."
+  },
+  {
+    "product": "Val Acetate",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Val Acetate",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Val Acetate",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Valakon",
+    "field": "description",
+    "site": "With a vetiver-like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+    "catalogue": "With a vetiver like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition."
+  },
+  {
+    "product": "Valakon",
+    "field": "compliance.foodGrade",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Valakon",
+    "field": "compliance.kosher",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Valakon",
+    "field": "compliance.gmo",
+    "site": "not shown",
+    "catalogue": false
+  },
+  {
+    "product": "Vanilathon",
+    "field": "description",
+    "site": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanila note with leather like hints and balsamin undertone.",
+    "catalogue": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanilla note with leather-like hints and balsamic undertone."
+  }
+]

@@ -1,0 +1,2331 @@
+{
+  "mods": {
+    "139": "static/media/gardeniamide.7ebcce79bb3a77cdd80a.jpg",
+    "203": "static/media/Val.09c83f68145d844a5f85.png",
+    "427": "static/media/chaviChem.e2c3c68ea3e2d4af2492.png",
+    "431": "static/media/Gulabow.cb796eb8a779f402b188.png",
+    "502": "static/media/Chavibetol 50_.2ce3e280228a93ac5c0c.jpg",
+    "960": "static/media/ProductCatalogueWeb.da3d1a6d2bcc9e488694.pdf",
+    "1037": "static/media/CapriflorenChem.6a3018574c459b6a0463.png",
+    "1109": "static/media/GardeniamideChem.117796b1204cf79d97d1.png",
+    "1150": "inline/module-1150.png",
+    "1242": "static/media/Chavicol.2f3800e8c409d0c9f334.jpg",
+    "1253": "static/media/MuscommeChem.0d1ac14d8129ca1bcd50.png",
+    "1259": "static/media/5march_banner_petorose.6f337109d2e024f99855.png",
+    "1268": "static/media/MethylChem.987fb63cc8fab4b35299.png",
+    "1356": "static/media/Valakon.285d212fcedbac533b07.png",
+    "1564": "static/media/Anethole.322e912b42c5fd2eade6.jpg",
+    "1757": "static/media/Isocaproic.97461fb2999b12a24695.png",
+    "1938": "static/media/Newfoleon.28b9e54ce695a79ee8c6.jpg",
+    "1943": "static/media/Creamy.db2d9142cecee9ce0820.png",
+    "1949": "static/media/Orrisnitril.5032c94d1385727c9b48.jpg",
+    "1951": "static/media/Altanol.16b7cc97f75241a2498d.jpg",
+    "2091": "static/media/anitholeChem.45bbcf2fea60b9351ba9.png",
+    "2183": "static/media/Megavanil.1e6b9338a453e7bc736b.jpg",
+    "2464": "static/media/petroseLogo.c4c8eb3451f0101952b9.jpg",
+    "2505": "static/media/Ethyl.744a84b6c29a8e653821.png",
+    "2579": "static/media/ChavicylChem.b5f137085cdf6f82dda4.png",
+    "2642": "inline/module-2642.png",
+    "2726": "static/media/PalsantolChem.952d4f20a03280f1460b.png",
+    "3258": "static/media/Rhumytal.c57c67e5959348aefaa9.jpg",
+    "3468": "static/media/Whiskey 91.ac3e644556b98c70476c.jpg",
+    "3478": "static/media/Jalclone.652e825fc84b669f10ba.png",
+    "3676": "static/media/LavalChem.efcb0a9e4bd5009be76d.png",
+    "3852": "static/media/Methyl-3-Nonanoate.cb4a244d26caa6ab094f.jpg",
+    "3887": "static/media/GulabowChem.6225146774e66499fc59.png",
+    "3954": "static/media/Hyacinth Acetal.fe59a3d03a152c3ba50e.jpg",
+    "4395": "static/media/gracazine.c0c39a97ac3c349667a6.jpg",
+    "4483": "static/media/Fadeus.2b4b0a329a500d5f7a40.jpg",
+    "4495": "static/media/White Tuberose.e1d2b2b8411e1751b239.jpg",
+    "4534": "static/media/Celerytone.818c28ff618889f2da91.jpg",
+    "4607": "static/media/ChavicolChem.b97552fb463fe704a264.png",
+    "4636": "inline/module-4636.png",
+    "4700": "static/media/HijacynthChem.d4e97b6b66a75a5c2331.png",
+    "4825": "static/media/MegavanilChem.1e9873bbdffec5ccd423.png",
+    "5005": "static/media/Vanilathon.ccf86160d20edad58d8c.jpg",
+    "5206": "static/media/ValakonChem.05a130e3af94a5cfb42c.png",
+    "5456": "static/media/MONO.907b17b913a61f674c25.jpg",
+    "5593": "static/media/Prosethyl.f3665bad2cae4f5629a4.jpg",
+    "5767": "static/media/Caprifloren.90c55af1d691bde1dfae.jpg",
+    "5856": "static/media/NeroliChem.df8409b785ccad655788.png",
+    "6181": "static/media/RhumytalChem.232203093e71137367a4.png",
+    "6664": "static/media/ArednitrylChem.1d28ee304c6b3453c313.png",
+    "6775": "static/media/Palsantol.19c078fd03dc5a11a7c1.png",
+    "6817": "static/media/Petorose Alcones Feature Video.64d69b8747084b3d80bd.mp4",
+    "7039": "static/media/Para Propyl Phenol.1fcc094683c87aed4fc0.jpg",
+    "7232": "static/media/Neroli Ketone.f784a59c387568ddff1d.jpg",
+    "7254": "static/media/Hijacynth.68c38c00958e76bec2f4.jpg",
+    "7262": "static/media/jalChem.296bb39cc45afb4f87c3.png",
+    "7483": "static/media/WhiskeyChem.2e36d4fa632c98d2e7f0.png",
+    "7484": "static/media/nutclone one.8ce1fd10daba8bbd5985.jpg",
+    "7489": "static/media/Jasnoate.1ad645160a185150ae53.jpg",
+    "7525": "static/media/CreamyChem.b25a96990c264d6c3177.png",
+    "7659": "static/media/ValChem.5cb2c0184510dd69e664.png",
+    "7686": "inline/module-7686.png",
+    "7754": "static/media/Hyacinth.39b9f80351bc2fb1093e.png",
+    "7759": "static/media/Chavicyl Acetate.e410ad945bfbf286affc.jpg",
+    "7779": "static/media/HyacinthChem.35359b94d0134f79882c.png",
+    "8320": "inline/module-8320.png",
+    "8434": "static/media/Phenyl Ethyl Propionate.9bb6cb603628337cfcc8.jpg",
+    "8674": "static/media/GrecazineChem.f5b17b4a945a7f60a9c2.png",
+    "8949": "static/media/Narangama.1bfad74c5c70acd0b4a8.png",
+    "9027": "static/media/TYPEFACEE.cc50df58d7669bcb0c7c.png",
+    "9110": "inline/module-9110.png",
+    "9509": "static/media/Laval.fa5a74df90e437afc076.jpg",
+    "9610": "static/media/Arednitryl.59541a7a981bcb3bd6fa.png",
+    "9690": "static/media/Muscomme.3a6b8a4dd303d5dac216.png"
+  },
+  "arrays": [
+    {
+      "name": "p",
+      "start": 178653,
+      "keys": [
+        "key",
+        "name",
+        "canPlay",
+        "lazyPlayer",
+        "canEnablePIP"
+      ],
+      "count": 13,
+      "items": [
+        {
+          "key": "youtube",
+          "name": "YouTube",
+          "canPlay": {
+            "unevaluated": "d.canPlay.youtube"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(439).then(n.t.bind(n,8322,23))}))"
+          }
+        },
+        {
+          "key": "soundcloud",
+          "name": "SoundCloud",
+          "canPlay": {
+            "unevaluated": "d.canPlay.soundcloud"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(125).then(n.t.bind(n,1801,23))}))"
+          }
+        },
+        {
+          "key": "vimeo",
+          "name": "Vimeo",
+          "canPlay": {
+            "unevaluated": "d.canPlay.vimeo"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(743).then(n.t.bind(n,7600,23))}))"
+          }
+        },
+        {
+          "key": "mux",
+          "name": "Mux",
+          "canPlay": {
+            "unevaluated": "d.canPlay.mux"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(258).then(n.t.bind(n,4599,23))}))"
+          }
+        },
+        {
+          "key": "facebook",
+          "name": "Facebook",
+          "canPlay": {
+            "unevaluated": "d.canPlay.facebook"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(121).then(n.t.bind(n,4793,23))}))"
+          }
+        },
+        {
+          "key": "streamable",
+          "name": "Streamable",
+          "canPlay": {
+            "unevaluated": "d.canPlay.streamable"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(546).then(n.t.bind(n,1286,23))}))"
+          }
+        },
+        {
+          "key": "wistia",
+          "name": "Wistia",
+          "canPlay": {
+            "unevaluated": "d.canPlay.wistia"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(55).then(n.t.bind(n,5793,23))}))"
+          }
+        },
+        {
+          "key": "twitch",
+          "name": "Twitch",
+          "canPlay": {
+            "unevaluated": "d.canPlay.twitch"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(216).then(n.t.bind(n,6741,23))}))"
+          }
+        },
+        {
+          "key": "dailymotion",
+          "name": "DailyMotion",
+          "canPlay": {
+            "unevaluated": "d.canPlay.dailymotion"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(596).then(n.t.bind(n,4303,23))}))"
+          }
+        },
+        {
+          "key": "mixcloud",
+          "name": "Mixcloud",
+          "canPlay": {
+            "unevaluated": "d.canPlay.mixcloud"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(667).then(n.t.bind(n,2732,23))}))"
+          }
+        },
+        {
+          "key": "vidyard",
+          "name": "Vidyard",
+          "canPlay": {
+            "unevaluated": "d.canPlay.vidyard"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(888).then(n.t.bind(n,5561,23))}))"
+          }
+        },
+        {
+          "key": "kaltura",
+          "name": "Kaltura",
+          "canPlay": {
+            "unevaluated": "d.canPlay.kaltura"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(261).then(n.t.bind(n,9332,23))}))"
+          }
+        },
+        {
+          "key": "file",
+          "name": "FilePlayer",
+          "canPlay": {
+            "unevaluated": "d.canPlay.file"
+          },
+          "canEnablePIP": {
+            "unevaluated": "function(e){return d.canPlay.file(e)&&(document.pictureInPictureEnabled||(0,f.supportsWebKitPresentationMode)())&&!d.AUDIO_EXTENSIONS.test(e)}"
+          },
+          "lazyPlayer": {
+            "unevaluated": "(0,f.lazy)((function(){return n.e(11).then(n.t.bind(n,8997,23))}))"
+          }
+        }
+      ]
+    },
+    {
+      "name": "kr",
+      "start": 379722,
+      "keys": [
+        "id",
+        "img",
+        "title",
+        "link",
+        "subTitle",
+        "about",
+        "chemicalName",
+        "formula",
+        "caseNo",
+        "FEMA",
+        "TENACITYHour",
+        "foodGradeUrl",
+        "chemicalUrl"
+      ],
+      "count": 12,
+      "items": [
+        {
+          "id": 36,
+          "img": {
+            "asset": "static/media/Arednitryl.59541a7a981bcb3bd6fa.png"
+          },
+          "title": "Arednitryl",
+          "link": "arednitryl",
+          "subTitle": "Cantryl",
+          "about": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition.",
+          "chemicalName": "(2,2,3- Trimethylcyclopent-3-en-1-yl) acetonitrile",
+          "formula": "C10H15N",
+          "caseNo": "15373-31-6",
+          "FEMA": "",
+          "TENACITYHour": "30 DAYS",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "static/media/ArednitrylChem.1d28ee304c6b3453c313.png"
+          }
+        },
+        {
+          "id": 1,
+          "img": {
+            "asset": "static/media/Creamy.db2d9142cecee9ce0820.png"
+          },
+          "title": "Creamy Lactone",
+          "link": "creamy-lactone",
+          "subTitle": "Methyl Laitone 10%",
+          "about": "A very powerful and effective spiro lactone, enhancing white flower notes like jasmine and tuberose, and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works well with tonka.",
+          "chemicalName": "8-Methyl-1-oxaspiro[4.5]decan-2-one",
+          "formula": "C10H16O2",
+          "caseNo": "77-93-0 / 94201-19-1",
+          "FEMA": "",
+          "TENACITYHour": "165 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/CreamyChem.b25a96990c264d6c3177.png"
+          }
+        },
+        {
+          "id": 2,
+          "img": {
+            "asset": "static/media/Ethyl.744a84b6c29a8e653821.png"
+          },
+          "title": "Ethyl Isocaproate",
+          "link": "ethyl-isocaproate",
+          "subTitle": "",
+          "about": "A fruity aroma with medium strength.",
+          "chemicalName": "Ethyl 4-methylpentanoate",
+          "formula": "C8H16O2",
+          "caseNo": "25415-67-2",
+          "FEMA": "4343",
+          "TENACITYHour": "3 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-9110.png"
+          }
+        },
+        {
+          "id": 3,
+          "img": {
+            "asset": "static/media/Gulabow.cb796eb8a779f402b188.png"
+          },
+          "title": "Gulabow",
+          "link": "gulabow",
+          "subTitle": "Anatolyl",
+          "about": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances.",
+          "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+          "formula": "C13H18O2",
+          "caseNo": "24817-51-4",
+          "FEMA": "3632",
+          "TENACITYHour": "48 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/GulabowChem.6225146774e66499fc59.png"
+          }
+        },
+        {
+          "id": 4,
+          "img": {
+            "asset": "static/media/Hyacinth.39b9f80351bc2fb1093e.png"
+          },
+          "title": "Hyacinth Core",
+          "link": "hyacinth-core",
+          "subTitle": "Hyacinth Body",
+          "about": "Defined by notes of hyacinth florals and sweet pea, Hyacinth Core can be used with fruity, green, and violet leaf notes.",
+          "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+          "formula": "C12H18O2",
+          "caseNo": "2556-10-7",
+          "FEMA": "",
+          "TENACITYHour": "18 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/HyacinthChem.35359b94d0134f79882c.png"
+          }
+        },
+        {
+          "id": 5,
+          "img": {
+            "asset": "static/media/Isocaproic.97461fb2999b12a24695.png"
+          },
+          "title": "Isocaproic Acid",
+          "link": "isocaproic-acid",
+          "subTitle": "Hexonic Acid",
+          "about": "A saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk, and sweat. The odor is sour, penetrating, and unpleasant, similar to rancid butter.",
+          "chemicalName": "4-Methylpentanoic Acid",
+          "formula": "C6H12O2",
+          "caseNo": "646-07-1",
+          "FEMA": "3463",
+          "TENACITYHour": "72 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-1150.png"
+          }
+        },
+        {
+          "id": 6,
+          "img": {
+            "asset": "static/media/Jalclone.652e825fc84b669f10ba.png"
+          },
+          "title": "Jalclone",
+          "link": "jalclone",
+          "subTitle": "",
+          "about": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation.",
+          "chemicalName": "7-propyl 2h,4h-1,5-benzodioxepin-3-one",
+          "formula": "C12H14O3",
+          "caseNo": "207228-93-1",
+          "FEMA": "",
+          "TENACITYHour": "350 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/jalChem.296bb39cc45afb4f87c3.png"
+          }
+        },
+        {
+          "id": 7,
+          "img": {
+            "asset": "static/media/Muscomme.3a6b8a4dd303d5dac216.png"
+          },
+          "title": "Muscomme W",
+          "link": "muscomme-w",
+          "subTitle": "Edenolide",
+          "about": "White Musk with powdery, creamy notes and fresh fruity undertones.",
+          "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+          "formula": "C15H26O4",
+          "caseNo": "478695-70-4",
+          "FEMA": "",
+          "TENACITYHour": "50 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/MuscommeChem.0d1ac14d8129ca1bcd50.png"
+          }
+        },
+        {
+          "id": 8,
+          "img": {
+            "asset": "static/media/Narangama.1bfad74c5c70acd0b4a8.png"
+          },
+          "title": "Narangama",
+          "link": "narangama",
+          "subTitle": "Orange Flower Ether",
+          "about": "A complete set of fresh-citrusy notes of Orange, Bergamot, and Grapefruit, underlined with Neroli. Narangama possesses hints of florals subtly.",
+          "chemicalName": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+          "formula": "C11H20O",
+          "caseNo": "14576-08-0",
+          "FEMA": "",
+          "TENACITYHour": "3 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-2642.png"
+          }
+        },
+        {
+          "id": 9,
+          "img": {
+            "asset": "static/media/Palsantol.19c078fd03dc5a11a7c1.png"
+          },
+          "title": "Palsantol",
+          "link": "palsantol",
+          "subTitle": "",
+          "about": "A very powerful and natural sandalwood note.",
+          "chemicalName": "beta,2,2,3-tetramethyldelta-methylene-3-cyclopentene-1-butanol",
+          "formula": "C14H24O",
+          "caseNo": "104864-90-6",
+          "FEMA": "",
+          "TENACITYHour": "336 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/PalsantolChem.952d4f20a03280f1460b.png"
+          }
+        },
+        {
+          "id": 10,
+          "img": {
+            "asset": "static/media/Val.09c83f68145d844a5f85.png"
+          },
+          "title": "Val Acetate",
+          "link": "val-acetate",
+          "subTitle": "Vetikolacetate",
+          "about": "This intensifies the spicy-green aspects while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odor with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+          "chemicalName": "1,3-Dimethyl-3-phenylbutylacetate",
+          "formula": "C14H20O2",
+          "caseNo": "68083-58-9",
+          "FEMA": "",
+          "TENACITYHour": "24 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/ValChem.5cb2c0184510dd69e664.png"
+          }
+        },
+        {
+          "id": 11,
+          "img": {
+            "asset": "static/media/Valakon.285d212fcedbac533b07.png"
+          },
+          "title": "Valakon",
+          "link": "valakon",
+          "subTitle": "Vetikon",
+          "about": "With a vetiver-like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+          "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+          "formula": "C12H16O",
+          "caseNo": "7403-42-1",
+          "FEMA": "",
+          "TENACITYHour": "12 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/ValakonChem.05a130e3af94a5cfb42c.png"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cr",
+      "start": 384328,
+      "keys": [
+        "id",
+        "img",
+        "title",
+        "link",
+        "subTitle",
+        "about",
+        "chemicalName",
+        "formula",
+        "caseNo",
+        "FEMA",
+        "TENACITYHour",
+        "foodGradeUrl",
+        "chemicalUrl"
+      ],
+      "count": 27,
+      "items": [
+        {
+          "id": 1,
+          "img": {
+            "asset": "static/media/Altanol.16b7cc97f75241a2498d.jpg"
+          },
+          "title": "Altanol",
+          "link": "altanol",
+          "subTitle": "Toscanol",
+          "about": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavical and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+          "chemicalName": "1-Cyclopropylmethyl-4-methoxybenzene",
+          "formula": "C11H14O",
+          "caseNo": "16510-27-3",
+          "FEMA": "4759",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659951/petrose%20files/xv1bjpucqnwwqa6hadpi.png"
+        },
+        {
+          "id": 2,
+          "img": {
+            "asset": "static/media/Chavibetol 50_.2ce3e280228a93ac5c0c.jpg"
+          },
+          "title": "Chavibetol 50%",
+          "link": "chavibetol-50",
+          "subTitle": "Chavibetol 50%",
+          "about": "Chavibetol is the primary component of essential oil from the leaves of the betelplant. It is an aromatic compound with a spicy note.",
+          "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+          "formula": "- C10H1202",
+          "caseNo": " 501-19-9",
+          "FEMA": "",
+          "TENACITYHour": "240",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/chaviChem.e2c3c68ea3e2d4af2492.png"
+          }
+        },
+        {
+          "id": 3,
+          "img": {
+            "asset": "static/media/Anethole.322e912b42c5fd2eade6.jpg"
+          },
+          "title": "Anethole",
+          "link": "anethole",
+          "subTitle": "Anethole 21/22      ",
+          "about": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity,anisic-balsimic odour.",
+          "chemicalName": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+          "formula": "C10H12O",
+          "caseNo": "4180-23-8",
+          "FEMA": "2086",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": "../images/pet-icon1.png",
+          "chemicalUrl": {
+            "asset": "static/media/anitholeChem.45bbcf2fea60b9351ba9.png"
+          }
+        },
+        {
+          "id": 4,
+          "img": {
+            "asset": "static/media/Caprifloren.90c55af1d691bde1dfae.jpg"
+          },
+          "title": "Caprifloren",
+          "link": "caprifloren",
+          "subTitle": "Aprifloren",
+          "about": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, add more flavour to white      flower compositions.",
+          "chemicalName": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+          "formula": " C11H20O2",
+          "caseNo": "- 67663-01-08",
+          "FEMA": "3999",
+          "TENACITYHour": ">180",
+          "foodGradeUrl": "../images/pet-icon1.png",
+          "chemicalUrl": {
+            "asset": "static/media/CapriflorenChem.6a3018574c459b6a0463.png"
+          }
+        },
+        {
+          "id": 5,
+          "img": {
+            "asset": "static/media/Celerytone.818c28ff618889f2da91.jpg"
+          },
+          "title": "Celerytone",
+          "link": "celerytone",
+          "subTitle": "Celery Ketone/Celerone",
+          "about": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon.",
+          "chemicalName": "3-Methyl-5-propyl-2-cyclohexen-1-one",
+          "formula": " C10H16O",
+          "caseNo": "3720-16-9",
+          "FEMA": "3577",
+          "TENACITYHour": "15",
+          "foodGradeUrl": "../images/only-gmo.png",
+          "chemicalUrl": {
+            "asset": "inline/module-7686.png"
+          }
+        },
+        {
+          "id": 6,
+          "img": {
+            "asset": "static/media/Chavicol.2f3800e8c409d0c9f334.jpg"
+          },
+          "title": "Chavicol",
+          "link": "chavicol",
+          "subTitle": "Chavicol",
+          "about": "A colourless liquid found together with terpenes in betel oil, having a phenolic  medicinal and herbal odour.",
+          "chemicalName": "4-prop-2-enylphenol",
+          "formula": " C9H10O",
+          "caseNo": "501-92-8",
+          "FEMA": "4075",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/ChavicolChem.b97552fb463fe704a264.png"
+          }
+        },
+        {
+          "id": 7,
+          "img": {
+            "asset": "static/media/Chavicyl Acetate.e410ad945bfbf286affc.jpg"
+          },
+          "title": "Chavicyl Acetate",
+          "link": "chavicyl-acetate",
+          "subTitle": "Chavicol Acetate",
+          "about": "Another core component of    betel, chavicyl acetate has a strong and spicy odor profil, similar to chavicol and chavibetol.",
+          "chemicalName": "4-(prop-2-en-1-yl)phenyl    acetate",
+          "formula": "C11H12O2",
+          "caseNo": "61499-22-7",
+          "FEMA": "",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "static/media/ChavicylChem.b5f137085cdf6f82dda4.png"
+          }
+        },
+        {
+          "id": 8,
+          "img": {
+            "asset": "static/media/Fadeus.2b4b0a329a500d5f7a40.jpg"
+          },
+          "title": "Fadeus",
+          "link": "fadeus",
+          "subTitle": "Diola",
+          "about": "A colorless to clear liquid with concentrated    sweetness of herbal    lavender, and fruity tonalities.",
+          "chemicalName": "1-methoxyhexane    ",
+          "formula": "C7H16O",
+          "caseNo": "4747-07-3",
+          "FEMA": "4291",
+          "TENACITYHour": "",
+          "foodGradeUrl": {
+            "ref": "Er",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661378/petrose%20files/chem%20diagrams/ms1ovkdbnl6d1qqx4o7m.png"
+        },
+        {
+          "id": 9,
+          "img": {
+            "asset": "static/media/gardeniamide.7ebcce79bb3a77cdd80a.jpg"
+          },
+          "title": "Gardeniamide",
+          "link": "gardeniamide",
+          "subTitle": "Gardamide",
+          "about": "With a grapefruit citrus    heartnote and rhubarb,    Gardeniamide works well with other green citrus    notes, adding a long lasting citrus effect.",
+          "chemicalName": "N,2-Dimethyl-Nphenylbutyramide",
+          "formula": "C12H17NO",
+          "caseNo": "84434-18-4",
+          "FEMA": "3241",
+          "TENACITYHour": ">72",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/GardeniamideChem.117796b1204cf79d97d1.png"
+          }
+        },
+        {
+          "id": 10,
+          "img": {
+            "asset": "static/media/gracazine.c0c39a97ac3c349667a6.jpg"
+          },
+          "title": "Grecazine",
+          "link": "grecazine",
+          "subTitle": "Verdoracine",
+          "about": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes.",
+          "chemicalName": "4-isopropyl-1-methyl-2-(prop-1-enyl)benzene",
+          "formula": "C13H18",
+          "caseNo": "14374-92-6",
+          "FEMA": "",
+          "TENACITYHour": "24",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/GrecazineChem.f5b17b4a945a7f60a9c2.png"
+          }
+        },
+        {
+          "id": 13,
+          "img": {
+            "asset": "static/media/Hijacynth.68c38c00958e76bec2f4.jpg"
+          },
+          "title": "Hijacynth",
+          "link": "hijacynth",
+          "subTitle": "Jacinthaflor",
+          "about": "A powerful floral note in thedirection of Jasmine and Hyacinth, animalic as well in character.",
+          "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+          "formula": "C10H12O2",
+          "caseNo": "33941-99-0    ",
+          "FEMA": "",
+          "TENACITYHour": "10",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "static/media/HijacynthChem.d4e97b6b66a75a5c2331.png"
+          }
+        },
+        {
+          "id": 14,
+          "img": {
+            "asset": "static/media/Hyacinth Acetal.fe59a3d03a152c3ba50e.jpg"
+          },
+          "title": "Hyacinth Acetal",
+          "link": "hyacinth-acetal",
+          "subTitle": "Acetal CD",
+          "about": "Common notes of floral    green, honey, rose and tea, the odour of Hyacinth Acetal is dry and leafy, while the flavour is aromatically herbal.",
+          "chemicalName": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+          "formula": "C11H14O3",
+          "caseNo": " 29895-73-6  ",
+          "FEMA": "2877",
+          "TENACITYHour": ">48",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661380/petrose%20files/chem%20diagrams/aa1651ofw1yicrspjplq.png"
+        },
+        {
+          "id": 15,
+          "img": {
+            "asset": "static/media/Jasnoate.1ad645160a185150ae53.jpg"
+          },
+          "title": "Jasnoate",
+          "link": "jasnoate",
+          "subTitle": "Gelsone",
+          "about": "Very jasmin-like, with a wine bouquet and fruity undertones.",
+          "chemicalName": "Ethyl 2-acetyloctanoate",
+          "formula": "C12H22O3",
+          "caseNo": " 29214-60-6  ",
+          "FEMA": "4459",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "Er",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661378/petrose%20files/chem%20diagrams/oscx4g3klpf4zovcz7bh.jpg"
+        },
+        {
+          "id": 16,
+          "img": {
+            "asset": "static/media/Laval.fa5a74df90e437afc076.jpg"
+          },
+          "title": "Laval",
+          "link": "laval",
+          "subTitle": "Lavender Aldehyde",
+          "about": "A powerful, diffusing herbaceous odour, LOVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry,cranberry and chocolate.",
+          "chemicalName": "Isodihydrolavandulal",
+          "formula": "C10H18O",
+          "caseNo": "  35158-25-9 ",
+          "FEMA": "3406",
+          "TENACITYHour": "8-10",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/LavalChem.efcb0a9e4bd5009be76d.png"
+          }
+        },
+        {
+          "id": 17,
+          "img": {
+            "asset": "static/media/Megavanil.1e6b9338a453e7bc736b.jpg"
+          },
+          "title": "Megavanil ",
+          "link": "megavanil",
+          "subTitle": "Ultravanil",
+          "about": "Magavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+          "chemicalName": "2-ethoxy-4-Methylphenol",
+          "formula": "C9H12O2",
+          "caseNo": "  25265-71-8/2563-07-7",
+          "FEMA": "",
+          "TENACITYHour": ">350",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/MegavanilChem.1e9873bbdffec5ccd423.png"
+          }
+        },
+        {
+          "id": 19,
+          "img": {
+            "asset": "static/media/Methyl-3-Nonanoate.cb4a244d26caa6ab094f.jpg"
+          },
+          "title": "Methyl-3-Nonenoate ",
+          "link": "methyl-3-nonenoate",
+          "subTitle": "Methyl-3-Nonenoate",
+          "about": "An intense fresh, fruity,    green odor with cucumber    undrtones, with a varying    tropical taste resembling melons and apples.",
+          "chemicalName": "Methyl-3-nonenoate",
+          "formula": "C10H18O2",
+          "caseNo": "  13481-87-3",
+          "FEMA": " 3710",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/MethylChem.987fb63cc8fab4b35299.png"
+          }
+        },
+        {
+          "id": 20,
+          "img": {
+            "asset": "static/media/Neroli Ketone.f784a59c387568ddff1d.jpg"
+          },
+          "title": "Neroli Ketone",
+          "link": "neroli-ketone",
+          "subTitle": "Nerone",
+          "about": "A powerfully diffusive note of Neroli together with the dry freshness of the greens.",
+          "chemicalName": "1-(2-methyl-5-propan-2-yl-1-cyclohex-2-enyl)propan-1-one",
+          "formula": "C13H22O",
+          "caseNo": " - 31375-17-4",
+          "FEMA": "",
+          "TENACITYHour": ">30",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/NeroliChem.df8409b785ccad655788.png"
+          }
+        },
+        {
+          "id": 22,
+          "img": {
+            "asset": "static/media/Newfoleon.28b9e54ce695a79ee8c6.jpg"
+          },
+          "title": "Newfoleon",
+          "link": "newfoleon",
+          "subTitle": "Neofolione/ Novafoleon",
+          "about": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably",
+          "chemicalName": "Methyl-2-nonenoate",
+          "formula": "C10H18O2",
+          "caseNo": " 111-79-5 ",
+          "FEMA": " 2725",
+          "TENACITYHour": "15",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661379/petrose%20files/chem%20diagrams/u8peviyukazmvxwvkfrx.jpg"
+        },
+        {
+          "id": 23,
+          "img": {
+            "asset": "static/media/nutclone one.8ce1fd10daba8bbd5985.jpg"
+          },
+          "title": "Nutclone One  ",
+          "link": "nutclone-one",
+          "subTitle": "Nutty Cyclohexanone",
+          "about": "A powerful nutty, caramel-like odor.",
+          "chemicalName": "3-methyl-2-cyclohexanone",
+          "formula": "C7H10O",
+          "caseNo": " C7H10O",
+          "FEMA": " 3360",
+          "TENACITYHour": "24",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "inline/module-8320.png"
+          }
+        },
+        {
+          "id": 24,
+          "img": {
+            "asset": "static/media/Orrisnitril.5032c94d1385727c9b48.jpg"
+          },
+          "title": "Orrisnitrile",
+          "link": "orrisnitrile",
+          "subTitle": "Irisnitrile",
+          "about": "Strengthens orris and violet flower notes, with green    fatty floral tones",
+          "chemicalName": "2-nonene nitrile",
+          "formula": "C9H15N",
+          "caseNo": " 29127-83-1    ",
+          "FEMA": "",
+          "TENACITYHour": "48",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "inline/module-4636.png"
+          }
+        },
+        {
+          "id": 25,
+          "img": {
+            "asset": "static/media/Para Propyl Phenol.1fcc094683c87aed4fc0.jpg"
+          },
+          "title": "Para Propyl Phenol",
+          "link": "para-propyl-phenol",
+          "subTitle": "Para Propyl Phenol",
+          "about": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky",
+          "chemicalName": "4-Propylphenol",
+          "formula": "C9H12O",
+          "caseNo": " 645-56-7   ",
+          "FEMA": "3649",
+          "TENACITYHour": "10",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/gywmuyezkm2hfrdgxrfm.png"
+        },
+        {
+          "id": 27,
+          "img": {
+            "asset": "static/media/Prosethyl.f3665bad2cae4f5629a4.jpg"
+          },
+          "title": "Prosethyl",
+          "link": "prosethyl",
+          "subTitle": "Rosethyl",
+          "about": "Rosy note with green, earthy, spicy and honey    undertones.",
+          "chemicalName": "1-(Ethoxymethyl)-2-    methoxybenzene",
+          "formula": "C10H14O2",
+          "caseNo": " 64988-06-03",
+          "FEMA": "",
+          "TENACITYHour": ">48",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789452/petrose%20files/chem%20diagrams/k8omv9eeavjuf5owghw2.png"
+        },
+        {
+          "id": 29,
+          "img": {
+            "asset": "static/media/Phenyl Ethyl Propionate.9bb6cb603628337cfcc8.jpg"
+          },
+          "title": "Phenyl Ethyl Propionate",
+          "link": "phenyl-ethyl-propionate",
+          "subTitle": "Phenyl Ethyl Propionate",
+          "about": "Like other phenolics, Phenyl Ethyl Propionate ha fruity, honeyed and slightly spicy odour.",
+          "chemicalName": "Phenyl Ethyl Propionate",
+          "formula": "C11H14O2",
+          "caseNo": " 122-70-3",
+          "FEMA": "2867",
+          "TENACITYHour": "96",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789452/petrose%20files/chem%20diagrams/ykxyov0rt2dht8ovtlxx.png"
+        },
+        {
+          "id": 30,
+          "img": {
+            "asset": "static/media/Rhumytal.c57c67e5959348aefaa9.jpg"
+          },
+          "title": "Rhumytal",
+          "link": "rhumytal",
+          "subTitle": "Rhum Acetal",
+          "about": "Rummy-tobacco like, with fruity notes and woody undertones.",
+          "chemicalName": "Cyclohexanone Diethyl Acetal",
+          "formula": "C10H20O2",
+          "caseNo": "1670-47-9",
+          "FEMA": "4516",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/RhumytalChem.232203093e71137367a4.png"
+          }
+        },
+        {
+          "id": 32,
+          "img": {
+            "asset": "static/media/Vanilathon.ccf86160d20edad58d8c.jpg"
+          },
+          "title": "Vanilathon",
+          "link": "vanilathon",
+          "subTitle": "Creosol",
+          "about": "A modifier in floral, leathery and animalic compositions,    Vanilathon is a spicy vanila note with leather like hints and balsamin undertone.",
+          "chemicalName": "2-methoxy-4-methylphenol",
+          "formula": " C8H10O2",
+          "caseNo": "93-51-6",
+          "FEMA": "2671",
+          "TENACITYHour": "24",
+          "foodGradeUrl": {
+            "ref": "xr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/kvbq0ivsoy50vrcybp63.png"
+        },
+        {
+          "id": 34,
+          "img": {
+            "asset": "static/media/Whiskey 91.ac3e644556b98c70476c.jpg"
+          },
+          "title": "Whiskey 91",
+          "link": "whiskey-91",
+          "subTitle": "Whiskey Lactone",
+          "about": "With a tonka type odor of    coumarin, coconut, maple, toasted nuts with a burnt    character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances.",
+          "chemicalName": "5-butyl-4-methyloxolan-2-one",
+          "formula": "  C9H16O2",
+          "caseNo": "39212-23-2",
+          "FEMA": "3803",
+          "TENACITYHour": "60",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": {
+            "asset": "static/media/WhiskeyChem.2e36d4fa632c98d2e7f0.png"
+          }
+        },
+        {
+          "id": 35,
+          "img": {
+            "asset": "static/media/White Tuberose.e1d2b2b8411e1751b239.jpg"
+          },
+          "title": "White Tuberose",
+          "link": "white-tuberose",
+          "subTitle": "Methyl Tuberate",
+          "about": "Methyl Tuberate is a    powerful modifier to floral    accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance.",
+          "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+          "formula": "C10H18O2",
+          "caseNo": "33673-62-0",
+          "FEMA": "",
+          "TENACITYHour": "160",
+          "foodGradeUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659656/petrose%20files/gy4i7lump878c1yzkxdu.png",
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/rkjfxp8fgei3hzncev1w.png"
+        }
+      ]
+    },
+    {
+      "name": "Lr",
+      "start": 401806,
+      "keys": [
+        "id",
+        "img",
+        "title",
+        "link",
+        "subTitle",
+        "about",
+        "chemicalName",
+        "formula",
+        "caseNo",
+        "FEMA",
+        "TENACITYHour",
+        "foodGradeUrl",
+        "chemicalUrl"
+      ],
+      "count": 12,
+      "items": [
+        {
+          "id": 36,
+          "img": {
+            "asset": "static/media/Arednitryl.59541a7a981bcb3bd6fa.png"
+          },
+          "title": "Arednitryl",
+          "link": "arednitryl",
+          "subTitle": "Cantryl",
+          "about": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition.",
+          "chemicalName": "(2,2,3- Trimethylcyclopent-3-en-1-yl) acetonitrile",
+          "formula": "C10H15N",
+          "caseNo": "15373-31-6",
+          "FEMA": "",
+          "TENACITYHour": "30 DAYS",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/ArednitrylChem.1d28ee304c6b3453c313.png"
+          }
+        },
+        {
+          "id": 1,
+          "img": {
+            "asset": "static/media/Creamy.db2d9142cecee9ce0820.png"
+          },
+          "title": "Creamy Lactone",
+          "link": "creamy-lactone",
+          "subTitle": "Methyl Laitone 10%",
+          "about": "A very powerful and effective spiro lactone, enhancing white flower notes like jasmine and tuberose, and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works well with tonka.",
+          "chemicalName": "8-Methyl-1-oxaspiro[4.5]decan-2-one",
+          "formula": "C10H16O2",
+          "caseNo": "77-93-0 / 94201-19-1",
+          "FEMA": "",
+          "TENACITYHour": "165 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/CreamyChem.b25a96990c264d6c3177.png"
+          }
+        },
+        {
+          "id": 2,
+          "img": {
+            "asset": "static/media/Ethyl.744a84b6c29a8e653821.png"
+          },
+          "title": "Ethyl Isocaproate",
+          "link": "ethyl-isocaproate",
+          "subTitle": "",
+          "about": "A fruity aroma with medium strength.",
+          "chemicalName": "Ethyl 4-methylpentanoate",
+          "formula": "C8H16O2",
+          "caseNo": "25415-67-2",
+          "FEMA": "4343",
+          "TENACITYHour": "3 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-9110.png"
+          }
+        },
+        {
+          "id": 3,
+          "img": {
+            "asset": "static/media/Gulabow.cb796eb8a779f402b188.png"
+          },
+          "title": "Gulabow",
+          "link": "gulabow",
+          "subTitle": "Anatolyl",
+          "about": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances.",
+          "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+          "formula": "C13H18O2",
+          "caseNo": "24817-51-4",
+          "FEMA": "3632",
+          "TENACITYHour": "48 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/GulabowChem.6225146774e66499fc59.png"
+          }
+        },
+        {
+          "id": 4,
+          "img": {
+            "asset": "static/media/Hyacinth.39b9f80351bc2fb1093e.png"
+          },
+          "title": "Hyacinth Core",
+          "link": "hyacinth-core",
+          "subTitle": "Hyacinth Body",
+          "about": "Defined by notes of hyacinth florals and sweet pea, Hyacinth Core can be used with fruity, green, and violet leaf notes.",
+          "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+          "formula": "C12H18O2",
+          "caseNo": "2556-10-7",
+          "FEMA": "",
+          "TENACITYHour": "18 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/HyacinthChem.35359b94d0134f79882c.png"
+          }
+        },
+        {
+          "id": 5,
+          "img": {
+            "asset": "static/media/Isocaproic.97461fb2999b12a24695.png"
+          },
+          "title": "Isocaproic Acid",
+          "link": "isocaproic-acid",
+          "subTitle": "Hexonic Acid",
+          "about": "A saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk, and sweat. The odor is sour, penetrating, and unpleasant, similar to rancid butter.",
+          "chemicalName": "4-Methylpentanoic Acid",
+          "formula": "C6H12O2",
+          "caseNo": "646-07-1",
+          "FEMA": "3463",
+          "TENACITYHour": "72 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-1150.png"
+          }
+        },
+        {
+          "id": 6,
+          "img": {
+            "asset": "static/media/Jalclone.652e825fc84b669f10ba.png"
+          },
+          "title": "Jalclone",
+          "link": "jalclone",
+          "subTitle": "",
+          "about": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation.",
+          "chemicalName": "7-propyl 2h,4h-1,5-benzodioxepin-3-one",
+          "formula": "C12H14O3",
+          "caseNo": "207228-93-1",
+          "FEMA": "",
+          "TENACITYHour": "350 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/jalChem.296bb39cc45afb4f87c3.png"
+          }
+        },
+        {
+          "id": 7,
+          "img": {
+            "asset": "static/media/Muscomme.3a6b8a4dd303d5dac216.png"
+          },
+          "title": "Muscomme W",
+          "link": "muscomme-w",
+          "subTitle": "Edenolide",
+          "about": "White Musk with powdery, creamy notes and fresh fruity undertones.",
+          "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+          "formula": "C15H26O4",
+          "caseNo": "478695-70-4",
+          "FEMA": "",
+          "TENACITYHour": "50 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/MuscommeChem.0d1ac14d8129ca1bcd50.png"
+          }
+        },
+        {
+          "id": 8,
+          "img": {
+            "asset": "static/media/Narangama.1bfad74c5c70acd0b4a8.png"
+          },
+          "title": "Narangama",
+          "link": "narangama",
+          "subTitle": "Orange Flower Ether",
+          "about": "A complete set of fresh-citrusy notes of Orange, Bergamot, and Grapefruit, underlined with Neroli. Narangama possesses hints of florals subtly.",
+          "chemicalName": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+          "formula": "C11H20O",
+          "caseNo": "14576-08-0",
+          "FEMA": "",
+          "TENACITYHour": "3 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "inline/module-2642.png"
+          }
+        },
+        {
+          "id": 9,
+          "img": {
+            "asset": "static/media/Palsantol.19c078fd03dc5a11a7c1.png"
+          },
+          "title": "Palsantol",
+          "link": "palsantol",
+          "subTitle": "",
+          "about": "A very powerful and natural sandalwood note.",
+          "chemicalName": "beta,2,2,3-tetramethyldelta-methylene-3-cyclopentene-1-butanol",
+          "formula": "C14H24O",
+          "caseNo": "104864-90-6",
+          "FEMA": "",
+          "TENACITYHour": "336 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/PalsantolChem.952d4f20a03280f1460b.png"
+          }
+        },
+        {
+          "id": 10,
+          "img": {
+            "asset": "static/media/Val.09c83f68145d844a5f85.png"
+          },
+          "title": "Val Acetate",
+          "link": "val-acetate",
+          "subTitle": "Vetikolacetate",
+          "about": "This intensifies the spicy-green aspects while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odor with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+          "chemicalName": "1,3-Dimethyl-3-phenylbutylacetate",
+          "formula": "C14H20O2",
+          "caseNo": "68083-58-9",
+          "FEMA": "",
+          "TENACITYHour": "24 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/ValChem.5cb2c0184510dd69e664.png"
+          }
+        },
+        {
+          "id": 11,
+          "img": {
+            "asset": "static/media/Valakon.285d212fcedbac533b07.png"
+          },
+          "title": "Valakon",
+          "link": "valakon",
+          "subTitle": "Vetikon",
+          "about": "With a vetiver-like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+          "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+          "formula": "C12H16O",
+          "caseNo": "7403-42-1",
+          "FEMA": "",
+          "TENACITYHour": "12 HOURS",
+          "foodGradeUrl": "",
+          "chemicalUrl": {
+            "asset": "static/media/ValakonChem.05a130e3af94a5cfb42c.png"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Br",
+      "start": 406412,
+      "keys": [
+        "id",
+        "img",
+        "title",
+        "link",
+        "subTitle",
+        "about",
+        "chemicalName",
+        "formula",
+        "caseNo",
+        "FEMA",
+        "TENACITYHour",
+        "foodGradeUrl",
+        "chemicalUrl"
+      ],
+      "count": 27,
+      "items": [
+        {
+          "id": 1,
+          "img": {
+            "asset": "static/media/Altanol.16b7cc97f75241a2498d.jpg"
+          },
+          "title": "Altanol",
+          "link": "altanol",
+          "subTitle": "Toscanol",
+          "about": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavical and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+          "chemicalName": "1-Cyclopropylmethyl-4-methoxybenzene",
+          "formula": "C11H14O",
+          "caseNo": "16510-27-3",
+          "FEMA": "4759",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696659951/petrose%20files/xv1bjpucqnwwqa6hadpi.png"
+        },
+        {
+          "id": 2,
+          "img": {
+            "asset": "static/media/Chavibetol 50_.2ce3e280228a93ac5c0c.jpg"
+          },
+          "title": "Chavibetol 50%",
+          "link": "chavibetol-50",
+          "subTitle": "Chavibetol 50%",
+          "about": "Chavibetol is the primary component of essential oil from the leaves of the betelplant. It is an aromatic compound with a spicy note.",
+          "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+          "formula": "- C10H1202",
+          "caseNo": " 501-19-9",
+          "FEMA": "",
+          "TENACITYHour": "240",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/chaviChem.e2c3c68ea3e2d4af2492.png"
+          }
+        },
+        {
+          "id": 3,
+          "img": {
+            "asset": "static/media/Anethole.322e912b42c5fd2eade6.jpg"
+          },
+          "title": "Anethole",
+          "link": "anethole",
+          "subTitle": "Anethole 21/22      ",
+          "about": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity,anisic-balsimic odour.",
+          "chemicalName": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+          "formula": "C10H12O",
+          "caseNo": "4180-23-8",
+          "FEMA": "2086",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": "../images/pet-icon1.png",
+          "chemicalUrl": {
+            "asset": "static/media/anitholeChem.45bbcf2fea60b9351ba9.png"
+          }
+        },
+        {
+          "id": 4,
+          "img": {
+            "asset": "static/media/Caprifloren.90c55af1d691bde1dfae.jpg"
+          },
+          "title": "Caprifloren",
+          "link": "caprifloren",
+          "subTitle": "Aprifloren",
+          "about": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, add more flavour to white      flower compositions.",
+          "chemicalName": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+          "formula": " C11H20O2",
+          "caseNo": "- 67663-01-08",
+          "FEMA": "3999",
+          "TENACITYHour": ">180",
+          "foodGradeUrl": "../images/pet-icon1.png",
+          "chemicalUrl": {
+            "asset": "static/media/CapriflorenChem.6a3018574c459b6a0463.png"
+          }
+        },
+        {
+          "id": 5,
+          "img": {
+            "asset": "static/media/Celerytone.818c28ff618889f2da91.jpg"
+          },
+          "title": "Celerytone",
+          "link": "celerytone",
+          "subTitle": "Celery Ketone/Celerone",
+          "about": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon.",
+          "chemicalName": "3-Methyl-5-propyl-2-cyclohexen-1-one",
+          "formula": " C10H16O",
+          "caseNo": "3720-16-9",
+          "FEMA": "3577",
+          "TENACITYHour": "15",
+          "foodGradeUrl": "../images/only-gmo.png",
+          "chemicalUrl": {
+            "asset": "inline/module-7686.png"
+          }
+        },
+        {
+          "id": 6,
+          "img": {
+            "asset": "static/media/Chavicol.2f3800e8c409d0c9f334.jpg"
+          },
+          "title": "Chavicol",
+          "link": "chavicol",
+          "subTitle": "Chavicol",
+          "about": "A colourless liquid found together with terpenes in betel oil, having a phenolic  medicinal and herbal odour.",
+          "chemicalName": "4-prop-2-enylphenol",
+          "formula": " C9H10O",
+          "caseNo": "501-92-8",
+          "FEMA": "4075",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/ChavicolChem.b97552fb463fe704a264.png"
+          }
+        },
+        {
+          "id": 7,
+          "img": {
+            "asset": "static/media/Chavicyl Acetate.e410ad945bfbf286affc.jpg"
+          },
+          "title": "Chavicyl Acetate",
+          "link": "chavicyl-acetate",
+          "subTitle": "Chavicol Acetate",
+          "about": "Another core component of    betel, chavicyl acetate has a strong and spicy odor profil, similar to chavicol and chavibetol.",
+          "chemicalName": "4-(prop-2-en-1-yl)phenyl    acetate",
+          "formula": "C11H12O2",
+          "caseNo": "61499-22-7",
+          "FEMA": "",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/ChavicylChem.b5f137085cdf6f82dda4.png"
+          }
+        },
+        {
+          "id": 8,
+          "img": {
+            "asset": "static/media/Fadeus.2b4b0a329a500d5f7a40.jpg"
+          },
+          "title": "Fadeus",
+          "link": "fadeus",
+          "subTitle": "Diola",
+          "about": "A colorless to clear liquid with concentrated    sweetness of herbal    lavender, and fruity tonalities.",
+          "chemicalName": "1-methoxyhexane    ",
+          "formula": "C7H16O",
+          "caseNo": "4747-07-3",
+          "FEMA": "4291",
+          "TENACITYHour": "",
+          "foodGradeUrl": {
+            "ref": "Ur",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661378/petrose%20files/chem%20diagrams/ms1ovkdbnl6d1qqx4o7m.png"
+        },
+        {
+          "id": 9,
+          "img": {
+            "asset": "static/media/gardeniamide.7ebcce79bb3a77cdd80a.jpg"
+          },
+          "title": "Gardeniamide",
+          "link": "gardeniamide",
+          "subTitle": "Gardamide",
+          "about": "With a grapefruit citrus    heartnote and rhubarb,    Gardeniamide works well with other green citrus    notes, adding a long lasting citrus effect.",
+          "chemicalName": "N,2-Dimethyl-Nphenylbutyramide",
+          "formula": "C12H17NO",
+          "caseNo": "84434-18-4",
+          "FEMA": "3241",
+          "TENACITYHour": ">72",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/GardeniamideChem.117796b1204cf79d97d1.png"
+          }
+        },
+        {
+          "id": 10,
+          "img": {
+            "asset": "static/media/gracazine.c0c39a97ac3c349667a6.jpg"
+          },
+          "title": "Grecazine",
+          "link": "grecazine",
+          "subTitle": "Verdoracine",
+          "about": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes.",
+          "chemicalName": "4-isopropyl-1-methyl-2-(prop-1-enyl)benzene",
+          "formula": "C13H18",
+          "caseNo": "14374-92-6",
+          "FEMA": "",
+          "TENACITYHour": "24",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/GrecazineChem.f5b17b4a945a7f60a9c2.png"
+          }
+        },
+        {
+          "id": 13,
+          "img": {
+            "asset": "static/media/Hijacynth.68c38c00958e76bec2f4.jpg"
+          },
+          "title": "Hijacynth",
+          "link": "hijacynth",
+          "subTitle": "Jacinthaflor",
+          "about": "A powerful floral note in thedirection of Jasmine and Hyacinth, animalic as well in character.",
+          "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+          "formula": "C10H12O2",
+          "caseNo": "33941-99-0    ",
+          "FEMA": "",
+          "TENACITYHour": "10",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/HijacynthChem.d4e97b6b66a75a5c2331.png"
+          }
+        },
+        {
+          "id": 14,
+          "img": {
+            "asset": "static/media/Hyacinth Acetal.fe59a3d03a152c3ba50e.jpg"
+          },
+          "title": "Hyacinth Acetal",
+          "link": "hyacinth-acetal",
+          "subTitle": "Acetal CD",
+          "about": "Common notes of floral    green, honey, rose and tea, the odour of Hyacinth Acetal is dry and leafy, while the flavour is aromatically herbal.",
+          "chemicalName": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+          "formula": "C11H14O3",
+          "caseNo": " 29895-73-6  ",
+          "FEMA": "2877",
+          "TENACITYHour": ">48",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661380/petrose%20files/chem%20diagrams/aa1651ofw1yicrspjplq.png"
+        },
+        {
+          "id": 15,
+          "img": {
+            "asset": "static/media/Jasnoate.1ad645160a185150ae53.jpg"
+          },
+          "title": "Jasnoate",
+          "link": "jasnoate",
+          "subTitle": "Gelsone",
+          "about": "Very jasmin-like, with a wine bouquet and fruity undertones.",
+          "chemicalName": "Ethyl 2-acetyloctanoate",
+          "formula": "C12H22O3",
+          "caseNo": " 29214-60-6  ",
+          "FEMA": "4459",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "Ur",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661378/petrose%20files/chem%20diagrams/oscx4g3klpf4zovcz7bh.jpg"
+        },
+        {
+          "id": 16,
+          "img": {
+            "asset": "static/media/Laval.fa5a74df90e437afc076.jpg"
+          },
+          "title": "Laval",
+          "link": "laval",
+          "subTitle": "Lavender Aldehyde",
+          "about": "A powerful, diffusing herbaceous odour, LOVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry,cranberry and chocolate.",
+          "chemicalName": "Isodihydrolavandulal",
+          "formula": "C10H18O",
+          "caseNo": "  35158-25-9 ",
+          "FEMA": "3406",
+          "TENACITYHour": "8-10",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/LavalChem.efcb0a9e4bd5009be76d.png"
+          }
+        },
+        {
+          "id": 17,
+          "img": {
+            "asset": "static/media/Megavanil.1e6b9338a453e7bc736b.jpg"
+          },
+          "title": "Megavanil ",
+          "link": "megavanil",
+          "subTitle": "Ultravanil",
+          "about": "Magavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+          "chemicalName": "2-ethoxy-4-Methylphenol",
+          "formula": "C9H12O2",
+          "caseNo": "  25265-71-8/2563-07-7",
+          "FEMA": "",
+          "TENACITYHour": ">350",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/MegavanilChem.1e9873bbdffec5ccd423.png"
+          }
+        },
+        {
+          "id": 19,
+          "img": {
+            "asset": "static/media/Methyl-3-Nonanoate.cb4a244d26caa6ab094f.jpg"
+          },
+          "title": "Methyl-3-Nonenoate ",
+          "link": "methyl-3-nonenoate",
+          "subTitle": "Methyl-3-Nonenoate",
+          "about": "An intense fresh, fruity,    green odor with cucumber    undrtones, with a varying    tropical taste resembling melons and apples.",
+          "chemicalName": "Methyl-3-nonenoate",
+          "formula": "C10H18O2",
+          "caseNo": "  13481-87-3",
+          "FEMA": " 3710",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/MethylChem.987fb63cc8fab4b35299.png"
+          }
+        },
+        {
+          "id": 20,
+          "img": {
+            "asset": "static/media/Neroli Ketone.f784a59c387568ddff1d.jpg"
+          },
+          "title": "Neroli Ketone",
+          "link": "neroli-ketone",
+          "subTitle": "Nerone",
+          "about": "A powerfully diffusive note of Neroli together with the dry freshness of the greens.",
+          "chemicalName": "1-(2-methyl-5-propan-2-yl-1-cyclohex-2-enyl)propan-1-one",
+          "formula": "C13H22O",
+          "caseNo": " - 31375-17-4",
+          "FEMA": "",
+          "TENACITYHour": ">30",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/NeroliChem.df8409b785ccad655788.png"
+          }
+        },
+        {
+          "id": 22,
+          "img": {
+            "asset": "static/media/Newfoleon.28b9e54ce695a79ee8c6.jpg"
+          },
+          "title": "Newfoleon",
+          "link": "newfoleon",
+          "subTitle": "Neofolione/ Novafoleon",
+          "about": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably",
+          "chemicalName": "Methyl-2-nonenoate",
+          "formula": "C10H18O2",
+          "caseNo": " 111-79-5 ",
+          "FEMA": " 2725",
+          "TENACITYHour": "15",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696661379/petrose%20files/chem%20diagrams/u8peviyukazmvxwvkfrx.jpg"
+        },
+        {
+          "id": 23,
+          "img": {
+            "asset": "static/media/nutclone one.8ce1fd10daba8bbd5985.jpg"
+          },
+          "title": "Nutclone One  ",
+          "link": "nutclone-one",
+          "subTitle": "Nutty Cyclohexanone",
+          "about": "A powerful nutty, caramel-like odor.",
+          "chemicalName": "3-methyl-2-cyclohexanone",
+          "formula": "C7H10O",
+          "caseNo": " C7H10O",
+          "FEMA": " 3360",
+          "TENACITYHour": "24",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "inline/module-8320.png"
+          }
+        },
+        {
+          "id": 24,
+          "img": {
+            "asset": "static/media/Orrisnitril.5032c94d1385727c9b48.jpg"
+          },
+          "title": "Orrisnitrile",
+          "link": "orrisnitrile",
+          "subTitle": "Irisnitrile",
+          "about": "Strengthens orris and violet flower notes, with green    fatty floral tones",
+          "chemicalName": "2-nonene nitrile",
+          "formula": "C9H15N",
+          "caseNo": " 29127-83-1    ",
+          "FEMA": "",
+          "TENACITYHour": "48",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "inline/module-4636.png"
+          }
+        },
+        {
+          "id": 25,
+          "img": {
+            "asset": "static/media/Para Propyl Phenol.1fcc094683c87aed4fc0.jpg"
+          },
+          "title": "Para Propyl Phenol",
+          "link": "para-propyl-phenol",
+          "subTitle": "Para Propyl Phenol",
+          "about": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky",
+          "chemicalName": "4-Propylphenol",
+          "formula": "C9H12O",
+          "caseNo": " 645-56-7   ",
+          "FEMA": "3649",
+          "TENACITYHour": "10",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/gywmuyezkm2hfrdgxrfm.png"
+        },
+        {
+          "id": 27,
+          "img": {
+            "asset": "static/media/Prosethyl.f3665bad2cae4f5629a4.jpg"
+          },
+          "title": "Prosethyl",
+          "link": "prosethyl",
+          "subTitle": "Rosethyl",
+          "about": "Rosy note with green, earthy, spicy and honey    undertones.",
+          "chemicalName": "1-(Ethoxymethyl)-2-    methoxybenzene",
+          "formula": "C10H14O2",
+          "caseNo": " 64988-06-03",
+          "FEMA": "",
+          "TENACITYHour": ">48",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789452/petrose%20files/chem%20diagrams/k8omv9eeavjuf5owghw2.png"
+        },
+        {
+          "id": 29,
+          "img": {
+            "asset": "static/media/Phenyl Ethyl Propionate.9bb6cb603628337cfcc8.jpg"
+          },
+          "title": "Phenyl Ethyl Propionate",
+          "link": "phenyl-ethyl-propionate",
+          "subTitle": "Phenyl Ethyl Propionate",
+          "about": "Like other phenolics, Phenyl Ethyl Propionate ha fruity, honeyed and slightly spicy odour.",
+          "chemicalName": "Phenyl Ethyl Propionate",
+          "formula": "C11H14O2",
+          "caseNo": " 122-70-3",
+          "FEMA": "2867",
+          "TENACITYHour": "96",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789452/petrose%20files/chem%20diagrams/ykxyov0rt2dht8ovtlxx.png"
+        },
+        {
+          "id": 30,
+          "img": {
+            "asset": "static/media/Rhumytal.c57c67e5959348aefaa9.jpg"
+          },
+          "title": "Rhumytal",
+          "link": "rhumytal",
+          "subTitle": "Rhum Acetal",
+          "about": "Rummy-tobacco like, with fruity notes and woody undertones.",
+          "chemicalName": "Cyclohexanone Diethyl Acetal",
+          "formula": "C10H20O2",
+          "caseNo": "1670-47-9",
+          "FEMA": "4516",
+          "TENACITYHour": ">24",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/RhumytalChem.232203093e71137367a4.png"
+          }
+        },
+        {
+          "id": 32,
+          "img": {
+            "asset": "static/media/Vanilathon.ccf86160d20edad58d8c.jpg"
+          },
+          "title": "Vanilathon",
+          "link": "vanilathon",
+          "subTitle": "Creosol",
+          "about": "A modifier in floral, leathery and animalic compositions,    Vanilathon is a spicy vanila note with leather like hints and balsamin undertone.",
+          "chemicalName": "2-methoxy-4-methylphenol",
+          "formula": " C8H10O2",
+          "caseNo": "93-51-6",
+          "FEMA": "2671",
+          "TENACITYHour": "24",
+          "foodGradeUrl": {
+            "ref": "Dr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/kvbq0ivsoy50vrcybp63.png"
+        },
+        {
+          "id": 34,
+          "img": {
+            "asset": "static/media/Whiskey 91.ac3e644556b98c70476c.jpg"
+          },
+          "title": "Whiskey 91",
+          "link": "whiskey-91",
+          "subTitle": "Whiskey Lactone",
+          "about": "With a tonka type odor of    coumarin, coconut, maple, toasted nuts with a burnt    character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances.",
+          "chemicalName": "5-butyl-4-methyloxolan-2-one",
+          "formula": "  C9H16O2",
+          "caseNo": "39212-23-2",
+          "FEMA": "3803",
+          "TENACITYHour": "60",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": {
+            "asset": "static/media/WhiskeyChem.2e36d4fa632c98d2e7f0.png"
+          }
+        },
+        {
+          "id": 35,
+          "img": {
+            "asset": "static/media/White Tuberose.e1d2b2b8411e1751b239.jpg"
+          },
+          "title": "White Tuberose",
+          "link": "white-tuberose",
+          "subTitle": "Methyl Tuberate",
+          "about": "Methyl Tuberate is a    powerful modifier to floral    accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance.",
+          "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+          "formula": "C10H18O2",
+          "caseNo": "33673-62-0",
+          "FEMA": "",
+          "TENACITYHour": "160",
+          "foodGradeUrl": {
+            "ref": "Mr",
+            "ambiguous": 2
+          },
+          "chemicalUrl": "https://res.cloudinary.com/dwevw3pnz/image/upload/v1696789454/petrose%20files/chem%20diagrams/rkjfxp8fgei3hzncev1w.png"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "start": 417506,
+      "keys": [
+        "id",
+        "link",
+        "keyword",
+        "titleTag",
+        "description"
+      ],
+      "count": 12,
+      "items": [
+        {
+          "id": 1,
+          "link": "anethole-supplier-usa",
+          "keyword": "Anethole for Oral Care Products, Anethole supplier, Anethole for toothpaste, Anethole for oral care, Anethole for confectionery, Anethole for liquor, Anethole USA, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Toothpaste Flavoring Agent Anethole, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Supplier USA | Toothpaste | Oral Care | Confectionery | Liquor",
+          "description": "Buy premium Anethole for use in toothpaste, oral care, confectionery, and liquor applications. Exporting to USA"
+        },
+        {
+          "id": 2,
+          "link": "anethole-for-oral-care-usa",
+          "keyword": "Anethole for oral care, Anethole USA, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Oral Care USA | Natural Sweetener | Aromatic Agent",
+          "description": "Buy premium Anethole for oral care applications. Exporting to USA"
+        },
+        {
+          "id": 3,
+          "link": "anethole-for-confectionery-usa",
+          "keyword": "Anethole for confectionery, Anethole USA, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Confectionery USA | Flavoring Agent | Natural Sweetener",
+          "description": "Buy premium Anethole for confectionery applications. Exporting to USA"
+        },
+        {
+          "id": 4,
+          "link": "anethole-for-liquor-usa",
+          "keyword": "Anethole for liquor, Anethole USA, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Liquor USA | Aromatic Compound | Liquor Flavoring",
+          "description": "Buy premium Anethole for liquor applications. Exporting to USA"
+        },
+        {
+          "id": 5,
+          "link": "anethole-supplier-uk",
+          "keyword": "Anethole for Oral Care Products, Anethole supplier, Anethole for toothpaste, Anethole for oral care, Anethole for confectionery, Anethole for liquor, Anethole UK, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Toothpaste Flavoring Agent Anethole, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Supplier UK | Toothpaste | Oral Care | Confectionery | Liquor",
+          "description": "Buy premium Anethole for use in toothpaste, oral care, confectionery, and liquor applications. Exporting to UK"
+        },
+        {
+          "id": 6,
+          "link": "anethole-toothpaste-flavor-uk",
+          "keyword": "Anethole for toothpaste, Anethole UK, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Toothpaste Flavor UK | Flavoring Agent | Oral Care",
+          "description": "Buy premium Anethole for toothpaste applications. Exporting to UK"
+        },
+        {
+          "id": 7,
+          "link": "anethole-confectionery-flavor-uk",
+          "keyword": "Anethole for confectionery, Anethole UK, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Confectionery Flavor UK | Natural Sweetener | Exporter",
+          "description": "Buy premium Anethole for confectionery products. Exporting to UK"
+        },
+        {
+          "id": 8,
+          "link": "anethole-liquor-flavoring-uk",
+          "keyword": "Anethole for liquor, Anethole UK, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Liquor Flavoring UK | Aromatic Compound | Liquor Use",
+          "description": "Buy premium Anethole for liquor applications. Exporting to UK"
+        },
+        {
+          "id": 9,
+          "link": "comprar-anetol-brasil",
+          "keyword": "Anethole for Oral Care Products, Anethole supplier, Anethole for toothpaste, Anethole for oral care, Anethole for confectionery, Anethole for liquor, Anethole Brazil, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Comprar Anetol Brasil | Creme Dental | Doces | Licores",
+          "description": "Compre Anetol premium para aplicações em creme dental, cuidados orais, confeitaria e licores. Exportação para o Brasil"
+        },
+        {
+          "id": 10,
+          "link": "anetol-para-creme-dental-brasil",
+          "keyword": "Anethole for toothpaste, Anethole Brazil, flavoring agent, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Creme Dental Brasil | Saborizante Natural | Aromático",
+          "description": "Compre Anetol para creme dental. Exportação para o Brasil"
+        },
+        {
+          "id": 11,
+          "link": "anetol-para-doces-brasil",
+          "keyword": "Anethole for confectionery, Anethole Brazil, flavoring agent, aromatic compound, natural sweetener, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Doces Brasil | Agente Saborizante | Composto Aromático",
+          "description": "Compre Anetol para confeitaria. Exportação para o Brasil"
+        },
+        {
+          "id": 12,
+          "link": "anetol-para-licores-brasil",
+          "keyword": "Anethole for liquor, Anethole Brazil, flavoring agent, aromatic compound, Anethole exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Licores Brasil | Sabor e Aroma Natural | Exportação",
+          "description": "Compre Anetol para licores. Exportação para o Brasil"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "start": 424420,
+      "keys": [
+        "id",
+        "link",
+        "keyword",
+        "titleTag",
+        "description"
+      ],
+      "count": 16,
+      "items": [
+        {
+          "id": 13,
+          "link": "anethol-lieferant-deutschland",
+          "keyword": "Anethol Deutschland, Anethol Lieferant, Anethol für Zahnpasta, Anethol für Süßwaren, Anethol für Spirituosen, Aromastoff, Süßungsmittel, Anethol Exporteur, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethol Lieferant Deutschland | Zahnpasta | Süßwaren | Spirituosen",
+          "description": "Premium Anethol für Zahnpasta, Süßwaren und Spirituosen. Export nach Deutschland"
+        },
+        {
+          "id": 14,
+          "link": "anethol-fur-zahnpasta-deutschland",
+          "keyword": "Anethol Zahnpasta Deutschland, Aromastoff, natürliches Süßungsmittel, Anethol Exporteur, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethol für Zahnpasta Deutschland | Natürliches Aroma | Süßungsmittel",
+          "description": "Kaufen Sie hochwertiges Anethol für Zahnpasta. Export nach Deutschland"
+        },
+        {
+          "id": 15,
+          "link": "anethol-fur-susswaren-deutschland",
+          "keyword": "Anethol für Süßwaren, Anethol Deutschland, Aromastoff, natürliches Süßungsmittel, Anethol Lieferant, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethol für Süßwaren Deutschland | Aroma für Süßigkeiten",
+          "description": "Anethol zum Aromatisieren von Süßwaren. Export nach Deutschland"
+        },
+        {
+          "id": 16,
+          "link": "anethol-fur-spirituosen-deutschland",
+          "keyword": "Anethol Spirituosen Deutschland, Aromastoff, Anethol für Liköre, Anethol Exporteur, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethol für Spirituosen Deutschland | Aroma & Geschmack",
+          "description": "Hochwertiges Anethol für Spirituosen. Export nach Deutschland"
+        },
+        {
+          "id": 17,
+          "link": "anetol-dostawca-polska",
+          "keyword": "Anetol Polska, Dostawca Anetolu, Anetol do pasty do zębów, Anetol do słodyczy, Anetol do alkoholu, Naturalny aromat, Eksporter Anetolu, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol Dostawca Polska | Pasta do zębów | Słodycze | Alkohol",
+          "description": "Kup najwyższej jakości Anetol do produktów higieny jamy ustnej, słodyczy i alkoholu. Eksport do Polski"
+        },
+        {
+          "id": 18,
+          "link": "anetol-do-pasty-do-zebow",
+          "keyword": "Anetol pasta do zębów Polska, Naturalny aromat, Eksporter Anetolu, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol do Pasty do Zębów Polska | Naturalny Aromat",
+          "description": "Najlepszy Anetol do pasty do zębów. Eksport do Polski"
+        },
+        {
+          "id": 19,
+          "link": "anetol-cukierki-polska",
+          "keyword": "Anetol słodycze Polska, Aromat do cukierków, Dostawca Anetolu, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol do Cukierków Polska | Słodycze | Aromatyzacja",
+          "description": "Anetol jako aromat do cukierków i słodyczy. Eksport do Polski"
+        },
+        {
+          "id": 20,
+          "link": "anetol-do-alkoholu-polska",
+          "keyword": "Anetol alkohol Polska, Anetol do likierów, Aromat naturalny, Eksporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol do Alkoholu Polska | Naturalny Aromat do Likierów",
+          "description": "Kup Anetol do zastosowania w alkoholach. Eksport do Polski"
+        },
+        {
+          "id": 21,
+          "link": "fournisseur-anethole-france",
+          "keyword": "Fournisseur Anéthole France, Anéthole pour dentifrice, confiserie, liqueurs, arôme naturel, édulcorant naturel, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Fournisseur d’Anéthole France | Dentifrice | Confiserie | Liqueurs",
+          "description": "Achetez de l’anéthole premium pour dentifrice, confiserie et liqueurs. Export vers la France"
+        },
+        {
+          "id": 22,
+          "link": "anethole-dentifrice-france",
+          "keyword": "Anéthole dentifrice France, arôme naturel, édulcorant naturel, fournisseur anéthole, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anéthole pour Dentifrice France | Arôme Naturel",
+          "description": "Achetez de l’anéthole pour dentifrice. Export vers la France"
+        },
+        {
+          "id": 23,
+          "link": "anethole-confiserie-france",
+          "keyword": "Anéthole confiserie France, arôme, édulcorant, fournisseur d’anéthole, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anéthole pour Confiserie France | Arôme Doux Naturel",
+          "description": "Utilisez de l’anéthole pour les confiseries. Export vers la France"
+        },
+        {
+          "id": 24,
+          "link": "anethole-liqueurs-france",
+          "keyword": "Anéthole liqueurs France, arôme, fournisseur d’anéthole, exportateur, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anéthole pour Liqueurs France | Arôme pour Alcools",
+          "description": "Anéthole pour applications en liqueurs. Export vers la France"
+        },
+        {
+          "id": 25,
+          "link": "proveedor-anetol-mexico",
+          "keyword": "Anetol México, proveedor de anetol, saborizante natural, compuesto aromático, anetol dentífrico, confitería, licores, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Proveedor de Anetol México | Pasta Dental | Confitería | Licores",
+          "description": "Compra anetol de alta calidad para pasta dental, confitería y licores. Exportación a México"
+        },
+        {
+          "id": 26,
+          "link": "anetol-pasta-dental-mexico",
+          "keyword": "Anetol pasta dental México, saborizante natural, proveedor de anetol, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Pasta Dental México | Compuesto Aromático",
+          "description": "Compra anetol para uso en pastas dentales. Exportación a México"
+        },
+        {
+          "id": 27,
+          "link": "anetol-confiteria-mexico",
+          "keyword": "Anetol confitería México, dulces, saborizante, proveedor anetol, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Confitería México | Saborizante para Dulces",
+          "description": "Anetol para uso en productos de confitería. Exportación a México"
+        },
+        {
+          "id": 28,
+          "link": "anetol-licores-mexico",
+          "keyword": "Anetol licores México, proveedor anetol, compuesto aromático, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Licores México | Sabor Natural para Bebidas",
+          "description": "Compra anetol para uso en bebidas alcohólicas. Exportación a México"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "start": 432856,
+      "keys": [
+        "id",
+        "link",
+        "keyword",
+        "titleTag",
+        "description"
+      ],
+      "count": 16,
+      "items": [
+        {
+          "id": 29,
+          "link": "proveedor-anetol-espana",
+          "keyword": "Anetol España, proveedor anetol, saborizante natural, cuidado oral, confitería, bebidas alcohólicas, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Proveedor de Anetol España | Cuidado Oral | Dulces | Bebidas",
+          "description": "Anetol premium para productos dentales, dulces y bebidas alcohólicas. Exportación a España"
+        },
+        {
+          "id": 30,
+          "link": "anetol-cuidado-oral-espana",
+          "keyword": "Anetol cuidado oral España, dentífrico, aroma natural, exportador anetol, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Cuidado Oral España | Saborizante Natural",
+          "description": "Compra anetol para dentífricos y productos de higiene oral. Exportación a España"
+        },
+        {
+          "id": 31,
+          "link": "anetol-dulces-espana",
+          "keyword": "Anetol dulces España, confitería, saborizante, aroma natural, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Dulces España | Confitería Aromatizada",
+          "description": "Anetol para aplicaciones en confitería. Exportación a España"
+        },
+        {
+          "id": 32,
+          "link": "anetol-bebidas-alcoholicas-espana",
+          "keyword": "Anetol bebidas alcohólicas España, saborizante natural, licores, proveedor anetol, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol para Bebidas Alcohólicas España | Licores | Sabor Natural",
+          "description": "Anetol para bebidas y licores. Exportación a España"
+        },
+        {
+          "id": 33,
+          "link": "fornitore-anetolo-italia",
+          "keyword": "Anetolo Italia, fornitore anetolo, aroma dentifricio, dolciumi, liquori, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Fornitore di Anetolo Italia | Dentifrici | Dolciumi | Liquori",
+          "description": "Acquista anetolo per prodotti dentali, dolciumi e liquori. Esportazione in Italia"
+        },
+        {
+          "id": 34,
+          "link": "anetolo-dentifricio-italia",
+          "keyword": "Anetolo dentifricio Italia, aroma naturale, fornitore anetolo, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetolo per Dentifricio Italia | Aroma Naturale",
+          "description": "Anetolo di alta qualità per dentifrici. Esportazione in Italia"
+        },
+        {
+          "id": 35,
+          "link": "anetolo-dolciumi-italia",
+          "keyword": "Anetolo dolciumi Italia, aroma dolce, fornitore di anetolo, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetolo per Dolciumi Italia | Sapore Dolce Naturale",
+          "description": "Anetolo ideale per dolciumi e caramelle. Esportazione in Italia"
+        },
+        {
+          "id": 36,
+          "link": "anetolo-liquori-italia",
+          "keyword": "Anetolo liquori Italia, aroma liquori, sapore anice, esportatore anetolo, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetolo per Liquori Italia | Aroma per Bevande Alcoliche",
+          "description": "Anetolo per aromatizzare liquori e bevande. Esportazione in Italia"
+        },
+        {
+          "id": 37,
+          "link": "anethole-flavor-belgium",
+          "keyword": "Anethole Belgium, natural flavor, aroma supplier, confectionery, liquor flavor, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Supplier Belgium | Flavor for Toothpaste, Sweets, Liquors",
+          "description": "Buy high-grade anethole flavoring for various industries. Export to Belgium"
+        },
+        {
+          "id": 38,
+          "link": "anethole-oral-care-belgium",
+          "keyword": "Anethole oral care Belgium, flavoring for toothpaste, natural flavor, export, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Oral Care Belgium | Natural Flavoring",
+          "description": "Anethole used in toothpaste and oral hygiene products. Export to Belgium"
+        },
+        {
+          "id": 39,
+          "link": "anethole-confectionery-belgium",
+          "keyword": "Anethole confectionery Belgium, sweet flavoring, natural aroma, food grade, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Confectionery Belgium | Sweet Flavor for Candy",
+          "description": "Get food-grade anethole for confectionery use. Export to Belgium"
+        },
+        {
+          "id": 40,
+          "link": "anethole-liquor-flavor-belgium",
+          "keyword": "Anethole liquor Belgium, natural flavoring, aromatic compound, drink flavor, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Liquor Flavor Belgium | Drinks & Spirits",
+          "description": "Anethole for alcoholic drinks and liqueurs. Export to Belgium"
+        },
+        {
+          "id": 41,
+          "link": "anethole-supplier-netherlands",
+          "keyword": "Anethole Netherlands, supplier, flavoring, aroma, export, toothpaste, candy, drinks, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Supplier Netherlands | Export for Food & Pharma",
+          "description": "Buy premium anethole for use in oral care, confectionery, and liquor. Export to Netherlands"
+        },
+        {
+          "id": 42,
+          "link": "anethole-toothpaste-netherlands",
+          "keyword": "Anethole toothpaste Netherlands, oral care, aroma compound, exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Toothpaste Netherlands | Oral Care Flavor",
+          "description": "Anethole ideal for toothpaste and oral hygiene products. Export to Netherlands"
+        },
+        {
+          "id": 43,
+          "link": "anethole-candy-flavor-netherlands",
+          "keyword": "Anethole candy Netherlands, confectionery flavor, sweet aroma, supplier, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Candy Flavor Netherlands | Sweet Aroma",
+          "description": "Confectionery-grade anethole for sweets and candies. Export to Netherlands"
+        },
+        {
+          "id": 44,
+          "link": "anethole-liquor-netherlands",
+          "keyword": "Anethole liquor Netherlands, flavor for alcohol, natural compound, aromatic, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Liquor Netherlands | Alcoholic Flavoring",
+          "description": "Anethole for use in flavored spirits and liquors. Export to Netherlands"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "start": 440768,
+      "keys": [
+        "id",
+        "link",
+        "keyword",
+        "titleTag",
+        "description"
+      ],
+      "count": 12,
+      "items": [
+        {
+          "id": 45,
+          "link": "anetol-dodavatel-slovensko",
+          "keyword": "Anetol Slovensko, dodávateľ, prírodná aróma, starostlivosť o ústnu dutinu, cukrovinky, alkoholické nápoje, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Dodávateľ Anetolu Slovensko | Ústna Starostlivosť | Cukrovinky | Nápoje",
+          "description": "Kúpte prémiový anetol pre zubné pasty, cukrovinky a alkoholické nápoje. Export na Slovensko"
+        },
+        {
+          "id": 46,
+          "link": "anetol-pre-zubnu-pastu",
+          "keyword": "Anetol zubná pasta Slovensko, prírodná aróma, exportér anetolu, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol pre Zubnú Pastu Slovensko | Prírodná Aróma",
+          "description": "Kvalitný anetol pre zubné pasty a ústnu hygienu. Export na Slovensko"
+        },
+        {
+          "id": 47,
+          "link": "anetol-cukrovinky-slovensko",
+          "keyword": "Anetol cukrovinky Slovensko, aróma pre sladkosti, prírodný aromatický produkt, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol pre Cukrovinky Slovensko | Prírodná Aróma",
+          "description": "Anetol pre cukrovinky a sladkosti. Export na Slovensko"
+        },
+        {
+          "id": 48,
+          "link": "anetol-napoje-slovensko",
+          "keyword": "Anetol nápoje Slovensko, aróma pre alkoholické nápoje, prírodný extrakt, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anetol pre Nápoje Slovensko | Aróma pre Alkoholické Nápoje",
+          "description": "Anetol pre alkoholické nápoje a likéry. Export na Slovensko"
+        },
+        {
+          "id": 49,
+          "link": "anethole-supplier-thailand",
+          "keyword": "Anethole Thailand, supplier, natural flavor, oral care, confectionery, liquor, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Supplier Thailand | Oral Care | Confectionery | Liquor",
+          "description": "Buy premium anethole for toothpaste, sweets, and liquor applications. Export to Thailand"
+        },
+        {
+          "id": 50,
+          "link": "anethole-oral-care-thailand",
+          "keyword": "Anethole oral care Thailand, toothpaste flavor, natural aroma, exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Oral Care Thailand | Toothpaste Flavoring",
+          "description": "High quality anethole for oral care products and toothpaste. Export to Thailand"
+        },
+        {
+          "id": 51,
+          "link": "anethole-confectionery-thailand",
+          "keyword": "Anethole confectionery Thailand, candy flavor, natural sweetener, aroma, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Confectionery Thailand | Candy Flavor",
+          "description": "Anethole for use in confectionery and candy products. Export to Thailand"
+        },
+        {
+          "id": 52,
+          "link": "anethole-liquor-thailand",
+          "keyword": "Anethole liquor Thailand, natural flavoring, aromatic compound, exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Liquor Thailand | Flavoring for Alcoholic Beverages",
+          "description": "Anethole used in liquor and alcoholic beverages. Export to Thailand"
+        },
+        {
+          "id": 53,
+          "link": "anethole-manufacturer-south-africa",
+          "keyword": "Anethole South Africa, manufacturer, natural flavor, oral care, confectionery, liquor, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole Manufacturer South Africa | Oral Care | Confectionery | Liquor",
+          "description": "Premium anethole for oral care, sweets, and liquor. Export to South Africa"
+        },
+        {
+          "id": 54,
+          "link": "anethole-toothpaste-south-africa",
+          "keyword": "Anethole toothpaste South Africa, natural flavoring, oral care, exporter, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Toothpaste South Africa | Natural Oral Care Flavor",
+          "description": "Quality anethole for toothpaste and oral hygiene. Export to South Africa"
+        },
+        {
+          "id": 55,
+          "link": "anethole-candy-south-africa",
+          "keyword": "Anethole candy South Africa, confectionery flavor, natural sweetener, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Candy South Africa | Confectionery Flavoring",
+          "description": "Anethole used in confectionery products. Export to South Africa"
+        },
+        {
+          "id": 56,
+          "link": "anethole-liquor-south-africa",
+          "keyword": "Anethole liquor South Africa, flavor for alcoholic drinks, natural aroma, Anethole, natural Anethole, Trans Anethole, Anise flavour, anise flavor, star anise oil, star anise essential oil, star anise flavor, licorice flavor, anise custome blend, fennel fragrance, fennel flavour",
+          "titleTag": "Anethole for Liquor South Africa | Alcoholic Beverage Flavor",
+          "description": "Anethole flavoring for liquors and spirits. Export to South Africa"
+        }
+      ]
+    }
+  ]
+}
