@@ -20,9 +20,19 @@
       "Petorose Alcones develops these chemicals under the supervision of highly qualified scientists and lab experts, manufactured in an all-compliant international-grade facility. The company also ensures the availability of certifications like Kosher and Halal on a product-to-product basis."
     ],
     "claims": [
-      { "claim": "India’s first manufacturer of purest Anethole", "source": "website /about" },
-      { "claim": "Part of a 40 years old business group", "source": "website /about", "flag": "Catalogue says the management has 'roots in the early 1970s' (50+ years). Confirm which figure to use." },
-      { "claim": "Having pioneered the mint industry", "source": "catalogue p.1 (About)" }
+      {
+        "claim": "India’s first manufacturer of purest Anethole",
+        "source": "website /about"
+      },
+      {
+        "claim": "Part of a 40 years old business group",
+        "source": "website /about",
+        "flag": "Catalogue says the management has 'roots in the early 1970s' (50+ years). Confirm which figure to use."
+      },
+      {
+        "claim": "Having pioneered the mint industry",
+        "source": "catalogue p.1 (About)"
+      }
     ]
   },
   "group": {
@@ -30,9 +40,18 @@
     "url": "https://banwari.org/",
     "basedIn": "New Delhi, India",
     "groupCompanies": [
-      { "name": "Banwari", "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file" },
-      { "name": "Sampe", "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file", "description": "TODO: no information beyond the logo" },
-      { "name": "Petorose Alcones" }
+      {
+        "name": "Banwari",
+        "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file"
+      },
+      {
+        "name": "Sampe",
+        "logo": "TODO: logo only appears inside the catalogue PDF (back cover); no standalone file",
+        "description": "TODO: no information beyond the logo"
+      },
+      {
+        "name": "Petorose Alcones"
+      }
     ]
   },
   "address": {
@@ -52,42 +71,23 @@
     "geo": "TODO: exact coordinates or Google Maps place link for the embedded map"
   },
   "phones": [
-    { "display": "+91 98112 90445", "e164": "+919811290445" },
-    { "display": "+91 88606 09772", "e164": "+918860609772" }
+    {
+      "display": "+91 98112 90445",
+      "e164": "+919811290445"
+    },
+    {
+      "display": "+91 88606 09772",
+      "e164": "+918860609772"
+    }
   ],
   "email": "contact@petorosealcones.com",
   "website": "https://www.petorosealcones.com",
   "whatsapp": {
-    "number": "TODO: no WhatsApp number is published. The old site's WhatsApp button only asked visitors for their own WhatsApp number (posted to /api/v1/whatsapp). Confirm which number should receive WhatsApp chats.",
-    "candidates": ["+919811290445", "+918860609772"]
+    "number": "+919811290445",
+    "display": "+91 98112 90445",
+    "note": "Same number as the first listed phone, per Keshav Gupta (2026-11-24)."
   },
   "certifications": [
-    {
-      "id": "fda",
-      "name": "US FDA Registration",
-      "listedOnWebsiteAs": "FDA",
-      "listedInCatalogue": false,
-      "issuer": "Willow Glen Consultancy LLC (US agent, private; not affiliated with the US FDA)",
-      "number": "17306564766",
-      "details": "Registered with the US Food and Drug Administration pursuant to the Bioterrorism Act of 2002 and the Food Safety Modernization Act. Willow Glen Number WG2072609.",
-      "issued": "2023-11-11",
-      "validUntil": "2024-12-31",
-      "file": "/assets/certificates/fda-papl.pdf",
-      "status": "EXPIRED on the copy published (expiration 31 Dec 2024). TODO: current registration."
-    },
-    {
-      "id": "halal",
-      "name": "Halal",
-      "listedOnWebsiteAs": "HALAL",
-      "listedInCatalogue": true,
-      "issuer": "Indian Halal Services, in association with The Muslim Chamber of Commerce India",
-      "number": "2109/08/23",
-      "issued": "2023-08-09",
-      "validUntil": "2025-08-08",
-      "scope": "53 listed products (see content/certified-products.json)",
-      "file": "/assets/certificates/halal-papl.pdf",
-      "status": "EXPIRED on the copy published (validity 08/08/2025). TODO: current certificate."
-    },
     {
       "id": "iso-9001",
       "name": "ISO 9001:2015 Quality Management System",
@@ -100,20 +100,15 @@
       "initialRegistration": "2023-01-11",
       "validUntil": "2026-01-10",
       "file": "/assets/certificates/iso-9001-papl.pdf",
-      "status": "EXPIRED on the copy published (expiry 10 Jan 2026). TODO: current certificate."
-    },
-    {
-      "id": "iso-14001",
-      "name": "ISO 14001:2015 Environmental Management Systems",
-      "listedOnWebsiteAs": "ISO 14001",
-      "listedInCatalogue": false,
-      "issuer": "Royal Assessments Pvt. Ltd. (RAPL), accredited by EGAC (IAF MLA)",
-      "number": "E2023115636",
-      "scope": "Manufacturer of essential oils and aromatic chemicals",
-      "issued": "2023-11-22",
-      "validUntil": "2026-11-21",
-      "file": "/assets/certificates/iso-14001-papl.pdf",
-      "status": "EXPIRED on the copy published (valid until 21 Nov 2026). TODO: renewed certificate."
+      "status": "EXPIRED on the copy published (expiry 10 Jan 2026). TODO: current certificate.",
+      "display": {
+        "title": "ISO 9001:2015",
+        "subtitle": "Quality management system",
+        "issuerPublic": "QRO",
+        "scopePublic": "Manufacturer of essential oils and aromatic chemicals",
+        "thumb": "/assets/img/certificates/iso-9001.jpg",
+        "numberPublic": "305023011113Q"
+      }
     },
     {
       "id": "iso-22000",
@@ -126,7 +121,36 @@
       "issued": "2023-09-14",
       "validUntil": "2026-09-13",
       "file": "/assets/certificates/iso-22000-papl.pdf",
-      "status": "EXPIRED on the copy published (expiry 13 Sep 2026). TODO: renewed certificate."
+      "status": "EXPIRED on the copy published (expiry 13 Sep 2026). TODO: renewed certificate.",
+      "display": {
+        "title": "ISO 22000:2018",
+        "subtitle": "Food safety management system",
+        "issuerPublic": "QRO",
+        "scopePublic": "Manufacturer of essential oils and aromatic chemicals",
+        "thumb": "/assets/img/certificates/iso-22000.jpg",
+        "numberPublic": "305023091406F"
+      }
+    },
+    {
+      "id": "iso-14001",
+      "name": "ISO 14001:2015 Environmental Management Systems",
+      "listedOnWebsiteAs": "ISO 14001",
+      "listedInCatalogue": false,
+      "issuer": "Royal Assessments Pvt. Ltd. (RAPL), accredited by EGAC (IAF MLA)",
+      "number": "E2023115636",
+      "scope": "Manufacturer of essential oils and aromatic chemicals",
+      "issued": "2023-11-22",
+      "validUntil": "2026-11-21",
+      "file": "/assets/certificates/iso-14001-papl.pdf",
+      "status": "EXPIRED on the copy published (valid until 21 Nov 2026). TODO: renewed certificate.",
+      "display": {
+        "title": "ISO 14001:2015",
+        "subtitle": "Environmental management system",
+        "issuerPublic": "Royal Assessments Pvt. Ltd. (EGAC accredited)",
+        "scopePublic": "Manufacturer of essential oils and aromatic chemicals",
+        "thumb": "/assets/img/certificates/iso-14001.jpg",
+        "numberPublic": "E2023115636"
+      }
     },
     {
       "id": "kosher",
@@ -139,7 +163,57 @@
       "validUntil": "2024-07-31",
       "scope": "Product list over 7 pages (see content/source/certificates/kosher.txt)",
       "file": "/assets/certificates/kosher-papl.pdf",
-      "status": "EXPIRED on the copy published (valid through 31 Jul 2024). TODO: current certificate."
+      "status": "EXPIRED on the copy published (valid through 31 Jul 2024). TODO: current certificate.",
+      "display": {
+        "title": "Kosher",
+        "subtitle": "Pareve certification",
+        "issuerPublic": null,
+        "scopePublic": "Listed aroma chemicals, essential oils and ingredients",
+        "thumb": "/assets/img/certificates/kosher.jpg",
+        "numberPublic": null
+      }
+    },
+    {
+      "id": "halal",
+      "name": "Halal",
+      "listedOnWebsiteAs": "HALAL",
+      "listedInCatalogue": true,
+      "issuer": "Indian Halal Services, in association with The Muslim Chamber of Commerce India",
+      "number": "2109/08/23",
+      "issued": "2023-08-09",
+      "validUntil": "2025-08-08",
+      "scope": "53 listed products (see content/certified-products.json)",
+      "file": "/assets/certificates/halal-papl.pdf",
+      "status": "EXPIRED on the copy published (validity 08/08/2025). TODO: current certificate.",
+      "display": {
+        "title": "Halal",
+        "subtitle": "Halal certification",
+        "issuerPublic": "Indian Halal Services, with The Muslim Chamber of Commerce India",
+        "scopePublic": "53 listed products",
+        "thumb": "/assets/img/certificates/halal.jpg",
+        "numberPublic": "2109/08/23"
+      }
+    },
+    {
+      "id": "fda",
+      "name": "US FDA Registration",
+      "listedOnWebsiteAs": "FDA",
+      "listedInCatalogue": false,
+      "issuer": "Willow Glen Consultancy LLC (US agent, private; not affiliated with the US FDA)",
+      "number": "17306564766",
+      "details": "Registered with the US Food and Drug Administration pursuant to the Bioterrorism Act of 2002 and the Food Safety Modernization Act. Willow Glen Number WG2072609.",
+      "issued": "2023-11-11",
+      "validUntil": "2024-12-31",
+      "file": "/assets/certificates/fda-papl.pdf",
+      "status": "EXPIRED on the copy published (expiration 31 Dec 2024). TODO: current registration.",
+      "display": {
+        "title": "US FDA registered",
+        "subtitle": "Food facility registration",
+        "issuerPublic": "Registered via Willow Glen Consultancy (US agent)",
+        "scopePublic": "Bioterrorism Act of 2002 and Food Safety Modernization Act",
+        "thumb": "/assets/img/certificates/fda.jpg",
+        "numberPublic": "17306564766"
+      }
     },
     {
       "id": "fssai",
@@ -147,7 +221,15 @@
       "listedOnWebsiteAs": null,
       "listedInCatalogue": true,
       "number": "TODO: FSSAI licence number (logo appears only on the catalogue back cover; no certificate file published)",
-      "file": null
+      "file": null,
+      "display": {
+        "title": "FSSAI",
+        "subtitle": "Food Safety and Standards Authority of India",
+        "issuerPublic": null,
+        "scopePublic": null,
+        "thumb": null,
+        "numberPublic": null
+      }
     }
   ],
   "catalogue": {
@@ -157,7 +239,10 @@
     "downloadName": "ProductCatalogueWeb2025",
     "pages": 44,
     "flipbook": "https://heyzine.com/flip-book/e08acd5c76.html",
-    "quote": { "text": "Perfume is a story in odor, sometimes poetry in memory.", "author": "Jean-Claude Ellena" }
+    "quote": {
+      "text": "Perfume is a story in odor, sometimes poetry in memory.",
+      "author": "Jean-Claude Ellena"
+    }
   },
   "featureVideo": {
     "file": "/assets/video/petorose-alcones-feature-video-720p.mp4",
@@ -182,8 +267,16 @@
   "homepage": {
     "heroHeading": "Innovating Aromas",
     "heroCta": "Know More",
-    "newProducts": ["hyacinth-core", "isocaproic-acid", "jalclone"],
-    "featuredProducts": ["methyl-3-nonenoate", "para-propyl-phenol", "chavibetol-50"],
+    "newProducts": [
+      "hyacinth-core",
+      "isocaproic-acid",
+      "jalclone"
+    ],
+    "featuredProducts": [
+      "methyl-3-nonenoate",
+      "para-propyl-phenol",
+      "chavibetol-50"
+    ],
     "eventBanner": {
       "image": "/assets/img/site/5march-banner-petorose.png",
       "text": "Petorose Alcones Pvt Ltd cordially invites you to XXVI FAFAI International Convention & Expo 2025, Yashobhoomi Convention Centre, New Delhi, India, 5th - 7th March 2025, Stall S8",
@@ -193,21 +286,39 @@
   "contactPage": {
     "intro": "We're here to help.",
     "formHeading": "Send your Query",
-    "formFields": ["Name", "Company/Organization", "Email", "Subject", "Message"],
-    "productEnquiryFields": ["Name", "Email", "Phone", "Message", "Product (pre-filled)"]
+    "formFields": [
+      "Name",
+      "Company/Organization",
+      "Email",
+      "Subject",
+      "Message"
+    ],
+    "productEnquiryFields": [
+      "Name",
+      "Email",
+      "Phone",
+      "Message",
+      "Product (pre-filled)"
+    ]
   },
   "logos": {
     "mark": "/assets/img/site/petroselogo.jpg",
     "wordmark": "/assets/img/site/typefacee.png",
     "footerLockup": "/assets/img/site/mono.jpg",
     "favicon": "/assets/site-meta/favicon.ico",
-    "appIcons": ["/assets/site-meta/logo192.png", "/assets/site-meta/logo512.png"],
+    "appIcons": [
+      "/assets/site-meta/logo192.png",
+      "/assets/site-meta/logo512.png"
+    ],
     "vector": "TODO: no SVG/vector logo exists in any source; request one for crisp rendering"
   },
   "footer": {
     "copyright": "©2019-2024 by Petorose Alcones Private Limited. All Rights Reserved",
     "madeIn": "Made in India",
-    "credit": { "text": "Developed and maintained by Design Avenue", "url": "http://www.designavenue.co.in/" }
+    "credit": {
+      "text": "Developed and maintained by Design Avenue",
+      "url": "http://www.designavenue.co.in/"
+    }
   },
   "seo": {
     "metaDescription": "Petorose Alcones Pvt Ltd, formerly Banwari Chemicals Pvt Ltd, is a family-owned and operated Banwari Group based in New Delhi, India.",

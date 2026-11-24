@@ -1,0 +1,2 @@
+/** Runs before first paint: saved choice, else the device's light/dark setting. */
+export const THEME_INIT_SCRIPT = `(function(){try{var s=localStorage.getItem("theme");var l=s?s==="light":matchMedia("(prefers-color-scheme: light)").matches;if(l){document.documentElement.classList.add("light");var m=document.querySelector('meta[name="theme-color"]');if(m)m.setAttribute("content","#f7f5fd")}}catch(e){}})()`;
