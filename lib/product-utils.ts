@@ -55,3 +55,26 @@ export function formulaParts(formula: string | null): { text: string; sub: boole
   if (!formula) return [];
   return formula.split(/(\d+)/).filter(Boolean).map((text) => ({ text, sub: /^\d+$/.test(text) }));
 }
+
+/**
+ * Odour-note filters. A product matches when its own description mentions one of the words,
+ * so the filter never assigns a category the sources don't state. Words match at word starts
+ * (so "rose" does not match "rosemary", nor "fruit" "grapefruit").
+ */
+export const NOTE_FILTERS: { id: string; label: string; words: string[] }[] = [
+  { id: "floral", label: "Floral", words: ["floral", "flower", "jasmin", "rose\\b", "roses", "rosy", "hyacinth", "tuberose", "neroli", "orris", "violet", "lilac", "gardenia", "osmanthus"] },
+  { id: "fruity", label: "Fruity", words: ["fruit", "peach", "melon", "apple", "blueberry", "cranberry", "berry", "berries", "coconut", "pear", "tropical"] },
+  { id: "citrus", label: "Citrus", words: ["citrus", "grapefruit", "orange", "bergamot", "lemon"] },
+  { id: "green", label: "Green & herbal", words: ["green", "herb", "basil", "tarragon", "rosemary", "lavender", "celery", "sage", "galbanum"] },
+  { id: "spicy", label: "Spicy", words: ["spic", "clove", "anis", "liquorice", "pepper"] },
+  { id: "woody", label: "Woody", words: ["wood", "sandalwood", "vetiver"] },
+  { id: "sweet", label: "Sweet & gourmand", words: ["vanilla", "caramel", "nutty", "nuts", "honey", "cocoa", "chocolate", "tonka", "rum", "maple", "creamy"] },
+  { id: "musky", label: "Musky & animalic", words: ["musk", "animalic", "leather"] },
+  { id: "marine", label: "Marine & fresh", words: ["marine", "ozonic", "watery", "fresh"] },
+];
+
+export function matchesNote(description: string | null, noteId: string): boolean {
+  const note = NOTE_FILTERS.find((n) => n.id === noteId);
+  const d = (description ?? "").toLowerCase();
+  return !!note && note.words.some((w) => new RegExp(`\\b${w}`).test(d));
+}
