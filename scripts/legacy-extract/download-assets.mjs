@@ -5,7 +5,7 @@ import path from 'path';
 const ROOT = process.argv[2];
 const OUT = path.join(ROOT, 'public/assets');
 const SITE = 'https://petorosealcones.com/';
-const { mods, arrays } = JSON.parse(fs.readFileSync('bundle-arrays.json', 'utf8'));
+const { mods } = JSON.parse(fs.readFileSync('bundle-arrays.json', 'utf8'));
 const css = fs.readFileSync('main.css', 'utf8');
 const js = fs.readFileSync('main.js', 'utf8');
 

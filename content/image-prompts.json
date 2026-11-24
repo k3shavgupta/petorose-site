@@ -1,0 +1,62 @@
+{
+  "_note": "Prompts for AI-generated mood images (scripts/generate-images.mjs). Each product's subject comes only from the odour notes in its own description in products.json. These are illustrative mood images, not photographs of Petorose products or facilities; never generate the plant, lab or people.",
+  "model": "gemini-3-pro-image",
+  "aspectRatio": "4:3",
+  "imageSize": "2K",
+  "style": "Premium editorial still-life photograph for a fine fragrance and flavour house. Soft directional window light, deep aubergine-to-lavender gradient backdrop, subtle violet rim light, shallow depth of field, rich but natural colour, crisp detail, generous negative space, minimal composition. Photorealistic. No text, no labels, no logos, no brand names, no people, no hands.",
+  "products": {
+    "altanol": "Fresh sweet basil and tarragon sprigs with a few saffron threads and myrtle leaves, a single drop of clear oil on a glass surface",
+    "anethole": "Star anise pods, anise seeds and a sliced sweet fennel bulb arranged on a glass plate, a clear drop of oil catching the light",
+    "arednitryl": "Rosemary sprigs and lavender stems with a thin twist of fresh lemon peel, crisp and herbaceous",
+    "caprifloren": "Ripe peach halves and a split coconut beside white blossoms, soft creamy light",
+    "celerytone": "Crisp green celery stalks with leaves, a few basil and tarragon leaves, glistening with water droplets",
+    "chavibetol-50": "Glossy heart-shaped betel leaves, fresh and green, with a single drop of golden essential oil",
+    "chavicol": "Betel leaves beside a small clear glass vial of colourless liquid and a few green herb sprigs",
+    "chavicyl-acetate": "Betel leaves with warm spice accents, a small heap of cloves and pepper, moody and spicy",
+    "creamy-lactone": "Jasmine and tuberose blossoms with a sliced peach, osmanthus flowers and two tonka beans, a pour of milk forming a soft creamy swirl",
+    "ethyl-isocaproate": "A small bowl of mixed fresh fruit: green apple slices, pineapple chunks and berries, bright and juicy",
+    "fadeus": "Fresh lavender bundle beside sliced pear and a few grapes, soft and sweet",
+    "gardeniamide": "Pink grapefruit halves and bright red rhubarb stalks, fresh and zesty",
+    "grecazine": "Fresh young carrots with feathery green tops and a piece of galbanum resin on dark earth",
+    "gulabow": "Rose petals with tropical green leaves and a slice of lychee, waxy and dewy",
+    "hijacynth": "Jasmine sprigs and purple hyacinth florets, lush and intense",
+    "hyacinth-acetal": "Dried rose petals, a lilac sprig, a hyacinth stem, a spoon of honey and loose black tea leaves",
+    "hyacinth-core": "Purple and pink hyacinth flowers with sweet pea blossoms and violet leaves",
+    "isocaproic-acid": "A wedge of aged cheese and a small dish of butter on a wooden board, warm and rustic",
+    "jalclone": "Clear water splash and droplets over a pale aqua surface, ozonic and marine, sea spray in the air",
+    "jasnoate": "White jasmine flowers with a glass of white wine and a few green grapes",
+    "laval": "Lavender stems, clary sage leaves and a bergamot half, dusted cocoa powder, blueberries and cranberries",
+    "megavanil": "Split vanilla pods with glistening seeds and a small dish of vanilla absolute",
+    "methyl-3-nonenoate": "Sliced cantaloupe melon, green apple and cucumber slices, fresh and dewy",
+    "muscomme-w": "Soft white cotton fluff and white powder with a few pale pear slices, clean and creamy",
+    "narangama": "Orange, bergamot and grapefruit slices with white neroli orange blossoms",
+    "neroli-ketone": "White neroli orange blossoms with fresh green leaves and stems",
+    "newfoleon": "Fresh green leaves and stems around a few soft pastel flowers, airy and fresh",
+    "nutclone-one": "Toasted hazelnuts and almonds with a ribbon of golden caramel",
+    "orrisnitrile": "Iris flowers and violets with a piece of dried orris root",
+    "palsantol": "Polished sandalwood chips and a sandalwood log section, warm and creamy",
+    "para-propyl-phenol": "Whole cloves, a few wisps of smoke and dark leather, with a piece of oud wood",
+    "phenyl-ethyl-propionate": "A honeycomb dripping honey beside sliced fruit and a pinch of warm spice",
+    "prosethyl": "Deep red rose with green stems, dark earth, a drizzle of honey and a few peppercorns",
+    "rhumytal": "Golden rum in a glass, dried tobacco leaves, dried fruit and an oak stave",
+    "val-acetate": "Vetiver roots, pink grapefruit, rhubarb stalks and green peppercorns",
+    "valakon": "Vetiver roots with white gardenia flowers and a few wood shavings",
+    "vanilathon": "Vanilla pods with a strip of dark leather and a few clove buds, warm and balsamic",
+    "whiskey-91": "Whiskey in a glass with tonka beans, coconut flakes, a drizzle of maple syrup and toasted nuts on charred oak",
+    "white-tuberose": "Fresh white tuberose flowers, waxy petals, luminous"
+  },
+  "brand": {
+    "hero-bloom": {
+      "prompt": "A single deep pink rose and a glass vial of clear aromatic oil with one drop falling, surrounded by star anise, a vanilla pod and lavender, dramatic and luxurious",
+      "aspectRatio": "4:5"
+    },
+    "oils-glassware": {
+      "prompt": "Rows of small clear glass vials and droppers holding pale gold and clear aromatic liquids, abstract and minimal, catching violet light",
+      "aspectRatio": "16:9"
+    },
+    "botanicals-flatlay": {
+      "prompt": "Flat lay of botanicals that inspire aroma chemicals: rose petals, jasmine, hyacinth, betel leaves, star anise, vanilla pods, citrus peel and sandalwood chips, arranged in a loose grid",
+      "aspectRatio": "16:9"
+    }
+  }
+}

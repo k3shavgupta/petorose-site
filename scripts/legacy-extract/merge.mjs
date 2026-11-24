@@ -87,6 +87,12 @@ const CERT_LISTINGS = {
   vanilathon: { halal: 'Methyl Guaiacol (Vanilathon)' },
   'whiskey-91': { halal: 'Methyl Octalactone (probable: Whiskey 91 is whiskey lactone, 5-butyl-4-methyloxolan-2-one)' },
 };
+// Product remarks spoken in the feature video (content/source/video-transcript.txt), verbatim.
+const VIDEO_NOTES = {
+  'chavibetol-50': { note: 'A key component of Betel leaf oil, with a spicy note. It can be a crucial ingredient for Betel fragrances and flavours.', applications: 'Betel fragrances and flavours' },
+  'ethyl-isocaproate': { note: 'A not-too-strong balanced fruity aroma. It is a volatile ester.', applications: null },
+  'para-propyl-phenol': { note: 'A medicinal phenolic odour profile that is leathery, smoky, perfect for oud fragrances.', applications: 'Oud fragrances' },
+};
 // Where the two sources disagree only because one has an evident typo, use the other source's spelling (both recorded).
 const PREFER_SITE = { anethole: ['chemicalName', 'alsoKnownAs'], orrisnitrile: ['name'] };
 
@@ -134,13 +140,14 @@ siteSorted.forEach((s, i) => {
     compliance: { ...p.badges, source: 'catalogue', needsConfirmation: diffs.some(d => d.field.startsWith('compliance')) },
     certificateListings: CERT_LISTINGS[s.link] ?? null,
     odourProfile: 'TODO: not stated separately in any source (see description)',
-    applications: 'TODO: not stated in any source',
+    applications: VIDEO_NOTES[s.link]?.applications ? `${VIDEO_NOTES[s.link].applications} (source: feature video). TODO: full list` : 'TODO: not stated in any source',
     purity: 'TODO: not stated in any source',
     packaging: 'TODO: not stated in any source',
+    videoNote: VIDEO_NOTES[s.link]?.note ?? null,
     images: { product: siteRec.image, structure: siteRec.structureImage },
     catalogue: { sNo: p.catalogueSNo, page: p.cataloguePage, pdfPage: p.pdfPage },
     source: 'site',
-    foundIn: ['site', 'pdf'],
+    foundIn: VIDEO_NOTES[s.link] ? ['site', 'pdf', 'video'] : ['site', 'pdf'],
     flags: casIssues.length ? [`CAS number fails check-digit validation: ${casIssues.join(', ')}`] : [],
     sources: { site: siteRec, pdf: p },
     discrepancies: diffs,

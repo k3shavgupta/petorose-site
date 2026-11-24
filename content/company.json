@@ -160,11 +160,24 @@
     "quote": { "text": "Perfume is a story in odor, sometimes poetry in memory.", "author": "Jean-Claude Ellena" }
   },
   "featureVideo": {
-    "file": "/assets/video/petorose-alcones-feature-video.mp4",
+    "file": "/assets/video/petorose-alcones-feature-video-720p.mp4",
+    "master": "/assets/video/petorose-alcones-feature-video.mp4",
+    "poster": "/assets/img/video/feature-video-poster.jpg",
+    "captions": "/assets/video/petorose-alcones-feature-video.en.vtt",
+    "transcript": "content/source/video-transcript.txt",
     "duration": "2:08",
-    "resolution": "1920x1080",
+    "resolution": "1920x1080 master; site serves a 1280x720 H.264 copy (8.9 MB, faststart)",
     "sizeMB": 22,
-    "transcript": "TODO: no transcript or captions exist; needed for accessibility"
+    "format": "AI avatar presenter ('Rose', disclosed on screen as 'Powered by AI') over stock imagery. Contains no footage of the Petorose facility, lab or products being made.",
+    "claims": [
+      "As a part of the renowned Banwari Group that has pioneered the mint industry, headquartered in New Delhi, India",
+      "Our state-of-the-art manufacturing facility in Rajasthan ensures a seamless supply chain.",
+      "We pride ourselves on delivering consistent quality and exceptional customer service, rigorously testing every product before it reaches you.",
+      "These, along with our entire range of products, are proudly made in India.",
+      "We are active communicators and would promptly respond to your email as well.",
+      "We're eager to connect with you and more than happy to send samples."
+    ],
+    "transcriptNote": "Machine transcript (Whisper small.en) with brand and product names corrected by hand. Needs a human check before publishing as captions."
   },
   "homepage": {
     "heroHeading": "Innovating Aromas",
@@ -201,5 +214,5 @@
     "productMetaDescriptionTemplate": "{Product} | Petorose alcones Pvt ltd. is a leading manufacturer and exporter of alcone products in India.",
     "landingPages": "content/seo-landing-pages.json"
   },
-  "social": "TODO: no social media profiles are linked anywhere on the old site or catalogue"
+  "social": "TODO: the feature video asks viewers to connect on LinkedIn, but no LinkedIn (or other social) URL appears in any source"
 }
