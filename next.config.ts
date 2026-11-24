@@ -1,8 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Fully static site: deployable as plain files on Cloudflare Workers (static assets) and on Vercel.
+  // Fully static site: deployable as plain files on GitHub Pages, Cloudflare Workers and Vercel.
   output: "export",
+  // "/petorose-site" for the GitHub Pages project URL; empty everywhere else.
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH || undefined,
   trailingSlash: true,
   images: {
     loader: "custom",

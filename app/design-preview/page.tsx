@@ -3,6 +3,7 @@ import { CredibilitySections } from "@/components/design-preview/CredibilitySect
 import { NoirDirection } from "@/components/design-preview/NoirDirection";
 import { Palette, type Swatch } from "@/components/design-preview/Palette";
 import { ProductGridSample } from "@/components/design-preview/ProductGridSample";
+import { asset } from "@/lib/base-path";
 import { company, products, toSummary } from "@/lib/content";
 import { fraunces } from "./fonts";
 
@@ -21,29 +22,20 @@ const DARK: Swatch[] = [
   { name: "Saffron", hex: "#ffb648", role: "Calls to action only" },
 ];
 
-const LIGHT: Swatch[] = [
-  { name: "Lavender mist", hex: "#f6f4fd", role: "Product lists, spec pages", surface: true },
-  { name: "Ink", hex: "#16152a", role: "Text on light" },
-  { name: "Slate", hex: "#57546d", role: "Secondary text on light" },
-  { name: "Violet", hex: "#4845e4", role: "Logo blue: links, accents" },
-  { name: "Plum orchid", hex: "#a832ba", role: "Logo pink: labels" },
-];
-
 const summaries = products.map(toSummary);
 const home = company.homepage;
 const gridSlugs = [...home.newProducts, ...home.featuredProducts, "anethole", "white-tuberose"];
 
 export default function DesignPreviewPage() {
   return (
-    <div className={`${fraunces.variable} bg-neutral-100 text-neutral-900`}>
+    <div className={`${fraunces.variable} min-h-dvh bg-noir-bg font-noir-body text-noir-text`}>
       <header className="mx-auto max-w-6xl px-5 pb-10 pt-14 sm:px-8">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-neutral-500">Phase 2 · Chosen direction</p>
-        <h1 className="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">Rose Noir, refined for credibility</h1>
-        <div className="mt-4 max-w-2xl space-y-3 text-lg text-neutral-600">
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-noir-orchid">Phase 2 · Chosen direction</p>
+        <h1 className="mt-3 font-noir-display text-4xl sm:text-6xl">Rose Noir, refined for credibility</h1>
+        <div className="mt-4 max-w-2xl space-y-3 text-lg text-noir-muted">
           <p>
-            Purple only: the two colours of the rose-hexagon logo, plus saffron reserved for buttons that start an enquiry. The dark look
-            carries the brand (hero, navigation, story, footer); product lists and specs sit on a light lavender surface so buyers can
-            scan them comfortably.
+            One purple theme throughout: the two colours of the rose-hexagon logo on deep night purple, with saffron reserved for
+            buttons that start an enquiry.
           </p>
           <p>
             For credibility, buyers see what Petorose makes and how: heritage, the Bhiwadi facility, the process, certifications and the
@@ -58,7 +50,7 @@ export default function DesignPreviewPage() {
             ["#products", "Product list"],
             ["#needed", "What we need"],
           ].map(([href, label]) => (
-            <a key={href} href={href} className="rounded-full bg-[#120e24] px-4 py-2 text-white hover:bg-[#2a2150]">
+            <a key={href} href={href} className="rounded-full border border-white/15 px-4 py-2 text-noir-text hover:border-noir-orchid hover:bg-white/5">
               {label}
             </a>
           ))}
@@ -71,13 +63,9 @@ export default function DesignPreviewPage() {
             <h2 id="look-title" className="font-noir-display text-4xl">
               Palette &amp; type
             </h2>
-            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Dark brand surfaces</h3>
+            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Colours</h3>
             <div className="mt-4">
               <Palette swatches={DARK} background="#120e24" dark />
-            </div>
-            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Light content surfaces</h3>
-            <div className="mt-4 rounded-3xl bg-[#f6f4fd] p-4 text-[#16152a]">
-              <Palette swatches={LIGHT} background="#f6f4fd" />
             </div>
             <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Type</h3>
             <div className="mt-4 grid gap-4 md:grid-cols-3">
@@ -109,7 +97,7 @@ export default function DesignPreviewPage() {
               initialSlug={home.featuredProducts[0]}
               heroSlugs={home.featuredProducts}
               quickPicks={home.newProducts}
-              catalogueFile={company.catalogue.file}
+              catalogueFile={asset(company.catalogue.file)}
             />
           </div>
         </section>
@@ -130,20 +118,20 @@ export default function DesignPreviewPage() {
           </div>
         </section>
 
-        <section id="products" aria-labelledby="products-title" className="scroll-mt-4 py-16">
+        <section id="products" aria-labelledby="products-title" className="scroll-mt-4 bg-[#0b0818] py-16">
           <div className="mx-auto max-w-6xl px-5 sm:px-8">
             <h2 id="products-title" className="sr-only">
-              Product list on a light surface
+              Product list
             </h2>
             <ProductGridSample products={gridSlugs.map((s) => summaries.find((p) => p.slug === s)!)} total={products.length} />
           </div>
         </section>
 
-        <section id="needed" aria-labelledby="needed-title" className="mx-auto max-w-6xl scroll-mt-4 px-5 pb-20 sm:px-8">
-          <h2 id="needed-title" className="text-3xl font-semibold tracking-tight">
+        <section id="needed" aria-labelledby="needed-title" className="mx-auto max-w-6xl scroll-mt-4 px-5 py-16 sm:px-8">
+          <h2 id="needed-title" className="font-noir-display text-3xl sm:text-4xl">
             What Petorose needs to supply for full credibility
           </h2>
-          <ul className="mt-6 grid gap-3 text-neutral-700 sm:grid-cols-2">
+          <ul className="mt-6 grid gap-3 text-noir-muted sm:grid-cols-2">
             {[
               "Real photos: plant exterior, production floor, R&D lab, QC lab, people at work, finished product",
               "A short description of how products are made and tested (process steps, QC checks, documents provided such as COA or TDS)",
@@ -152,7 +140,7 @@ export default function DesignPreviewPage() {
               "Optional: capacity, export markets, packaging options and minimum order quantities",
               "Optional: real facility footage. The current video uses an AI presenter and stock clips, which many B2B buyers read as less credible than a short plant walkthrough",
             ].map((t) => (
-              <li key={t} className="rounded-2xl border border-neutral-200 bg-white p-4 text-sm leading-relaxed">
+              <li key={t} className="rounded-2xl border border-white/10 bg-noir-surface p-4 text-sm leading-relaxed">
                 {t}
               </li>
             ))}

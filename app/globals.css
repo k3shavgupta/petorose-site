@@ -11,15 +11,6 @@
   --color-noir-text: #efebff;
   --color-noir-muted: #b9b2dd;
 
-  /* Rose Noir — light content surfaces (product lists, specs) */
-  --color-mist-bg: #f6f4fd;
-  --color-mist-card: #ffffff;
-  --color-mist-line: #e4defa;
-  --color-mist-ink: #16152a;
-  --color-mist-muted: #57546d;
-  --color-mist-violet: #4845e4;
-  --color-mist-orchid: #a832ba;
-
   --animate-drift: drift 22s ease-in-out infinite alternate;
   --animate-drift-slow: drift 30s ease-in-out infinite alternate-reverse;
   --animate-float: float 9s ease-in-out infinite;

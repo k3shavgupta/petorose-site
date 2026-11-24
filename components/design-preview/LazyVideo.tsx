@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import { asset } from "@/lib/base-path";
 
 interface Props {
   src: string;
@@ -11,14 +12,14 @@ interface Props {
   captions?: string;
 }
 
-/** Shows only a poster until the visitor asks to play, so the 22 MB video never loads by default. */
+/** Shows only a poster until the visitor asks to play, so the video never loads by default. */
 export function LazyVideo({ src, poster, title, duration, captions }: Props) {
   const [playing, setPlaying] = useState(false);
   return (
     <div className="relative aspect-video overflow-hidden rounded-3xl border border-white/10 bg-black">
       {playing ? (
-        <video src={src} poster={poster} controls autoPlay playsInline preload="none" className="size-full" aria-label={title}>
-          {captions && <track kind="captions" src={captions} srcLang="en" label="English" default />}
+        <video src={asset(src)} poster={asset(poster)} controls autoPlay playsInline preload="none" className="size-full" aria-label={title}>
+          {captions && <track kind="captions" src={asset(captions)} srcLang="en" label="English" default />}
         </video>
       ) : (
         <button type="button" onClick={() => setPlaying(true)} className="group absolute inset-0 text-left">
