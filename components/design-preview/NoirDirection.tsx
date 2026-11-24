@@ -40,7 +40,7 @@ export function NoirDirection({ products, initialSlug, heroSlugs, quickPicks, ca
         <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
           <div className="absolute -left-24 -top-32 size-[28rem] rounded-full bg-noir-periwinkle/35 blur-3xl motion-safe:animate-drift" />
           <div className="absolute -right-20 top-10 size-[24rem] rounded-full bg-noir-orchid/30 blur-3xl motion-safe:animate-drift-slow" />
-          <div className="absolute bottom-[-10rem] left-1/3 size-[22rem] rounded-full bg-noir-saffron/20 blur-3xl motion-safe:animate-drift" />
+          <div className="absolute bottom-[-10rem] left-1/3 size-[22rem] rounded-full bg-noir-periwinkle/20 blur-3xl motion-safe:animate-drift" />
         </div>
 
         <nav aria-label="Direction A example navigation" className="flex items-center justify-between gap-4 px-5 py-4 sm:px-10 sm:py-6">
@@ -70,7 +70,7 @@ export function NoirDirection({ products, initialSlug, heroSlugs, quickPicks, ca
             </p>
             <h3 className="mt-5 font-noir-display text-5xl leading-[0.95] font-light sm:text-7xl">
               Innovating{" "}
-              <em className="bg-gradient-to-r from-noir-periwinkle via-noir-orchid to-noir-saffron bg-clip-text font-normal text-transparent">
+              <em className="bg-gradient-to-r from-noir-periwinkle to-noir-orchid bg-clip-text font-normal text-transparent">
                 Aromas
               </em>
             </h3>
@@ -167,14 +167,14 @@ export function NoirDirection({ products, initialSlug, heroSlugs, quickPicks, ca
               </dt>
               <dd className="mt-2 h-1.5 overflow-hidden rounded-full bg-white/10">
                 <div
-                  className="h-full rounded-full bg-gradient-to-r from-noir-periwinkle via-noir-orchid to-noir-saffron transition-[width] duration-700"
+                  className="h-full rounded-full bg-gradient-to-r from-noir-periwinkle to-noir-orchid transition-[width] duration-700"
                   style={{ width: `${tenacityRatio(product.tenacity) * 100}%` }}
                 />
               </dd>
             </div>
           </dl>
 
-          <EnquiryActions product={product} catalogueFile={catalogueFile} variant="noir" />
+          <EnquiryActions product={product} catalogueFile={catalogueFile} />
         </div>
       </article>
     </div>

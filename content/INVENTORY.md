@@ -30,6 +30,7 @@ Extracted 2026-11-24 from the live site (client-side React app, rendered with he
 | `ProductCatalogueWeb.da3d1a6d2bcc9e488694.pdf` (44 pp, "Product Catalogue April 2025") | pdftotext / pdfplumber + visual check | Cover, contents (39 products + "Also Known As" + page), About text, one page per product, Jean-Claude Ellena quote, Group Companies, Certifications, contact block |
 | `FDA PAPL.pdf`, `HALAL PAPL.pdf`, `ISO 9001 PAPL.pdf`, `ISO 14001 PAPL.pdf`, `ISO 22000 PAPL.pdf`, `KOSHER PAPL.pdf` | pdftotext; Halal and ISO 14001 are image-only and were read visually | Issuer, numbers, scope, issue and expiry dates, certified product lists |
 | `robots.txt` | curl | Allows everything; **no sitemap.xml** exists (request returns the SPA shell) |
+| `Petorose Alcones Feature Video.mp4` (2:08) | Frames viewed with ffmpeg; narration transcribed with Whisper `small.en`, names corrected by hand | **AI avatar presenter ("Rose", "Powered by AI") over stock imagery — no footage of the facility, lab or production.** Claims: state-of-the-art facility in Rajasthan, seamless supply chain, consistent quality, "rigorously testing every product before it reaches you", "more than happy to send samples", prompt email replies, LinkedIn (no URL), FAFAI Expo 2025. Product remarks for Chavibetol, Ethyl Isocaproate, Para Propyl Phenol (in `products.json` → `videoNote`). Transcript: `content/source/video-transcript.txt`; captions: `public/assets/video/…en.vtt` |
 
 ## 2. Products
 
@@ -172,6 +173,9 @@ The website and catalogue disagree for most products. Example: the website shows
 
 ### Company facts
 - **Group age**: website "a 40 years old business group"; catalogue "roots in the early 1970s" (50+ years).
+- **Headquarters**: the video says the Banwari Group is "headquartered in New Delhi"; the website labels the Bhiwadi address "Head Office".
+- **Para Propyl Phenol**: description says the odour is "undesirably sweet, clove-like and somewhat smoky", while the video calls it "leathery, smoky, perfect for oud fragrances". Not contradictory, but the website should pick one voice.
+- **Feature video is AI-presented with stock footage.** It is the only video asset, and it contains no real imagery of how Petorose makes its products. Real facility photos/footage are the biggest gap for credibility.
 - **Location wording**: "family-owned and operated Banwari Group based in New Delhi" (website sentence is ungrammatical — the catalogue says "is a part of the … Banwari Group"). Manufacturing and the head office are in Bhiwadi, Rajasthan.
 - **Address variants**: certificates add "Phase-1"/"Phase I" and "Distt. Alwar". The website and catalogue omit them.
 - **Group companies**: the catalogue shows Banwari, **Sampe** and Petorose Alcones. The website mentions only Banwari Group. There is no information on Sampe beyond its logo.
@@ -283,12 +287,14 @@ Not downloaded: the Flag of India image (Wikimedia returned HTTP 400; it's trivi
 2. Per-product Food Grade / Kosher / GMO status — the website and catalogue disagree (§3). What does "GMO ✗" mean?
 3. Correct CAS numbers for Caprifloren and Prosethyl; tenacity "&gt;" values; Hyacinth Acetal description and chemical name; Gardeniamide FEMA.
 4. Should the ~45 additional products named on the Kosher/Halal certificates (menthol, mint oils, eugenol, limonene, etc., in `content/certified-products.json`) be listed on the new site? There are no specs for them.
-5. Applications, purity/grade, packaging and MOQ per product — none exist in any source.
+5. Applications, purity/grade, packaging and MOQ per product. Only the video hints at applications, for 2 products (Chavibetol: betel fragrances and flavours; Para Propyl Phenol: oud fragrances).
 6. WhatsApp number for the WhatsApp button (none is published).
 7. Map pin or coordinates for the Bhiwadi facility.
 8. Group age (40 years vs since the early 1970s), and whether to present Sampe as a group company.
 9. Vector logo (SVG), plus licensed imagery to replace the third-party About photos.
 10. What to do with the 56 Anethole SEO landing URLs (redirect vs keep).
+11. **Real photos of how products are made**: plant exterior, production floor, R&D lab, QC lab, people at work, finished product. Plus a short description of the process and quality checks (and which documents ship with an order, e.g. COA/TDS). None of this exists in any source.
+12. LinkedIn URL (the video mentions LinkedIn; no link exists anywhere).
 
 ## 6. Reproducing
 

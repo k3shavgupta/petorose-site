@@ -1,85 +1,88 @@
 import type { Metadata } from "next";
-import { Palette, type Swatch } from "@/components/design-preview/Palette";
-import { LabDirection } from "@/components/design-preview/LabDirection";
+import { CredibilitySections } from "@/components/design-preview/CredibilitySections";
 import { NoirDirection } from "@/components/design-preview/NoirDirection";
+import { Palette, type Swatch } from "@/components/design-preview/Palette";
+import { ProductGridSample } from "@/components/design-preview/ProductGridSample";
 import { company, products, toSummary } from "@/lib/content";
-import { fraunces, grotesk, jbmono } from "./fonts";
+import { fraunces } from "./fonts";
 
 export const metadata: Metadata = {
   title: "Design preview",
   robots: { index: false, follow: false },
 };
 
-const NOIR: Swatch[] = [
-  { name: "Night", hex: "#120e24", role: "Page background", surface: true },
-  { name: "Aubergine", hex: "#1d1636", role: "Cards, panels", surface: true },
-  { name: "Mist", hex: "#efebff", role: "Body text" },
-  { name: "Lavender", hex: "#b9b2dd", role: "Secondary text" },
-  { name: "Periwinkle", hex: "#8b8dff", role: "Brand (logo blue, lifted for dark)" },
-  { name: "Orchid", hex: "#e384ea", role: "Brand (logo pink), labels" },
-  { name: "Saffron", hex: "#ffb648", role: "Calls to action" },
+const DARK: Swatch[] = [
+  { name: "Night", hex: "#120e24", role: "Hero, nav, footer", surface: true },
+  { name: "Aubergine", hex: "#1d1636", role: "Dark cards, panels", surface: true },
+  { name: "Mist", hex: "#efebff", role: "Text on dark" },
+  { name: "Lavender", hex: "#b9b2dd", role: "Secondary text on dark" },
+  { name: "Periwinkle", hex: "#8b8dff", role: "Logo blue, lifted for dark" },
+  { name: "Orchid", hex: "#e384ea", role: "Logo pink, labels" },
+  { name: "Saffron", hex: "#ffb648", role: "Calls to action only" },
 ];
 
-const LAB: Swatch[] = [
-  { name: "Paper", hex: "#faf8f4", role: "Page background", surface: true },
-  { name: "Ink", hex: "#16152a", role: "Text, outlines, primary button" },
-  { name: "Indigo", hex: "#4845e4", role: "Brand (logo blue), links" },
-  { name: "Orchid", hex: "#a832ba", role: "Brand (logo pink)" },
-  { name: "Tangerine", hex: "#ff6b2c", role: "Accent fill only" },
-  { name: "Lime", hex: "#2fb36b", role: "Accent fill only" },
-  { name: "Lemon", hex: "#ffd23f", role: "Highlight fill only" },
+const LIGHT: Swatch[] = [
+  { name: "Lavender mist", hex: "#f6f4fd", role: "Product lists, spec pages", surface: true },
+  { name: "Ink", hex: "#16152a", role: "Text on light" },
+  { name: "Slate", hex: "#57546d", role: "Secondary text on light" },
+  { name: "Violet", hex: "#4845e4", role: "Logo blue: links, accents" },
+  { name: "Plum orchid", hex: "#a832ba", role: "Logo pink: labels" },
 ];
 
 const summaries = products.map(toSummary);
 const home = company.homepage;
+const gridSlugs = [...home.newProducts, ...home.featuredProducts, "anethole", "white-tuberose"];
 
 export default function DesignPreviewPage() {
   return (
-    <div className={`${fraunces.variable} ${grotesk.variable} ${jbmono.variable} bg-neutral-100 text-neutral-900`}>
+    <div className={`${fraunces.variable} bg-neutral-100 text-neutral-900`}>
       <header className="mx-auto max-w-6xl px-5 pb-10 pt-14 sm:px-8">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-neutral-500">Phase 2 · Design direction</p>
-        <h1 className="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">Two directions for petorosealcones.com</h1>
-        <p className="mt-4 max-w-2xl text-lg text-neutral-600">
-          Both use the colours of the existing rose-hexagon logo, real copy and all {products.length} products from{" "}
-          <code className="rounded bg-neutral-200 px-1.5 py-0.5 text-sm">content/products.json</code>. The search and product
-          card are live: type a name, a CAS number or a note such as &ldquo;vanilla&rdquo;, pick a result, and the card updates. That is
-          the planned two-click path to an enquiry: search → product → request quote.
-        </p>
-        <nav aria-label="Directions" className="mt-6 flex flex-wrap gap-3 text-sm font-medium">
-          <a href="#direction-a" className="rounded-full bg-[#120e24] px-4 py-2 text-white hover:bg-[#2a2150]">
-            A · Rose Noir
-          </a>
-          <a href="#direction-b" className="rounded-full border-2 border-[#16152a] bg-white px-4 py-2 hover:bg-[#ffd23f]">
-            B · Spectrum Lab
-          </a>
-          <a href="#compare" className="rounded-full px-4 py-2 text-neutral-600 underline underline-offset-4 hover:text-neutral-900">
-            Compare
-          </a>
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-neutral-500">Phase 2 · Chosen direction</p>
+        <h1 className="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">Rose Noir, refined for credibility</h1>
+        <div className="mt-4 max-w-2xl space-y-3 text-lg text-neutral-600">
+          <p>
+            Purple only: the two colours of the rose-hexagon logo, plus saffron reserved for buttons that start an enquiry. The dark look
+            carries the brand (hero, navigation, story, footer); product lists and specs sit on a light lavender surface so buyers can
+            scan them comfortably.
+          </p>
+          <p>
+            For credibility, buyers see what Petorose makes and how: heritage, the Bhiwadi facility, the process, certifications and the
+            feature video. Every line is sourced from the old site, catalogue or video. Dashed frames mark the real photos still needed.
+          </p>
+        </div>
+        <nav aria-label="Sections" className="mt-6 flex flex-wrap gap-3 text-sm font-medium">
+          {[
+            ["#look", "Palette & type"],
+            ["#hero", "Hero + product"],
+            ["#credibility", "How we make it"],
+            ["#products", "Product list"],
+            ["#needed", "What we need"],
+          ].map(([href, label]) => (
+            <a key={href} href={href} className="rounded-full bg-[#120e24] px-4 py-2 text-white hover:bg-[#2a2150]">
+              {label}
+            </a>
+          ))}
         </nav>
       </header>
 
       <main>
-        {/* Direction A */}
-        <section id="direction-a" aria-labelledby="a-title" className="scroll-mt-4 bg-[#0b0818] py-16 text-noir-text">
+        <section id="look" aria-labelledby="look-title" className="scroll-mt-4 bg-[#0b0818] py-16 text-noir-text">
           <div className="mx-auto max-w-6xl px-5 sm:px-8">
-            <p className="font-mono text-xs uppercase tracking-[0.2em] text-noir-orchid">Direction A</p>
-            <h2 id="a-title" className="mt-2 font-noir-display text-4xl sm:text-5xl">
-              Rose Noir
+            <h2 id="look-title" className="font-noir-display text-4xl">
+              Palette &amp; type
             </h2>
-            <p className="mt-3 max-w-2xl text-noir-muted">
-              Evening-perfumery mood: deep night background, jewel-bright brand colours, a soft high-contrast serif and slow drifting
-              colour fields. Feels like a fine-fragrance house while keeping technical data crisp.
-            </p>
-
-            <h3 className="mt-10 text-sm font-semibold uppercase tracking-wider text-noir-muted">Palette</h3>
+            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Dark brand surfaces</h3>
             <div className="mt-4">
-              <Palette swatches={NOIR} background="#120e24" dark />
+              <Palette swatches={DARK} background="#120e24" dark />
             </div>
-
-            <h3 className="mt-10 text-sm font-semibold uppercase tracking-wider text-noir-muted">Type</h3>
+            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Light content surfaces</h3>
+            <div className="mt-4 rounded-3xl bg-[#f6f4fd] p-4 text-[#16152a]">
+              <Palette swatches={LIGHT} background="#f6f4fd" />
+            </div>
+            <h3 className="mt-8 text-sm font-semibold uppercase tracking-wider text-noir-muted">Type</h3>
             <div className="mt-4 grid gap-4 md:grid-cols-3">
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <p className="text-xs text-noir-muted">Display · Fraunces (soft serif)</p>
+                <p className="text-xs text-noir-muted">Headings · Fraunces (soft serif)</p>
                 <p className="mt-2 font-noir-display text-5xl font-light italic">Aromas</p>
               </div>
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
@@ -89,12 +92,18 @@ export default function DesignPreviewPage() {
                 </p>
               </div>
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <p className="text-xs text-noir-muted">Data · system mono</p>
+                <p className="text-xs text-noir-muted">Technical data · system mono</p>
                 <p className="mt-2 font-mono text-sm">CAS 13481-87-3 · FEMA 3710</p>
               </div>
             </div>
+          </div>
+        </section>
 
-            <h3 className="mt-10 mb-4 text-sm font-semibold uppercase tracking-wider text-noir-muted">Hero + product card</h3>
+        <section id="hero" aria-labelledby="hero-title" className="scroll-mt-4 bg-[#0b0818] pb-16 text-noir-text">
+          <div className="mx-auto max-w-6xl px-5 sm:px-8">
+            <h2 id="hero-title" className="mb-6 font-noir-display text-4xl">
+              Hero + product card
+            </h2>
             <NoirDirection
               products={summaries}
               initialSlug={home.featuredProducts[0]}
@@ -105,102 +114,49 @@ export default function DesignPreviewPage() {
           </div>
         </section>
 
-        {/* Direction B */}
-        <section id="direction-b" aria-labelledby="b-title" className="scroll-mt-4 bg-[#f1eee7] py-16 text-lab-ink">
+        <section id="credibility" aria-labelledby="cred-title" className="scroll-mt-4 bg-noir-bg py-16">
           <div className="mx-auto max-w-6xl px-5 sm:px-8">
-            <p className="font-lab-mono text-xs uppercase tracking-[0.2em] text-lab-indigo">Direction B</p>
-            <h2 id="b-title" className="mt-2 font-lab-display text-4xl font-bold tracking-tight sm:text-5xl">
-              Spectrum Lab
+            <h2 id="cred-title" className="sr-only">
+              Credibility sections
             </h2>
-            <p className="mt-3 max-w-2xl text-lab-muted">
-              Bright, precise and graphic: warm paper, ink outlines, the logo&rsquo;s hexagon as a spinning colour wheel and a full
-              spectrum of accents. Leans into chemistry and data, so CAS numbers and specs feel at home.
-            </p>
-
-            <h3 className="mt-10 text-sm font-semibold uppercase tracking-wider text-lab-muted">Palette</h3>
-            <div className="mt-4">
-              <Palette swatches={LAB} background="#faf8f4" />
-            </div>
-
-            <h3 className="mt-10 text-sm font-semibold uppercase tracking-wider text-lab-muted">Type</h3>
-            <div className="mt-4 grid gap-4 md:grid-cols-3">
-              <div className="rounded-2xl border-2 border-lab-ink bg-white p-5">
-                <p className="font-lab-mono text-xs text-lab-muted">Display · Space Grotesk</p>
-                <p className="mt-2 font-lab-display text-5xl font-bold tracking-tight">Aromas</p>
-              </div>
-              <div className="rounded-2xl border-2 border-lab-ink bg-white p-5">
-                <p className="font-lab-mono text-xs text-lab-muted">Body · Inter</p>
-                <p className="mt-2 text-sm leading-relaxed">
-                  Specialty aroma chemicals designed in the lab to imitate their naturally occurring counterparts.
-                </p>
-              </div>
-              <div className="rounded-2xl border-2 border-lab-ink bg-white p-5">
-                <p className="font-lab-mono text-xs text-lab-muted">Data · JetBrains Mono</p>
-                <p className="mt-2 font-lab-mono text-sm">CAS 13481-87-3 · FEMA 3710</p>
-              </div>
-            </div>
-
-            <h3 className="mt-10 mb-4 text-sm font-semibold uppercase tracking-wider text-lab-muted">Hero + product card</h3>
-            <LabDirection
-              products={summaries}
-              initialSlug={home.featuredProducts[0]}
-              heroSlug={home.featuredProducts[0]}
-              quickPicks={home.newProducts}
-              catalogueFile={company.catalogue.file}
-              facts={[
-                { value: `${products.length} aroma chemicals`, label: "In the catalogue" },
-                { value: "Bhiwadi, Rajasthan", label: "~1 hr from Delhi airport" },
-                { value: "Banwari Group", label: "Part of" },
-              ]}
+            <CredibilitySections
+              video={{
+                file: company.featureVideo.file,
+                poster: "/assets/img/video/feature-video-poster.jpg",
+                duration: company.featureVideo.duration,
+                captions: company.featureVideo.captions,
+              }}
             />
           </div>
         </section>
 
-        <section id="compare" aria-labelledby="compare-title" className="mx-auto max-w-6xl scroll-mt-4 px-5 py-16 sm:px-8">
-          <h2 id="compare-title" className="text-3xl font-semibold tracking-tight">
-            Compare
-          </h2>
-          <div className="mt-6 overflow-x-auto">
-            <table className="w-full min-w-[36rem] text-left text-sm">
-              <thead className="border-b border-neutral-300 text-neutral-500">
-                <tr>
-                  <th scope="col" className="py-2 pr-4 font-medium" />
-                  <th scope="col" className="py-2 pr-4 font-medium">
-                    A · Rose Noir
-                  </th>
-                  <th scope="col" className="py-2 font-medium">
-                    B · Spectrum Lab
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-neutral-200 align-top">
-                {[
-                  ["Mood", "Luxurious, perfumery, evening", "Bright, scientific, energetic"],
-                  ["Strongest for", "Fine-fragrance buyers, brand perception", "Procurement and R&D scanning specs fast"],
-                  ["Product photos", "Hero of the page; dark frames flatter them", "Supporting role; outlines and colour carry it"],
-                  ["Long spec tables", "Good, but dark tables are tiring at length", "Excellent, mono data on paper"],
-                  ["Printing / PDFs", "Needs a light print stylesheet", "Prints as-is"],
-                  ["Risk", "Dark sites can feel heavy on mobile in daylight", "Can feel playful if accents are overused"],
-                ].map(([k, a, b]) => (
-                  <tr key={k}>
-                    <th scope="row" className="py-3 pr-4 font-medium">
-                      {k}
-                    </th>
-                    <td className="py-3 pr-4 text-neutral-700">{a}</td>
-                    <td className="py-3 text-neutral-700">{b}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+        <section id="products" aria-labelledby="products-title" className="scroll-mt-4 py-16">
+          <div className="mx-auto max-w-6xl px-5 sm:px-8">
+            <h2 id="products-title" className="sr-only">
+              Product list on a light surface
+            </h2>
+            <ProductGridSample products={gridSlugs.map((s) => summaries.find((p) => p.slug === s)!)} total={products.length} />
           </div>
-          <p className="mt-8 max-w-2xl text-neutral-600">
-            Reply with <strong>A</strong> or <strong>B</strong>, or mix them (for example B&rsquo;s layout with A&rsquo;s serif headings).
-            Both share the same structure, search and enquiry flow, so only the visual layer changes.
-          </p>
-          <p className="mt-4 max-w-2xl text-sm text-neutral-500">
-            Not shown yet by design: Kosher, Halal and food-grade marks, which stay hidden until Petorose confirms them, and the
-            certifications strip, which needs current certificates. See <code>content/INVENTORY.md</code>.
-          </p>
+        </section>
+
+        <section id="needed" aria-labelledby="needed-title" className="mx-auto max-w-6xl scroll-mt-4 px-5 pb-20 sm:px-8">
+          <h2 id="needed-title" className="text-3xl font-semibold tracking-tight">
+            What Petorose needs to supply for full credibility
+          </h2>
+          <ul className="mt-6 grid gap-3 text-neutral-700 sm:grid-cols-2">
+            {[
+              "Real photos: plant exterior, production floor, R&D lab, QC lab, people at work, finished product",
+              "A short description of how products are made and tested (process steps, QC checks, documents provided such as COA or TDS)",
+              "Current certificates: ISO 9001, ISO 22000, ISO 14001, Kosher, Halal, FDA registration, plus the FSSAI licence number",
+              "Confirmed Kosher / Halal / food-grade status per product (the old site and catalogue disagree)",
+              "Optional: capacity, export markets, packaging options and minimum order quantities",
+              "Optional: real facility footage. The current video uses an AI presenter and stock clips, which many B2B buyers read as less credible than a short plant walkthrough",
+            ].map((t) => (
+              <li key={t} className="rounded-2xl border border-neutral-200 bg-white p-4 text-sm leading-relaxed">
+                {t}
+              </li>
+            ))}
+          </ul>
         </section>
       </main>
     </div>
