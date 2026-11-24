@@ -1,4 +1,4 @@
-:HL["/petorose-site/_next/static/chunks/0w81p81z6h4ga.css","style"]
+:HL["/petorose-site/_next/static/chunks/0134v158jj8zj.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"SG7ObeMh5NmxMxo-c-4v-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"vgRVnJk7uR8-G_8urgAjP","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
