@@ -108,7 +108,14 @@ export default async function ProductPage({ params }: PageProps<"/products/[slug
             <figure className="mt-6 rounded-3xl border border-white/10 bg-noir-surface p-5">
               <figcaption className="text-xs font-semibold uppercase tracking-[0.2em] text-noir-muted">Chemical structure</figcaption>
               <div className="relative mt-3 aspect-[2/1] overflow-hidden rounded-2xl">
-                <Image src={p.images.structure} alt={`Chemical structure of ${p.name}${p.chemicalName ? `, ${p.chemicalName}` : ""}`} fill sizes="(min-width: 1024px) 500px, 100vw" className="object-contain" />
+                {/* Black-on-transparent drawing from scripts/clean-structures.mjs; inverted to light lines in dark mode. */}
+                <Image
+                  src={`/assets/img/structures/${p.slug}.png`}
+                  alt={`Chemical structure of ${p.name}${p.chemicalName ? `, ${p.chemicalName}` : ""}`}
+                  fill
+                  sizes="(min-width: 1024px) 500px, 100vw"
+                  className="object-contain p-2 invert-[0.92] light:invert-0"
+                />
               </div>
             </figure>
           )}
@@ -126,7 +133,7 @@ export default async function ProductPage({ params }: PageProps<"/products/[slug
           )}
 
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link href={enquiryHref} className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-bg transition hover:bg-[#ffc56b]">
+            <Link href={enquiryHref} className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-on-accent transition hover:bg-[#ffc56b]">
               Request a quote / sample
             </Link>
             <a

@@ -148,7 +148,7 @@ export function EnquiryForm({ products, email, initialProduct = "" }: Props) {
         <button
           type="submit"
           disabled={status.kind === "sending"}
-          className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-bg transition hover:bg-[#ffc56b] disabled:opacity-60"
+          className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-on-accent transition hover:bg-[#ffc56b] disabled:opacity-60"
         >
           {status.kind === "sending" ? "Sending…" : "Send enquiry"}
         </button>
@@ -156,7 +156,7 @@ export function EnquiryForm({ products, email, initialProduct = "" }: Props) {
           <span aria-hidden className="text-noir-orchid">*</span> Required
         </p>
       </div>
-      <p role="status" aria-live="polite" className={`min-h-5 text-sm sm:col-span-2 ${status.kind === "error" ? "text-noir-saffron" : "text-noir-orchid"}`}>
+      <p role="status" aria-live="polite" className={`min-h-5 text-sm sm:col-span-2 ${status.kind === "error" ? "text-noir-warn" : "text-noir-orchid"}`}>
         {status.message}
       </p>
     </form>
