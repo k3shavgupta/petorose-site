@@ -1,0 +1,3592 @@
+[
+  {
+    "slug": "altanol",
+    "name": "Altanol",
+    "alsoKnownAs": "Toscanol",
+    "description": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavicol, and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+    "chemicalName": "1-Cyclopropylmethyl-4-methoxybenzene",
+    "formula": "C11H14O",
+    "cas": "16510-27-3",
+    "fema": "4759",
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/altanol.jpg",
+      "structure": "/assets/img/cloudinary/xv1bjpucqnwwqa6hadpi.png"
+    },
+    "catalogue": {
+      "sNo": 1,
+      "page": 2,
+      "pdfPage": 4
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Altanol",
+        "url": "https://petorosealcones.com/product/altanol",
+        "subTitle": "Toscanol",
+        "about": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavical and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+        "chemicalName": "1-Cyclopropylmethyl-4-methoxybenzene",
+        "formula": "C11H14O",
+        "cas": "16510-27-3",
+        "fema": "4759",
+        "tenacity": "48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/altanol.jpg",
+        "structureImage": "/assets/img/cloudinary/xv1bjpucqnwwqa6hadpi.png"
+      },
+      "pdf": {
+        "catalogueSNo": 1,
+        "cataloguePage": 2,
+        "pdfPage": 4,
+        "title": "Altanol",
+        "alsoKnownAs": "Toscanol",
+        "description": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavicol, and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+        "chemicalName": "1-Cyclopropylmethyl-4-methoxybenzene",
+        "formula": "C11H14O",
+        "cas": "16510-27-3",
+        "fema": "4759",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavical and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle.",
+        "catalogue": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavicol, and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "anethole",
+    "name": "Anethole (Synthetic)",
+    "alsoKnownAs": "Anethole 21/22",
+    "description": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity, anisic-balsamic odour.",
+    "chemicalName": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+    "formula": "C10H12O",
+    "cas": "4180-23-8",
+    "fema": "2086",
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": {
+      "kosher": "Anethole",
+      "halal": "Anethole"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/anethole.jpg",
+      "structure": "/assets/img/site/anitholechem.png"
+    },
+    "catalogue": {
+      "sNo": 2,
+      "page": 3,
+      "pdfPage": 5
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Anethole",
+        "url": "https://petorosealcones.com/product/anethole",
+        "subTitle": "Anethole 21/22",
+        "about": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity,anisic-balsimic odour.",
+        "chemicalName": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+        "formula": "C10H12O",
+        "cas": "4180-23-8",
+        "fema": "2086",
+        "tenacity": ">24",
+        "badges": {
+          "shown": false,
+          "brokenImage": "../images/pet-icon1.png"
+        },
+        "image": "/assets/img/site/anethole.jpg",
+        "structureImage": "/assets/img/site/anitholechem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 2,
+        "cataloguePage": 3,
+        "pdfPage": 5,
+        "title": "Anethole (Synthetic)",
+        "alsoKnownAs": "Anethole",
+        "description": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity, anisic-balsamic odour.",
+        "chemicalName": "1-mthoxy-4-[(1Z)-prop-1-en-1-yl] benzene",
+        "formula": "C10H12O",
+        "cas": "4180-23-8",
+        "fema": "2086",
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "name",
+        "site": "Anethole",
+        "catalogue": "Anethole (Synthetic)"
+      },
+      {
+        "field": "alsoKnownAs",
+        "site": "Anethole 21/22",
+        "catalogue": "Anethole"
+      },
+      {
+        "field": "description",
+        "site": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity,anisic-balsimic odour.",
+        "catalogue": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity, anisic-balsamic odour."
+      },
+      {
+        "field": "chemicalName",
+        "site": "1-methoxy-4-[(1Z)-prop-1-en-1-yl]benzene",
+        "catalogue": "1-mthoxy-4-[(1Z)-prop-1-en-1-yl] benzene"
+      },
+      {
+        "field": "tenacity",
+        "site": ">24",
+        "catalogue": "24 HOURS"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "arednitryl",
+    "name": "Arednitryl",
+    "alsoKnownAs": "Cantryl",
+    "description": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition.",
+    "chemicalName": "(2,2,3-Trimethylcyclopent-3-en-1-yl) acetonitrile",
+    "formula": "C10H15N",
+    "cas": "15373-31-6",
+    "fema": null,
+    "tenacity": "30 DAYS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/arednitryl.png",
+      "structure": "/assets/img/site/arednitrylchem.png"
+    },
+    "catalogue": {
+      "sNo": 3,
+      "page": 4,
+      "pdfPage": 6
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Arednitryl",
+        "url": "https://petorosealcones.com/product/arednitryl",
+        "subTitle": "Cantryl",
+        "about": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition.",
+        "chemicalName": "(2,2,3- Trimethylcyclopent-3-en-1-yl) acetonitrile",
+        "formula": "C10H15N",
+        "cas": "15373-31-6",
+        "fema": null,
+        "tenacity": "30 DAYS",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/arednitryl.png",
+        "structureImage": "/assets/img/site/arednitrylchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 3,
+        "cataloguePage": 4,
+        "pdfPage": 6,
+        "title": "Arednitryl",
+        "alsoKnownAs": "Cantryl",
+        "description": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition.",
+        "chemicalName": "(2,2,3-Trimethylcyclopent-3-en-1-yl) acetonitrile",
+        "formula": "C10H15N",
+        "cas": "15373-31-6",
+        "fema": null,
+        "tenacity": "30 DAYS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": null,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": null,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "caprifloren",
+    "name": "Caprifloren",
+    "alsoKnownAs": "Aprifloren",
+    "description": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, adds more flavour to white flower compositions.",
+    "chemicalName": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+    "formula": "C11H20O2",
+    "cas": "67663-01-08",
+    "fema": "3999",
+    "tenacity": "180 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/caprifloren.jpg",
+      "structure": "/assets/img/site/capriflorenchem.png"
+    },
+    "catalogue": {
+      "sNo": 4,
+      "page": 5,
+      "pdfPage": 7
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [
+      "CAS number fails check-digit validation: 67663-01-08"
+    ],
+    "sources": {
+      "site": {
+        "title": "Caprifloren",
+        "url": "https://petorosealcones.com/product/caprifloren",
+        "subTitle": "Aprifloren",
+        "about": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, add more flavour to white flower compositions.",
+        "chemicalName": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+        "formula": "C11H20O2",
+        "cas": "- 67663-01-08",
+        "fema": "3999",
+        "tenacity": ">180",
+        "badges": {
+          "shown": false,
+          "brokenImage": "../images/pet-icon1.png"
+        },
+        "image": "/assets/img/site/caprifloren.jpg",
+        "structureImage": "/assets/img/site/capriflorenchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 4,
+        "cataloguePage": 5,
+        "pdfPage": 7,
+        "title": "Caprifloren",
+        "alsoKnownAs": "Aprifloren",
+        "description": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, adds more flavour to white flower compositions.",
+        "chemicalName": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+        "formula": "C11H20O2",
+        "cas": "67663-01-08",
+        "fema": "3999",
+        "tenacity": "180 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, add more flavour to white flower compositions.",
+        "catalogue": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, adds more flavour to white flower compositions."
+      },
+      {
+        "field": "tenacity",
+        "site": ">180",
+        "catalogue": "180 HOURS"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "celerytone",
+    "name": "Celerytone",
+    "alsoKnownAs": "Celery Ketone / Celerone",
+    "description": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon.",
+    "chemicalName": "3-Methyl-5-propyl-2-cyclohexen-1-one",
+    "formula": "C10H16O",
+    "cas": "3720-16-9",
+    "fema": "3577",
+    "tenacity": "15 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": {
+      "kosher": "Celery Ketone",
+      "halal": "Celery Ketone (Celerytone)"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/celerytone.jpg",
+      "structure": "/assets/img/site/inline-module-7686.png"
+    },
+    "catalogue": {
+      "sNo": 5,
+      "page": 6,
+      "pdfPage": 8
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Celerytone",
+        "url": "https://petorosealcones.com/product/celerytone",
+        "subTitle": "Celery Ketone/Celerone",
+        "about": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon.",
+        "chemicalName": "3-Methyl-5-propyl-2-cyclohexen-1-one",
+        "formula": "C10H16O",
+        "cas": "3720-16-9",
+        "fema": "3577",
+        "tenacity": "15",
+        "badges": {
+          "shown": false,
+          "brokenImage": "../images/only-gmo.png"
+        },
+        "image": "/assets/img/site/celerytone.jpg",
+        "structureImage": "/assets/img/site/inline-module-7686.png"
+      },
+      "pdf": {
+        "catalogueSNo": 5,
+        "cataloguePage": 6,
+        "pdfPage": 8,
+        "title": "Celerytone",
+        "alsoKnownAs": "Celery Ketone / Celerone",
+        "description": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon.",
+        "chemicalName": "3-Methyl-5-propyl-2-cyclohexen-1-one",
+        "formula": "C10H16O",
+        "cas": "3720-16-9",
+        "fema": "3577",
+        "tenacity": "15 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "chavibetol-50",
+    "name": "Chavibetol 50%",
+    "alsoKnownAs": null,
+    "description": "Chavibetol is the primary component of essential oil from the leaves of the betel plant. It is an aromatic compound with a spicy note.",
+    "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+    "formula": "C10H12O2",
+    "cas": "501-19-9",
+    "fema": null,
+    "tenacity": "240 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": {
+      "kosher": "Chavibetol",
+      "halal": "Chavibetol"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/chavibetol-50-.jpg",
+      "structure": "/assets/img/site/chavichem.png"
+    },
+    "catalogue": {
+      "sNo": 6,
+      "page": 7,
+      "pdfPage": 9
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Chavibetol 50%",
+        "url": "https://petorosealcones.com/product/chavibetol-50",
+        "subTitle": "Chavibetol 50%",
+        "about": "Chavibetol is the primary component of essential oil from the leaves of the betelplant. It is an aromatic compound with a spicy note.",
+        "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+        "formula": "- C10H1202",
+        "cas": "501-19-9",
+        "fema": null,
+        "tenacity": "240",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/chavibetol-50-.jpg",
+        "structureImage": "/assets/img/site/chavichem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 6,
+        "cataloguePage": 7,
+        "pdfPage": 9,
+        "title": "Chavibetol 50%",
+        "alsoKnownAs": null,
+        "description": "Chavibetol is the primary component of essential oil from the leaves of the betel plant. It is an aromatic compound with a spicy note.",
+        "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+        "formula": "C10H12O2",
+        "cas": "501-19-9",
+        "fema": null,
+        "tenacity": "240 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Chavibetol is the primary component of essential oil from the leaves of the betelplant. It is an aromatic compound with a spicy note.",
+        "catalogue": "Chavibetol is the primary component of essential oil from the leaves of the betel plant. It is an aromatic compound with a spicy note."
+      },
+      {
+        "field": "formula",
+        "site": "- C10H1202",
+        "catalogue": "C10H12O2"
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "chavicol",
+    "name": "Chavicol",
+    "alsoKnownAs": null,
+    "description": "A colourless liquid found together with terpenes in betel oil, having a phenolic medicinal and herbal odour.",
+    "chemicalName": "4-prop-2-enylphenol",
+    "formula": "C9H10O",
+    "cas": "501-92-8",
+    "fema": "4075",
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": {
+      "halal": "Chavicol"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/chavicol.jpg",
+      "structure": "/assets/img/site/chavicolchem.png"
+    },
+    "catalogue": {
+      "sNo": 7,
+      "page": 8,
+      "pdfPage": 10
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Chavicol",
+        "url": "https://petorosealcones.com/product/chavicol",
+        "subTitle": "Chavicol",
+        "about": "A colourless liquid found together with terpenes in betel oil, having a phenolic medicinal and herbal odour.",
+        "chemicalName": "4-prop-2-enylphenol",
+        "formula": "C9H10O",
+        "cas": "501-92-8",
+        "fema": "4075",
+        "tenacity": "48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/chavicol.jpg",
+        "structureImage": "/assets/img/site/chavicolchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 7,
+        "cataloguePage": 8,
+        "pdfPage": 10,
+        "title": "Chavicol",
+        "alsoKnownAs": null,
+        "description": "A colourless liquid found together with terpenes in betel oil, having a phenolic medicinal and herbal odour.",
+        "chemicalName": "4-prop-2-enylphenol",
+        "formula": "C9H10O",
+        "cas": "501-92-8",
+        "fema": "4075",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "chavicyl-acetate",
+    "name": "Chavicyl Acetate",
+    "alsoKnownAs": "Chavicol Acetate",
+    "description": "Another core component of betel, chavicyl acetate has a strong and spicy odor profile, similar to chavicol and chavibetol.",
+    "chemicalName": "4-(prop-2-en-1-yl)phenyl acetate",
+    "formula": "C11H12O2",
+    "cas": "61499-22-7",
+    "fema": null,
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/chavicyl-acetate.jpg",
+      "structure": "/assets/img/site/chavicylchem.png"
+    },
+    "catalogue": {
+      "sNo": 8,
+      "page": 9,
+      "pdfPage": 11
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Chavicyl Acetate",
+        "url": "https://petorosealcones.com/product/chavicyl-acetate",
+        "subTitle": "Chavicol Acetate",
+        "about": "Another core component of betel, chavicyl acetate has a strong and spicy odor profil, similar to chavicol and chavibetol.",
+        "chemicalName": "4-(prop-2-en-1-yl)phenyl acetate",
+        "formula": "C11H12O2",
+        "cas": "61499-22-7",
+        "fema": null,
+        "tenacity": ">24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/chavicyl-acetate.jpg",
+        "structureImage": "/assets/img/site/chavicylchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 8,
+        "cataloguePage": 9,
+        "pdfPage": 11,
+        "title": "Chavicyl Acetate",
+        "alsoKnownAs": "Chavicol Acetate",
+        "description": "Another core component of betel, chavicyl acetate has a strong and spicy odor profile, similar to chavicol and chavibetol.",
+        "chemicalName": "4-(prop-2-en-1-yl)phenyl acetate",
+        "formula": "C11H12O2",
+        "cas": "61499-22-7",
+        "fema": null,
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Another core component of betel, chavicyl acetate has a strong and spicy odor profil, similar to chavicol and chavibetol.",
+        "catalogue": "Another core component of betel, chavicyl acetate has a strong and spicy odor profile, similar to chavicol and chavibetol."
+      },
+      {
+        "field": "tenacity",
+        "site": ">24",
+        "catalogue": "24 HOURS"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": null,
+        "catalogue": true
+      },
+      {
+        "field": "compliance.kosher",
+        "site": null,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "creamy-lactone",
+    "name": "Creamy Lactone 10%",
+    "alsoKnownAs": "Methyl Laitone 10%",
+    "description": "A very powerful and effective spiro lactone, wherever creamy or fruity core is required. It enhances white flower notes like jasmine and tuberose and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works very well with tonka.",
+    "chemicalName": "8-Methyl-1-oxaspiro[4.5] decan-2-one",
+    "formula": "C10H16O2",
+    "cas": "77-93-0 / 94201-19-1",
+    "fema": null,
+    "tenacity": "165 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/creamy.png",
+      "structure": "/assets/img/site/creamychem.png"
+    },
+    "catalogue": {
+      "sNo": 9,
+      "page": 10,
+      "pdfPage": 12
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Creamy Lactone",
+        "url": "https://petorosealcones.com/product/creamy-lactone",
+        "subTitle": "Methyl Laitone 10%",
+        "about": "A very powerful and effective spiro lactone, enhancing white flower notes like jasmine and tuberose, and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works well with tonka.",
+        "chemicalName": "8-Methyl-1-oxaspiro[4.5]decan-2-one",
+        "formula": "C10H16O2",
+        "cas": "77-93-0 / 94201-19-1",
+        "fema": null,
+        "tenacity": "165 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/creamy.png",
+        "structureImage": "/assets/img/site/creamychem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 9,
+        "cataloguePage": 10,
+        "pdfPage": 12,
+        "title": "Creamy Lactone 10%",
+        "alsoKnownAs": "Methyl Laitone 10%",
+        "description": "A very powerful and effective spiro lactone, wherever creamy or fruity core is required. It enhances white flower notes like jasmine and tuberose and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works very well with tonka.",
+        "chemicalName": "8-Methyl-1-oxaspiro[4.5] decan-2-one",
+        "formula": "C10H16O2",
+        "cas": "77-93-0 / 94201-19-1",
+        "fema": null,
+        "tenacity": "165 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "name",
+        "site": "Creamy Lactone",
+        "catalogue": "Creamy Lactone 10%"
+      },
+      {
+        "field": "description",
+        "site": "A very powerful and effective spiro lactone, enhancing white flower notes like jasmine and tuberose, and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works well with tonka.",
+        "catalogue": "A very powerful and effective spiro lactone, wherever creamy or fruity core is required. It enhances white flower notes like jasmine and tuberose and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works very well with tonka."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "ethyl-isocaproate",
+    "name": "Ethyl Isocaproate",
+    "alsoKnownAs": null,
+    "description": "A fruity aroma with medium strength.",
+    "chemicalName": "Ethyl 4-methylpentanoate",
+    "formula": "C8H16O2",
+    "cas": "25415-67-2",
+    "fema": "4343",
+    "tenacity": "3 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/ethyl.png",
+      "structure": "/assets/img/site/inline-module-9110.png"
+    },
+    "catalogue": {
+      "sNo": 10,
+      "page": 11,
+      "pdfPage": 13
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Ethyl Isocaproate",
+        "url": "https://petorosealcones.com/product/ethyl-isocaproate",
+        "subTitle": null,
+        "about": "A fruity aroma with medium strength.",
+        "chemicalName": "Ethyl 4-methylpentanoate",
+        "formula": "C8H16O2",
+        "cas": "25415-67-2",
+        "fema": "4343",
+        "tenacity": "3 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/ethyl.png",
+        "structureImage": "/assets/img/site/inline-module-9110.png"
+      },
+      "pdf": {
+        "catalogueSNo": 10,
+        "cataloguePage": 11,
+        "pdfPage": 13,
+        "title": "Ethyl Isocaproate",
+        "alsoKnownAs": null,
+        "description": "A fruity aroma with medium strength.",
+        "chemicalName": "Ethyl 4-methylpentanoate",
+        "formula": "C8H16O2",
+        "cas": "25415-67-2",
+        "fema": "4343",
+        "tenacity": "3 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "fadeus",
+    "name": "Fadeus",
+    "alsoKnownAs": "Diola",
+    "description": "A colorless to clear liquid with concentrated sweetness of herbal lavender, and fruity tonalities.",
+    "chemicalName": "1-methoxyhexane",
+    "formula": "C7H16O",
+    "cas": "4747-07-3",
+    "fema": "4291",
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/fadeus.jpg",
+      "structure": "/assets/img/cloudinary/ms1ovkdbnl6d1qqx4o7m.png"
+    },
+    "catalogue": {
+      "sNo": 11,
+      "page": 12,
+      "pdfPage": 14
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Fadeus",
+        "url": "https://petorosealcones.com/product/fadeus",
+        "subTitle": "Diola",
+        "about": "A colorless to clear liquid with concentrated sweetness of herbal lavender, and fruity tonalities.",
+        "chemicalName": "1-methoxyhexane",
+        "formula": "C7H16O",
+        "cas": "4747-07-3",
+        "fema": "4291",
+        "tenacity": null,
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/sghelk9uh5ljsxfsr014.png",
+          "foodGrade": true,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/fadeus.jpg",
+        "structureImage": "/assets/img/cloudinary/ms1ovkdbnl6d1qqx4o7m.png"
+      },
+      "pdf": {
+        "catalogueSNo": 11,
+        "cataloguePage": 12,
+        "pdfPage": 14,
+        "title": "Fadeus",
+        "alsoKnownAs": "Diola",
+        "description": "A colorless to clear liquid with concentrated sweetness of herbal lavender, and fruity tonalities.",
+        "chemicalName": "1-methoxyhexane",
+        "formula": "C7H16O",
+        "cas": "4747-07-3",
+        "fema": "4291",
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "tenacity",
+        "site": null,
+        "catalogue": "24 HOURS"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "gardeniamide",
+    "name": "Gardeniamide",
+    "alsoKnownAs": "Gardamide",
+    "description": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long-lasting citrus effect.",
+    "chemicalName": "N,2-Dimethyl-N-phenylbutyramide",
+    "formula": "C12H17NO",
+    "cas": "84434-18-4",
+    "fema": "3241",
+    "tenacity": "72 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/gardeniamide.jpg",
+      "structure": "/assets/img/site/gardeniamidechem.png"
+    },
+    "catalogue": {
+      "sNo": 12,
+      "page": 13,
+      "pdfPage": 15
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Gardeniamide",
+        "url": "https://petorosealcones.com/product/gardeniamide",
+        "subTitle": "Gardamide",
+        "about": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long lasting citrus effect.",
+        "chemicalName": "N,2-Dimethyl-Nphenylbutyramide",
+        "formula": "C12H17NO",
+        "cas": "84434-18-4",
+        "fema": "3241",
+        "tenacity": ">72",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/gardeniamide.jpg",
+        "structureImage": "/assets/img/site/gardeniamidechem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 12,
+        "cataloguePage": 13,
+        "pdfPage": 15,
+        "title": "Gardeniamide",
+        "alsoKnownAs": "Gardamide",
+        "description": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long-lasting citrus effect.",
+        "chemicalName": "N,2-Dimethyl-N-phenylbutyramide",
+        "formula": "C12H17NO",
+        "cas": "84434-18-4",
+        "fema": null,
+        "tenacity": "72 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long lasting citrus effect.",
+        "catalogue": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long-lasting citrus effect."
+      },
+      {
+        "field": "chemicalName",
+        "site": "N,2-Dimethyl-Nphenylbutyramide",
+        "catalogue": "N,2-Dimethyl-N-phenylbutyramide"
+      },
+      {
+        "field": "fema",
+        "site": "3241",
+        "catalogue": null
+      },
+      {
+        "field": "tenacity",
+        "site": ">72",
+        "catalogue": "72 HOURS"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "grecazine",
+    "name": "Grecazine",
+    "alsoKnownAs": "Verdoracine",
+    "description": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes.",
+    "chemicalName": "4-isopropyl-1-methyl-2-(prop-1-enyl)benzene",
+    "formula": "C13H18",
+    "cas": "14374-92-6",
+    "fema": null,
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": {
+      "kosher": "2-Propenyl Para Cymene (probable: matches Grecazine chemical name)"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/gracazine.jpg",
+      "structure": "/assets/img/site/grecazinechem.png"
+    },
+    "catalogue": {
+      "sNo": 13,
+      "page": 14,
+      "pdfPage": 16
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Grecazine",
+        "url": "https://petorosealcones.com/product/grecazine",
+        "subTitle": "Verdoracine",
+        "about": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes.",
+        "chemicalName": "4-isopropyl-1-methyl-2-(prop-1-enyl)benzene",
+        "formula": "C13H18",
+        "cas": "14374-92-6",
+        "fema": null,
+        "tenacity": "24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/gracazine.jpg",
+        "structureImage": "/assets/img/site/grecazinechem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 13,
+        "cataloguePage": 14,
+        "pdfPage": 16,
+        "title": "Grecazine",
+        "alsoKnownAs": "Verdoracine",
+        "description": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes.",
+        "chemicalName": "4-isopropyl-1-methyl-2-(prop-1-enyl)benzene",
+        "formula": "C13H18",
+        "cas": "14374-92-6",
+        "fema": null,
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "gulabow",
+    "name": "Gulabow",
+    "alsoKnownAs": "Anatolyl",
+    "description": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances.",
+    "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+    "formula": "C13H18O2",
+    "cas": "24817-51-4",
+    "fema": "3632",
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/gulabow.png",
+      "structure": "/assets/img/site/gulabowchem.png"
+    },
+    "catalogue": {
+      "sNo": 14,
+      "page": 15,
+      "pdfPage": 17
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Gulabow",
+        "url": "https://petorosealcones.com/product/gulabow",
+        "subTitle": "Anatolyl",
+        "about": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances.",
+        "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+        "formula": "C13H18O2",
+        "cas": "24817-51-4",
+        "fema": "3632",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/gulabow.png",
+        "structureImage": "/assets/img/site/gulabowchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 14,
+        "cataloguePage": 15,
+        "pdfPage": 17,
+        "title": "Gulabow",
+        "alsoKnownAs": "Anatolyl",
+        "description": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances.",
+        "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+        "formula": "C13H18O2",
+        "cas": "24817-51-4",
+        "fema": "3632",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "hijacynth",
+    "name": "Hijacynth",
+    "alsoKnownAs": "Jacinthaflor",
+    "description": "A powerful floral note in the direction of Jasmine and Hyacinth, animalic as well in character.",
+    "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+    "formula": "C10H12O2",
+    "cas": "33941-99-0",
+    "fema": null,
+    "tenacity": "10 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/hijacynth.jpg",
+      "structure": "/assets/img/site/hijacynthchem.png"
+    },
+    "catalogue": {
+      "sNo": 15,
+      "page": 16,
+      "pdfPage": 18
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Hijacynth",
+        "url": "https://petorosealcones.com/product/hijacynth",
+        "subTitle": "Jacinthaflor",
+        "about": "A powerful floral note in thedirection of Jasmine and Hyacinth, animalic as well in character.",
+        "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+        "formula": "C10H12O2",
+        "cas": "33941-99-0",
+        "fema": null,
+        "tenacity": "10",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/hijacynth.jpg",
+        "structureImage": "/assets/img/site/hijacynthchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 15,
+        "cataloguePage": 16,
+        "pdfPage": 18,
+        "title": "Hijacynth",
+        "alsoKnownAs": "Jacinthaflor",
+        "description": "A powerful floral note in the direction of Jasmine and Hyacinth, animalic as well in character.",
+        "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+        "formula": "C10H12O2",
+        "cas": "33941-99-0",
+        "fema": null,
+        "tenacity": "10 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A powerful floral note in thedirection of Jasmine and Hyacinth, animalic as well in character.",
+        "catalogue": "A powerful floral note in the direction of Jasmine and Hyacinth, animalic as well in character."
+      }
+    ]
+  },
+  {
+    "slug": "hyacinth-acetal",
+    "name": "Hyacinth Acetal",
+    "alsoKnownAs": "Acetal CD",
+    "description": "Hyacinth Acetal has dried nuances of roses, honey, lilac, black tea and of course hyacinth, best used in floral compounds demanding soft but very long lasting heart. It shows the character of green accords with chypre compositions.",
+    "chemicalName": "Phenylacetaldehyde Glycerylacetal",
+    "formula": "C11H14O3",
+    "cas": "29895-73-6",
+    "fema": "2877",
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/hyacinth-acetal.jpg",
+      "structure": "/assets/img/cloudinary/aa1651ofw1yicrspjplq.png"
+    },
+    "catalogue": {
+      "sNo": 16,
+      "page": 17,
+      "pdfPage": 19
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Hyacinth Acetal",
+        "url": "https://petorosealcones.com/product/hyacinth-acetal",
+        "subTitle": "Acetal CD",
+        "about": "Common notes of floral green, honey, rose and tea, the odour of Hyacinth Acetal is dry and leafy, while the flavour is aromatically herbal.",
+        "chemicalName": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+        "formula": "C11H14O3",
+        "cas": "29895-73-6",
+        "fema": "2877",
+        "tenacity": ">48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/hyacinth-acetal.jpg",
+        "structureImage": "/assets/img/cloudinary/aa1651ofw1yicrspjplq.png"
+      },
+      "pdf": {
+        "catalogueSNo": 16,
+        "cataloguePage": 17,
+        "pdfPage": 19,
+        "title": "Hyacinth Acetal",
+        "alsoKnownAs": "Acetal CD",
+        "description": "Hyacinth Acetal has dried nuances of roses, honey, lilac, black tea and of course hyacinth, best used in floral compounds demanding soft but very long lasting heart. It shows the character of green accords with chypre compositions.",
+        "chemicalName": "Phenylacetaldehyde Glycerylacetal",
+        "formula": "C11H14O3",
+        "cas": "29895-73-6",
+        "fema": "2877",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Common notes of floral green, honey, rose and tea, the odour of Hyacinth Acetal is dry and leafy, while the flavour is aromatically herbal.",
+        "catalogue": "Hyacinth Acetal has dried nuances of roses, honey, lilac, black tea and of course hyacinth, best used in floral compounds demanding soft but very long lasting heart. It shows the character of green accords with chypre compositions."
+      },
+      {
+        "field": "chemicalName",
+        "site": "2-(phenylmethyl)-1,3-dioxan-5-ol",
+        "catalogue": "Phenylacetaldehyde Glycerylacetal"
+      },
+      {
+        "field": "tenacity",
+        "site": ">48",
+        "catalogue": "48 HOURS"
+      }
+    ]
+  },
+  {
+    "slug": "hyacinth-core",
+    "name": "Hyacinth Core",
+    "alsoKnownAs": "Hyacinth Body",
+    "description": "Defined by notes of hyacinth florals, and sweet pea, Hyacinth Core can be used with fruity, green and violet leaf notes.",
+    "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+    "formula": "C12H18O2",
+    "cas": "2556-10-7",
+    "fema": null,
+    "tenacity": "18 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/hyacinth.png",
+      "structure": "/assets/img/site/hyacinthchem.png"
+    },
+    "catalogue": {
+      "sNo": 17,
+      "page": 18,
+      "pdfPage": 20
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Hyacinth Core",
+        "url": "https://petorosealcones.com/product/hyacinth-core",
+        "subTitle": "Hyacinth Body",
+        "about": "Defined by notes of hyacinth florals and sweet pea, Hyacinth Core can be used with fruity, green, and violet leaf notes.",
+        "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+        "formula": "C12H18O2",
+        "cas": "2556-10-7",
+        "fema": null,
+        "tenacity": "18 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/hyacinth.png",
+        "structureImage": "/assets/img/site/hyacinthchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 17,
+        "cataloguePage": 18,
+        "pdfPage": 20,
+        "title": "Hyacinth Core",
+        "alsoKnownAs": "Hyacinth Body",
+        "description": "Defined by notes of hyacinth florals, and sweet pea, Hyacinth Core can be used with fruity, green and violet leaf notes.",
+        "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+        "formula": "C12H18O2",
+        "cas": "2556-10-7",
+        "fema": null,
+        "tenacity": "18 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Defined by notes of hyacinth florals and sweet pea, Hyacinth Core can be used with fruity, green, and violet leaf notes.",
+        "catalogue": "Defined by notes of hyacinth florals, and sweet pea, Hyacinth Core can be used with fruity, green and violet leaf notes."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "isocaproic-acid",
+    "name": "Isocaproic Acid",
+    "alsoKnownAs": "Hexonic Acid",
+    "description": "Isocaproic Acid is a saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk and sweat. The odor can be described as sour and penetrating, with unpleasant character similar to that of rancid butter.",
+    "chemicalName": "4-Methylpentanoic Acid",
+    "formula": "C6H12O2",
+    "cas": "646-07-1",
+    "fema": "3463",
+    "tenacity": "72 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/isocaproic.png",
+      "structure": "/assets/img/site/inline-module-1150.png"
+    },
+    "catalogue": {
+      "sNo": 18,
+      "page": 19,
+      "pdfPage": 21
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Isocaproic Acid",
+        "url": "https://petorosealcones.com/product/isocaproic-acid",
+        "subTitle": "Hexonic Acid",
+        "about": "A saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk, and sweat. The odor is sour, penetrating, and unpleasant, similar to rancid butter.",
+        "chemicalName": "4-Methylpentanoic Acid",
+        "formula": "C6H12O2",
+        "cas": "646-07-1",
+        "fema": "3463",
+        "tenacity": "72 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/isocaproic.png",
+        "structureImage": "/assets/img/site/inline-module-1150.png"
+      },
+      "pdf": {
+        "catalogueSNo": 18,
+        "cataloguePage": 19,
+        "pdfPage": 21,
+        "title": "Isocaproic Acid",
+        "alsoKnownAs": "Hexonic Acid",
+        "description": "Isocaproic Acid is a saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk and sweat. The odor can be described as sour and penetrating, with unpleasant character similar to that of rancid butter.",
+        "chemicalName": "4-Methylpentanoic Acid",
+        "formula": "C6H12O2",
+        "cas": "646-07-1",
+        "fema": "3463",
+        "tenacity": "72 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk, and sweat. The odor is sour, penetrating, and unpleasant, similar to rancid butter.",
+        "catalogue": "Isocaproic Acid is a saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk and sweat. The odor can be described as sour and penetrating, with unpleasant character similar to that of rancid butter."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "jalclone",
+    "name": "Jalclone",
+    "alsoKnownAs": null,
+    "description": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation.",
+    "chemicalName": "7-propyl 2h,4h-1,5-benzodioxepin-3-one",
+    "formula": "C12H14O3",
+    "cas": "207228-93-1",
+    "fema": null,
+    "tenacity": "350 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/jalclone.png",
+      "structure": "/assets/img/site/jalchem.png"
+    },
+    "catalogue": {
+      "sNo": 19,
+      "page": 20,
+      "pdfPage": 22
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Jalclone",
+        "url": "https://petorosealcones.com/product/jalclone",
+        "subTitle": null,
+        "about": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation.",
+        "chemicalName": "7-propyl 2h,4h-1,5-benzodioxepin-3-one",
+        "formula": "C12H14O3",
+        "cas": "207228-93-1",
+        "fema": null,
+        "tenacity": "350 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/jalclone.png",
+        "structureImage": "/assets/img/site/jalchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 19,
+        "cataloguePage": 20,
+        "pdfPage": 22,
+        "title": "Jalclone",
+        "alsoKnownAs": null,
+        "description": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation.",
+        "chemicalName": "7-propyl 2h,4h-1,5-benzodioxepin-3-one",
+        "formula": "C12H14O3",
+        "cas": "207228-93-1",
+        "fema": null,
+        "tenacity": "350 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "jasnoate",
+    "name": "Jasnoate",
+    "alsoKnownAs": "Gelsone",
+    "description": "Very jasmin-like, with a wine bouquet and fruity undertones.",
+    "chemicalName": "Ethyl 2-acetyloctanoate",
+    "formula": "C12H22O3",
+    "cas": "29214-60-6",
+    "fema": "4459",
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/jasnoate.jpg",
+      "structure": "/assets/img/cloudinary/oscx4g3klpf4zovcz7bh.jpg"
+    },
+    "catalogue": {
+      "sNo": 20,
+      "page": 21,
+      "pdfPage": 23
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Jasnoate",
+        "url": "https://petorosealcones.com/product/jasnoate",
+        "subTitle": "Gelsone",
+        "about": "Very jasmin-like, with a wine bouquet and fruity undertones.",
+        "chemicalName": "Ethyl 2-acetyloctanoate",
+        "formula": "C12H22O3",
+        "cas": "29214-60-6",
+        "fema": "4459",
+        "tenacity": "48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/sghelk9uh5ljsxfsr014.png",
+          "foodGrade": true,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/jasnoate.jpg",
+        "structureImage": "/assets/img/cloudinary/oscx4g3klpf4zovcz7bh.jpg"
+      },
+      "pdf": {
+        "catalogueSNo": 20,
+        "cataloguePage": 21,
+        "pdfPage": 23,
+        "title": "Jasnoate",
+        "alsoKnownAs": "Gelsone",
+        "description": "Very jasmin-like, with a wine bouquet and fruity undertones.",
+        "chemicalName": "Ethyl 2-acetyloctanoate",
+        "formula": "C12H22O3",
+        "cas": "29214-60-6",
+        "fema": "4459",
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": []
+  },
+  {
+    "slug": "laval",
+    "name": "Laval",
+    "alsoKnownAs": "Lavender Aldehyde",
+    "description": "A powerful, diffusing herbaceous odour. LAVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry, cranberry and chocolate.",
+    "chemicalName": "Isodihydrolavandulal",
+    "formula": "C10H18O",
+    "cas": "35158-25-9",
+    "fema": "3406",
+    "tenacity": "8-10 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "kosher": "2-Isopropyl-5-Methyl-Hexenal (probable: same chemical as Laval, CAS 35158-25-9)",
+      "halal": "Methyl Isopropy Hexenal (Laval)"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/laval.jpg",
+      "structure": "/assets/img/site/lavalchem.png"
+    },
+    "catalogue": {
+      "sNo": 21,
+      "page": 22,
+      "pdfPage": 24
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Laval",
+        "url": "https://petorosealcones.com/product/laval",
+        "subTitle": "Lavender Aldehyde",
+        "about": "A powerful, diffusing herbaceous odour, LOVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry,cranberry and chocolate.",
+        "chemicalName": "Isodihydrolavandulal",
+        "formula": "C10H18O",
+        "cas": "35158-25-9",
+        "fema": "3406",
+        "tenacity": "8-10",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/laval.jpg",
+        "structureImage": "/assets/img/site/lavalchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 21,
+        "cataloguePage": 22,
+        "pdfPage": 24,
+        "title": "Laval",
+        "alsoKnownAs": "Lavender Aldehyde",
+        "description": "A powerful, diffusing herbaceous odour. LAVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry, cranberry and chocolate.",
+        "chemicalName": "Isodihydrolavandulal",
+        "formula": "C10H18O",
+        "cas": "35158-25-9",
+        "fema": "3406",
+        "tenacity": "8-10 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A powerful, diffusing herbaceous odour, LOVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry,cranberry and chocolate.",
+        "catalogue": "A powerful, diffusing herbaceous odour. LAVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry, cranberry and chocolate."
+      }
+    ]
+  },
+  {
+    "slug": "megavanil",
+    "name": "Megavanil",
+    "alsoKnownAs": "Ultravanil",
+    "description": "Megavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+    "chemicalName": "2-ethoxy-4-Methylphenol",
+    "formula": "C9H12O2",
+    "cas": "25265-71-8 / 2563-07-7",
+    "fema": null,
+    "tenacity": "> 350 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/megavanil.jpg",
+      "structure": "/assets/img/site/megavanilchem.png"
+    },
+    "catalogue": {
+      "sNo": 22,
+      "page": 23,
+      "pdfPage": 25
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Megavanil",
+        "url": "https://petorosealcones.com/product/megavanil",
+        "subTitle": "Ultravanil",
+        "about": "Magavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+        "chemicalName": "2-ethoxy-4-Methylphenol",
+        "formula": "C9H12O2",
+        "cas": "25265-71-8/2563-07-7",
+        "fema": null,
+        "tenacity": ">350",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/megavanil.jpg",
+        "structureImage": "/assets/img/site/megavanilchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 22,
+        "cataloguePage": 23,
+        "pdfPage": 25,
+        "title": "Megavanil",
+        "alsoKnownAs": "Ultravanil",
+        "description": "Megavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+        "chemicalName": "2-ethoxy-4-Methylphenol",
+        "formula": "C9H12O2",
+        "cas": "25265-71-8 / 2563-07-7",
+        "fema": null,
+        "tenacity": "> 350 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Magavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much.",
+        "catalogue": "Megavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "methyl-3-nonenoate",
+    "name": "Methyl-3-Nonenoate",
+    "alsoKnownAs": null,
+    "description": "An intense fresh, fruity, green odor with cucumber undertones, with a varying tropical taste resembling melons and apples.",
+    "chemicalName": "Methyl-3-nonenoate",
+    "formula": "C10H18O2",
+    "cas": "13481-87-3",
+    "fema": "3710",
+    "tenacity": "> 24 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "kosher": "Methyl-3-Nonenoate",
+      "halal": "Methyl - 3 - Nonenoate"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/methyl-3-nonanoate.jpg",
+      "structure": "/assets/img/site/methylchem.png"
+    },
+    "catalogue": {
+      "sNo": 23,
+      "page": 24,
+      "pdfPage": 26
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Methyl-3-Nonenoate",
+        "url": "https://petorosealcones.com/product/methyl-3-nonenoate",
+        "subTitle": "Methyl-3-Nonenoate",
+        "about": "An intense fresh, fruity, green odor with cucumber undrtones, with a varying tropical taste resembling melons and apples.",
+        "chemicalName": "Methyl-3-nonenoate",
+        "formula": "C10H18O2",
+        "cas": "13481-87-3",
+        "fema": "3710",
+        "tenacity": ">24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/methyl-3-nonanoate.jpg",
+        "structureImage": "/assets/img/site/methylchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 23,
+        "cataloguePage": 24,
+        "pdfPage": 26,
+        "title": "Methyl-3-Nonenoate",
+        "alsoKnownAs": null,
+        "description": "An intense fresh, fruity, green odor with cucumber undertones, with a varying tropical taste resembling melons and apples.",
+        "chemicalName": "Methyl-3-nonenoate",
+        "formula": "C10H18O2",
+        "cas": "13481-87-3",
+        "fema": "3710",
+        "tenacity": "> 24 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "An intense fresh, fruity, green odor with cucumber undrtones, with a varying tropical taste resembling melons and apples.",
+        "catalogue": "An intense fresh, fruity, green odor with cucumber undertones, with a varying tropical taste resembling melons and apples."
+      }
+    ]
+  },
+  {
+    "slug": "muscomme-w",
+    "name": "Muscomme W",
+    "alsoKnownAs": "Edenolide",
+    "description": "White Musk with powdery, creamy notes; and fresh fruity undertones.",
+    "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+    "formula": "C15H26O4",
+    "cas": "478695-70-4",
+    "fema": null,
+    "tenacity": "50 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/muscomme.png",
+      "structure": "/assets/img/site/muscommechem.png"
+    },
+    "catalogue": {
+      "sNo": 24,
+      "page": 25,
+      "pdfPage": 27
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Muscomme W",
+        "url": "https://petorosealcones.com/product/muscomme-w",
+        "subTitle": "Edenolide",
+        "about": "White Musk with powdery, creamy notes and fresh fruity undertones.",
+        "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+        "formula": "C15H26O4",
+        "cas": "478695-70-4",
+        "fema": null,
+        "tenacity": "50 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/muscomme.png",
+        "structureImage": "/assets/img/site/muscommechem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 24,
+        "cataloguePage": 25,
+        "pdfPage": 27,
+        "title": "Muscomme W",
+        "alsoKnownAs": "Edenolide",
+        "description": "White Musk with powdery, creamy notes; and fresh fruity undertones.",
+        "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+        "formula": "C15H26O4",
+        "cas": "478695-70-4",
+        "fema": null,
+        "tenacity": "50 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "White Musk with powdery, creamy notes and fresh fruity undertones.",
+        "catalogue": "White Musk with powdery, creamy notes; and fresh fruity undertones."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": true
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "narangama",
+    "name": "Narangama",
+    "alsoKnownAs": "Orange Flower Ether",
+    "description": "A complete set of fresh-citrusy notes of Orange, Bergamot and Grapefruit, underlined with Neroli, Narangama possesses hints of florals subtly.",
+    "chemicalName": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+    "formula": "C11H20O",
+    "cas": "14576-08-0",
+    "fema": null,
+    "tenacity": "3 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/narangama.png",
+      "structure": "/assets/img/site/inline-module-2642.png"
+    },
+    "catalogue": {
+      "sNo": 25,
+      "page": 26,
+      "pdfPage": 28
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Narangama",
+        "url": "https://petorosealcones.com/product/narangama",
+        "subTitle": "Orange Flower Ether",
+        "about": "A complete set of fresh-citrusy notes of Orange, Bergamot, and Grapefruit, underlined with Neroli. Narangama possesses hints of florals subtly.",
+        "chemicalName": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+        "formula": "C11H20O",
+        "cas": "14576-08-0",
+        "fema": null,
+        "tenacity": "3 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/narangama.png",
+        "structureImage": "/assets/img/site/inline-module-2642.png"
+      },
+      "pdf": {
+        "catalogueSNo": 25,
+        "cataloguePage": 26,
+        "pdfPage": 28,
+        "title": "Narangama",
+        "alsoKnownAs": "Orange Flower Ether",
+        "description": "A complete set of fresh-citrusy notes of Orange, Bergamot and Grapefruit, underlined with Neroli, Narangama possesses hints of florals subtly.",
+        "chemicalName": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+        "formula": "C11H20O",
+        "cas": "14576-08-0",
+        "fema": null,
+        "tenacity": "3 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A complete set of fresh-citrusy notes of Orange, Bergamot, and Grapefruit, underlined with Neroli. Narangama possesses hints of florals subtly.",
+        "catalogue": "A complete set of fresh-citrusy notes of Orange, Bergamot and Grapefruit, underlined with Neroli, Narangama possesses hints of florals subtly."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "neroli-ketone",
+    "name": "Neroli Ketone",
+    "alsoKnownAs": "Nerone",
+    "description": "A powerfully diffusive note of Neroli together with the dry freshness of the greens.",
+    "chemicalName": "1-(2-methyl-5-propan-2-yl-1-cyclohex-2-enyl)propan-1-one",
+    "formula": "C13H22O",
+    "cas": "31375-17-4",
+    "fema": null,
+    "tenacity": "> 30 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/neroli-ketone.jpg",
+      "structure": "/assets/img/site/nerolichem.png"
+    },
+    "catalogue": {
+      "sNo": 26,
+      "page": 27,
+      "pdfPage": 29
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Neroli Ketone",
+        "url": "https://petorosealcones.com/product/neroli-ketone",
+        "subTitle": "Nerone",
+        "about": "A powerfully diffusive note of Neroli together with the dry freshness of the greens.",
+        "chemicalName": "1-(2-methyl-5-propan-2-yl-1-cyclohex-2-enyl)propan-1-one",
+        "formula": "C13H22O",
+        "cas": "- 31375-17-4",
+        "fema": null,
+        "tenacity": ">30",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/neroli-ketone.jpg",
+        "structureImage": "/assets/img/site/nerolichem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 26,
+        "cataloguePage": 27,
+        "pdfPage": 29,
+        "title": "Neroli Ketone",
+        "alsoKnownAs": "Nerone",
+        "description": "A powerfully diffusive note of Neroli together with the dry freshness of the greens.",
+        "chemicalName": "1-(2-methyl-5-propan-2-yl-1-cyclohex-2-enyl)propan-1-one",
+        "formula": "C13H22O",
+        "cas": "31375-17-4",
+        "fema": null,
+        "tenacity": "> 30 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "newfoleon",
+    "name": "Newfoleon",
+    "alsoKnownAs": "Neofolione / Novafoleon",
+    "description": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably.",
+    "chemicalName": "Methyl-2-nonenoate",
+    "formula": "C10H18O2",
+    "cas": "111-79-5",
+    "fema": "2725",
+    "tenacity": "15 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/newfoleon.jpg",
+      "structure": "/assets/img/cloudinary/u8peviyukazmvxwvkfrx.jpg"
+    },
+    "catalogue": {
+      "sNo": 27,
+      "page": 28,
+      "pdfPage": 30
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Newfoleon",
+        "url": "https://petorosealcones.com/product/newfoleon",
+        "subTitle": "Neofolione/ Novafoleon",
+        "about": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably",
+        "chemicalName": "Methyl-2-nonenoate",
+        "formula": "C10H18O2",
+        "cas": "111-79-5",
+        "fema": "2725",
+        "tenacity": "15",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/newfoleon.jpg",
+        "structureImage": "/assets/img/cloudinary/u8peviyukazmvxwvkfrx.jpg"
+      },
+      "pdf": {
+        "catalogueSNo": 27,
+        "cataloguePage": 28,
+        "pdfPage": 30,
+        "title": "Newfoleon",
+        "alsoKnownAs": "Neofolione / Novafoleon",
+        "description": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably.",
+        "chemicalName": "Methyl-2-nonenoate",
+        "formula": "C10H18O2",
+        "cas": "111-79-5",
+        "fema": "2725",
+        "tenacity": "15 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably",
+        "catalogue": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably."
+      }
+    ]
+  },
+  {
+    "slug": "nutclone-one",
+    "name": "Nutclone One",
+    "alsoKnownAs": "Nutty Cyclohexanone",
+    "description": "A powerful nutty, caramel-like odor.",
+    "chemicalName": "3-methyl-2-cyclohexanone",
+    "formula": "C7H10O",
+    "cas": "1193-18-6",
+    "fema": "3360",
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/nutclone-one.jpg",
+      "structure": "/assets/img/site/inline-module-8320.png"
+    },
+    "catalogue": {
+      "sNo": 28,
+      "page": 29,
+      "pdfPage": 31
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Nutclone One",
+        "url": "https://petorosealcones.com/product/nutclone-one",
+        "subTitle": "Nutty Cyclohexanone",
+        "about": "A powerful nutty, caramel-like odor.",
+        "chemicalName": "3-methyl-2-cyclohexanone",
+        "formula": "C7H10O",
+        "cas": "C7H10O",
+        "fema": "3360",
+        "tenacity": "24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/nutclone-one.jpg",
+        "structureImage": "/assets/img/site/inline-module-8320.png"
+      },
+      "pdf": {
+        "catalogueSNo": 28,
+        "cataloguePage": 29,
+        "pdfPage": 31,
+        "title": "Nutclone One",
+        "alsoKnownAs": "Nutty Cyclohexanone",
+        "description": "A powerful nutty, caramel-like odor.",
+        "chemicalName": "3-methyl-2-cyclohexanone",
+        "formula": "C7H10O",
+        "cas": "1193-18-6",
+        "fema": "3360",
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "cas",
+        "site": "C7H10O",
+        "catalogue": "1193-18-6"
+      }
+    ]
+  },
+  {
+    "slug": "orrisnitrile",
+    "name": "Orrisnitrile",
+    "alsoKnownAs": "Irisnitrile",
+    "description": "Strengthens orris and violet flower notes, with green fatty floral tones.",
+    "chemicalName": "2-nonene nitrile",
+    "formula": "C9H15N",
+    "cas": "29127-83-1",
+    "fema": null,
+    "tenacity": "48 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/orrisnitril.jpg",
+      "structure": "/assets/img/site/inline-module-4636.png"
+    },
+    "catalogue": {
+      "sNo": 29,
+      "page": 30,
+      "pdfPage": 32
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Orrisnitrile",
+        "url": "https://petorosealcones.com/product/orrisnitrile",
+        "subTitle": "Irisnitrile",
+        "about": "Strengthens orris and violet flower notes, with green fatty floral tones",
+        "chemicalName": "2-nonene nitrile",
+        "formula": "C9H15N",
+        "cas": "29127-83-1",
+        "fema": null,
+        "tenacity": "48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/orrisnitril.jpg",
+        "structureImage": "/assets/img/site/inline-module-4636.png"
+      },
+      "pdf": {
+        "catalogueSNo": 29,
+        "cataloguePage": 30,
+        "pdfPage": 32,
+        "title": "Orrisnitril",
+        "alsoKnownAs": "Irisnitrile",
+        "description": "Strengthens orris and violet flower notes, with green fatty floral tones.",
+        "chemicalName": "2-nonene nitrile",
+        "formula": "C9H15N",
+        "cas": "29127-83-1",
+        "fema": null,
+        "tenacity": "48 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "name",
+        "site": "Orrisnitrile",
+        "catalogue": "Orrisnitril"
+      },
+      {
+        "field": "description",
+        "site": "Strengthens orris and violet flower notes, with green fatty floral tones",
+        "catalogue": "Strengthens orris and violet flower notes, with green fatty floral tones."
+      }
+    ]
+  },
+  {
+    "slug": "palsantol",
+    "name": "Palsantol",
+    "alsoKnownAs": null,
+    "description": "A very powerful and natural sandalwood note.",
+    "chemicalName": "beta,2,2,3-tetramethyl-delta-methylene-3-cyclopentene-1-butanol",
+    "formula": "C14H24O",
+    "cas": "104864-90-6",
+    "fema": null,
+    "tenacity": "336 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/palsantol.png",
+      "structure": "/assets/img/site/palsantolchem.png"
+    },
+    "catalogue": {
+      "sNo": 30,
+      "page": 31,
+      "pdfPage": 33
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Palsantol",
+        "url": "https://petorosealcones.com/product/palsantol",
+        "subTitle": null,
+        "about": "A very powerful and natural sandalwood note.",
+        "chemicalName": "beta,2,2,3-tetramethyldelta-methylene-3-cyclopentene-1-butanol",
+        "formula": "C14H24O",
+        "cas": "104864-90-6",
+        "fema": null,
+        "tenacity": "336 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/palsantol.png",
+        "structureImage": "/assets/img/site/palsantolchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 30,
+        "cataloguePage": 31,
+        "pdfPage": 33,
+        "title": "Palsantol",
+        "alsoKnownAs": null,
+        "description": "A very powerful and natural sandalwood note.",
+        "chemicalName": "beta,2,2,3-tetramethyl-delta-methylene-3-cyclopentene-1-butanol",
+        "formula": "C14H24O",
+        "cas": "104864-90-6",
+        "fema": null,
+        "tenacity": "336 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "chemicalName",
+        "site": "beta,2,2,3-tetramethyldelta-methylene-3-cyclopentene-1-butanol",
+        "catalogue": "beta,2,2,3-tetramethyl-delta-methylene-3-cyclopentene-1-butanol"
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "para-propyl-phenol",
+    "name": "Para Propyl Phenol",
+    "alsoKnownAs": null,
+    "description": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky.",
+    "chemicalName": "4-Propylphenol",
+    "formula": "C9H12O",
+    "cas": "645-56-7",
+    "fema": "3649",
+    "tenacity": "10 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "kosher": "Para Propylphenol"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/para-propyl-phenol.jpg",
+      "structure": "/assets/img/cloudinary/gywmuyezkm2hfrdgxrfm.png"
+    },
+    "catalogue": {
+      "sNo": 31,
+      "page": 32,
+      "pdfPage": 34
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Para Propyl Phenol",
+        "url": "https://petorosealcones.com/product/para-propyl-phenol",
+        "subTitle": "Para Propyl Phenol",
+        "about": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky",
+        "chemicalName": "4-Propylphenol",
+        "formula": "C9H12O",
+        "cas": "645-56-7",
+        "fema": "3649",
+        "tenacity": "10",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/para-propyl-phenol.jpg",
+        "structureImage": "/assets/img/cloudinary/gywmuyezkm2hfrdgxrfm.png"
+      },
+      "pdf": {
+        "catalogueSNo": 31,
+        "cataloguePage": 32,
+        "pdfPage": 34,
+        "title": "Para Propyl Phenol",
+        "alsoKnownAs": null,
+        "description": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky.",
+        "chemicalName": "4-Propylphenol",
+        "formula": "C9H12O",
+        "cas": "645-56-7",
+        "fema": "3649",
+        "tenacity": "10 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky",
+        "catalogue": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky."
+      }
+    ]
+  },
+  {
+    "slug": "phenyl-ethyl-propionate",
+    "name": "Phenyl Ethyl Propionate",
+    "alsoKnownAs": null,
+    "description": "Like other phenolics, Phenyl Ethyl Propionate has fruity, honeyed and slightly spicy odour.",
+    "chemicalName": "Phenyl Ethyl Propionate",
+    "formula": "C11H14O2",
+    "cas": "122-70-3",
+    "fema": "2867",
+    "tenacity": "96 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "kosher": "Phenyl Ethyl Propionate",
+      "halal": "Phenyl Ethyl Propionate"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/phenyl-ethyl-propionate.jpg",
+      "structure": "/assets/img/cloudinary/ykxyov0rt2dht8ovtlxx.png"
+    },
+    "catalogue": {
+      "sNo": 32,
+      "page": 33,
+      "pdfPage": 35
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Phenyl Ethyl Propionate",
+        "url": "https://petorosealcones.com/product/phenyl-ethyl-propionate",
+        "subTitle": "Phenyl Ethyl Propionate",
+        "about": "Like other phenolics, Phenyl Ethyl Propionate ha fruity, honeyed and slightly spicy odour.",
+        "chemicalName": "Phenyl Ethyl Propionate",
+        "formula": "C11H14O2",
+        "cas": "122-70-3",
+        "fema": "2867",
+        "tenacity": "96",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/phenyl-ethyl-propionate.jpg",
+        "structureImage": "/assets/img/cloudinary/ykxyov0rt2dht8ovtlxx.png"
+      },
+      "pdf": {
+        "catalogueSNo": 32,
+        "cataloguePage": 33,
+        "pdfPage": 35,
+        "title": "Phenyl Ethyl Propionate",
+        "alsoKnownAs": null,
+        "description": "Like other phenolics, Phenyl Ethyl Propionate has fruity, honeyed and slightly spicy odour.",
+        "chemicalName": "Phenyl Ethyl Propionate",
+        "formula": "C11H14O2",
+        "cas": "122-70-3",
+        "fema": "2867",
+        "tenacity": "96 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "Like other phenolics, Phenyl Ethyl Propionate ha fruity, honeyed and slightly spicy odour.",
+        "catalogue": "Like other phenolics, Phenyl Ethyl Propionate has fruity, honeyed and slightly spicy odour."
+      }
+    ]
+  },
+  {
+    "slug": "prosethyl",
+    "name": "Prosethyl",
+    "alsoKnownAs": "Rosethyl",
+    "description": "Rosy note with green, earthy, spicy and honey undertones.",
+    "chemicalName": "1-(Ethoxymethyl)-2-methoxy benzene",
+    "formula": "C10H14O2",
+    "cas": "64988-06-03",
+    "fema": null,
+    "tenacity": "> 48 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/prosethyl.jpg",
+      "structure": "/assets/img/cloudinary/k8omv9eeavjuf5owghw2.png"
+    },
+    "catalogue": {
+      "sNo": 33,
+      "page": 34,
+      "pdfPage": 36
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [
+      "CAS number fails check-digit validation: 64988-06-03"
+    ],
+    "sources": {
+      "site": {
+        "title": "Prosethyl",
+        "url": "https://petorosealcones.com/product/prosethyl",
+        "subTitle": "Rosethyl",
+        "about": "Rosy note with green, earthy, spicy and honey undertones.",
+        "chemicalName": "1-(Ethoxymethyl)-2- methoxybenzene",
+        "formula": "C10H14O2",
+        "cas": "64988-06-03",
+        "fema": null,
+        "tenacity": ">48",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/prosethyl.jpg",
+        "structureImage": "/assets/img/cloudinary/k8omv9eeavjuf5owghw2.png"
+      },
+      "pdf": {
+        "catalogueSNo": 33,
+        "cataloguePage": 34,
+        "pdfPage": 36,
+        "title": "Prosethyl",
+        "alsoKnownAs": "Rosethyl",
+        "description": "Rosy note with green, earthy, spicy and honey undertones.",
+        "chemicalName": "1-(Ethoxymethyl)-2-methoxy benzene",
+        "formula": "C10H14O2",
+        "cas": "64988-06-03",
+        "fema": null,
+        "tenacity": "> 48 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": []
+  },
+  {
+    "slug": "rhumytal",
+    "name": "Rhumytal",
+    "alsoKnownAs": "Rhum Acetal",
+    "description": "Rummy-tobacco like, with fruity notes and woody undertones.",
+    "chemicalName": "Cyclohexanone Diethyl Acetal",
+    "formula": "C10H20O2",
+    "cas": "1670-47-9",
+    "fema": "4516",
+    "tenacity": "> 24 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/rhumytal.jpg",
+      "structure": "/assets/img/site/rhumytalchem.png"
+    },
+    "catalogue": {
+      "sNo": 34,
+      "page": 35,
+      "pdfPage": 37
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Rhumytal",
+        "url": "https://petorosealcones.com/product/rhumytal",
+        "subTitle": "Rhum Acetal",
+        "about": "Rummy-tobacco like, with fruity notes and woody undertones.",
+        "chemicalName": "Cyclohexanone Diethyl Acetal",
+        "formula": "C10H20O2",
+        "cas": "1670-47-9",
+        "fema": "4516",
+        "tenacity": ">24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/rhumytal.jpg",
+        "structureImage": "/assets/img/site/rhumytalchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 34,
+        "cataloguePage": 35,
+        "pdfPage": 37,
+        "title": "Rhumytal",
+        "alsoKnownAs": "Rhum Acetal",
+        "description": "Rummy-tobacco like, with fruity notes and woody undertones.",
+        "chemicalName": "Cyclohexanone Diethyl Acetal",
+        "formula": "C10H20O2",
+        "cas": "1670-47-9",
+        "fema": "4516",
+        "tenacity": "> 24 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "compliance.foodGrade",
+        "site": true,
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": true,
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "val-acetate",
+    "name": "Val Acetate",
+    "alsoKnownAs": "Vetikolacetate",
+    "description": "This intensifies the spicy-green aspects, while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odour with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+    "chemicalName": "1,3-Dimethyl-3-phenylbutylacetate",
+    "formula": "C14H20O2",
+    "cas": "68083-58-9",
+    "fema": null,
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/val.png",
+      "structure": "/assets/img/site/valchem.png"
+    },
+    "catalogue": {
+      "sNo": 35,
+      "page": 36,
+      "pdfPage": 38
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Val Acetate",
+        "url": "https://petorosealcones.com/product/val-acetate",
+        "subTitle": "Vetikolacetate",
+        "about": "This intensifies the spicy-green aspects while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odor with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+        "chemicalName": "1,3-Dimethyl-3-phenylbutylacetate",
+        "formula": "C14H20O2",
+        "cas": "68083-58-9",
+        "fema": null,
+        "tenacity": "24 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/val.png",
+        "structureImage": "/assets/img/site/valchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 35,
+        "cataloguePage": 36,
+        "pdfPage": 38,
+        "title": "Val Acetate",
+        "alsoKnownAs": "Vetikolacetate",
+        "description": "This intensifies the spicy-green aspects, while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odour with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+        "chemicalName": "1,3-Dimethyl-3-phenylbutylacetate",
+        "formula": "C14H20O2",
+        "cas": "68083-58-9",
+        "fema": null,
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "This intensifies the spicy-green aspects while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odor with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers.",
+        "catalogue": "This intensifies the spicy-green aspects, while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odour with Vetiver is beautifully composed with Rhubarb, Grapefruit, and Green Peppers."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "valakon",
+    "name": "Valakon",
+    "alsoKnownAs": "Vetikon",
+    "description": "With a vetiver like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+    "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+    "formula": "C12H16O",
+    "cas": "7403-42-1",
+    "fema": null,
+    "tenacity": "12 HOURS",
+    "compliance": {
+      "foodGrade": false,
+      "kosher": false,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": true
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/valakon.png",
+      "structure": "/assets/img/site/valakonchem.png"
+    },
+    "catalogue": {
+      "sNo": 36,
+      "page": 37,
+      "pdfPage": 39
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Valakon",
+        "url": "https://petorosealcones.com/product/valakon",
+        "subTitle": "Vetikon",
+        "about": "With a vetiver-like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+        "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+        "formula": "C12H16O",
+        "cas": "7403-42-1",
+        "fema": null,
+        "tenacity": "12 HOURS",
+        "badges": {
+          "shown": false
+        },
+        "image": "/assets/img/site/valakon.png",
+        "structureImage": "/assets/img/site/valakonchem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 36,
+        "cataloguePage": 37,
+        "pdfPage": 39,
+        "title": "Valakon",
+        "alsoKnownAs": "Vetikon",
+        "description": "With a vetiver like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+        "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+        "formula": "C12H16O",
+        "cas": "7403-42-1",
+        "fema": null,
+        "tenacity": "12 HOURS",
+        "badges": {
+          "foodGrade": false,
+          "kosher": false,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "With a vetiver-like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition.",
+        "catalogue": "With a vetiver like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition."
+      },
+      {
+        "field": "compliance.foodGrade",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.kosher",
+        "site": "not shown",
+        "catalogue": false
+      },
+      {
+        "field": "compliance.gmo",
+        "site": "not shown",
+        "catalogue": false
+      }
+    ]
+  },
+  {
+    "slug": "vanilathon",
+    "name": "Vanilathon",
+    "alsoKnownAs": "Creosol",
+    "description": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanilla note with leather-like hints and balsamic undertone.",
+    "chemicalName": "2-methoxy-4-methylphenol",
+    "formula": "C8H10O2",
+    "cas": "93-51-6",
+    "fema": "2671",
+    "tenacity": "24 HOURS",
+    "compliance": {
+      "foodGrade": true,
+      "kosher": true,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "halal": "Methyl Guaiacol (Vanilathon)"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/vanilathon.jpg",
+      "structure": "/assets/img/cloudinary/kvbq0ivsoy50vrcybp63.png"
+    },
+    "catalogue": {
+      "sNo": 37,
+      "page": 38,
+      "pdfPage": 40
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Vanilathon",
+        "url": "https://petorosealcones.com/product/vanilathon",
+        "subTitle": "Creosol",
+        "about": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanila note with leather like hints and balsamin undertone.",
+        "chemicalName": "2-methoxy-4-methylphenol",
+        "formula": "C8H10O2",
+        "cas": "93-51-6",
+        "fema": "2671",
+        "tenacity": "24",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/qerwn1cfznigehdemmvg.png",
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        },
+        "image": "/assets/img/site/vanilathon.jpg",
+        "structureImage": "/assets/img/cloudinary/kvbq0ivsoy50vrcybp63.png"
+      },
+      "pdf": {
+        "catalogueSNo": 37,
+        "cataloguePage": 38,
+        "pdfPage": 40,
+        "title": "Vanilathon",
+        "alsoKnownAs": "Creosol",
+        "description": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanilla note with leather-like hints and balsamic undertone.",
+        "chemicalName": "2-methoxy-4-methylphenol",
+        "formula": "C8H10O2",
+        "cas": "93-51-6",
+        "fema": "2671",
+        "tenacity": "24 HOURS",
+        "badges": {
+          "foodGrade": true,
+          "kosher": true,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": [
+      {
+        "field": "description",
+        "site": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanila note with leather like hints and balsamin undertone.",
+        "catalogue": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanilla note with leather-like hints and balsamic undertone."
+      }
+    ]
+  },
+  {
+    "slug": "whiskey-91",
+    "name": "Whiskey 91",
+    "alsoKnownAs": "Whiskey Lactone",
+    "description": "With a tonka type odor of coumarin, coconut, maple, toasted nuts with a burnt character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances.",
+    "chemicalName": "5-butyl-4-methyloxolan-2-one",
+    "formula": "C9H16O2",
+    "cas": "39212-23-2",
+    "fema": "3803",
+    "tenacity": "60 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": {
+      "halal": "Methyl Octalactone (probable: Whiskey 91 is whiskey lactone, 5-butyl-4-methyloxolan-2-one)"
+    },
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/whiskey-91.jpg",
+      "structure": "/assets/img/site/whiskeychem.png"
+    },
+    "catalogue": {
+      "sNo": 38,
+      "page": 39,
+      "pdfPage": 41
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "Whiskey 91",
+        "url": "https://petorosealcones.com/product/whiskey-91",
+        "subTitle": "Whiskey Lactone",
+        "about": "With a tonka type odor of coumarin, coconut, maple, toasted nuts with a burnt character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances.",
+        "chemicalName": "5-butyl-4-methyloxolan-2-one",
+        "formula": "C9H16O2",
+        "cas": "39212-23-2",
+        "fema": "3803",
+        "tenacity": "60",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/whiskey-91.jpg",
+        "structureImage": "/assets/img/site/whiskeychem.png"
+      },
+      "pdf": {
+        "catalogueSNo": 38,
+        "cataloguePage": 39,
+        "pdfPage": 41,
+        "title": "Whiskey 91",
+        "alsoKnownAs": "Whiskey Lactone",
+        "description": "With a tonka type odor of coumarin, coconut, maple, toasted nuts with a burnt character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances.",
+        "chemicalName": "5-butyl-4-methyloxolan-2-one",
+        "formula": "C9H16O2",
+        "cas": "39212-23-2",
+        "fema": "3803",
+        "tenacity": "60 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": []
+  },
+  {
+    "slug": "white-tuberose",
+    "name": "White Tuberose",
+    "alsoKnownAs": "Methyl Tuberate",
+    "description": "Methyl Tuberate is a powerful modifier to floral accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance.",
+    "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+    "formula": "C10H18O2",
+    "cas": "33673-62-0",
+    "fema": null,
+    "tenacity": "160 HOURS",
+    "compliance": {
+      "foodGrade": null,
+      "kosher": null,
+      "gmo": false,
+      "source": "catalogue",
+      "needsConfirmation": false
+    },
+    "certificateListings": null,
+    "odourProfile": "TODO: not stated separately in any source (see description)",
+    "applications": "TODO: not stated in any source",
+    "purity": "TODO: not stated in any source",
+    "packaging": "TODO: not stated in any source",
+    "images": {
+      "product": "/assets/img/site/white-tuberose.jpg",
+      "structure": "/assets/img/cloudinary/rkjfxp8fgei3hzncev1w.png"
+    },
+    "catalogue": {
+      "sNo": 39,
+      "page": 40,
+      "pdfPage": 42
+    },
+    "source": "site",
+    "foundIn": [
+      "site",
+      "pdf"
+    ],
+    "flags": [],
+    "sources": {
+      "site": {
+        "title": "White Tuberose",
+        "url": "https://petorosealcones.com/product/white-tuberose",
+        "subTitle": "Methyl Tuberate",
+        "about": "Methyl Tuberate is a powerful modifier to floral accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance.",
+        "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+        "formula": "C10H18O2",
+        "cas": "33673-62-0",
+        "fema": null,
+        "tenacity": "160",
+        "badges": {
+          "shown": true,
+          "image": "/assets/img/cloudinary/gy4i7lump878c1yzkxdu.png",
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        },
+        "image": "/assets/img/site/white-tuberose.jpg",
+        "structureImage": "/assets/img/cloudinary/rkjfxp8fgei3hzncev1w.png"
+      },
+      "pdf": {
+        "catalogueSNo": 39,
+        "cataloguePage": 40,
+        "pdfPage": 42,
+        "title": "White Tuberose",
+        "alsoKnownAs": "Methyl Tuberate",
+        "description": "Methyl Tuberate is a powerful modifier to floral accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance.",
+        "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+        "formula": "C10H18O2",
+        "cas": "33673-62-0",
+        "fema": null,
+        "tenacity": "160 HOURS",
+        "badges": {
+          "foodGrade": null,
+          "kosher": null,
+          "gmo": false
+        }
+      }
+    },
+    "discrepancies": []
+  }
+]

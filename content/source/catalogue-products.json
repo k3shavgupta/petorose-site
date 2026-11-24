@@ -1,0 +1,3560 @@
+{
+  "toc": "S.No.   Product Name              Also Known As             Page No\n\n01      Altanol                   Toscanol                  02\n02      Anethole                  Anethole                  03\n03      Arednitryl                Cantryl                   04\n04      Capriﬂoren                Apriﬂoren                 05\n05      Celerytone                Celery Ketone             06\n06      Chavibetol                Chavibetol                07\n07      Chavicol                  Chavicol                  08\n08      Chavicyl Acetate          Chavicol Acetate          09\n09      Creamy Lactone 10%        Methyl Laitone 10%        10\n10      Ethyl Isocaproate         Ethyle Isocaproate        11\n11      Fadeus                    Diola                     12\n12      Gardeniamide              Gardamide                 13\n13      Grecazine                 Verdoracine               14\n14      Gulabow                   Anatolyl                  15\n15      Hijacynth                 Jacinthaﬂor               16\n16      Hyacinth Acetal           Acetal CD                 17\n17      Hyacinth Core             Hyacinth Body             18\n18      Isocaproic Acid           Isocaproic Acid           19\n19      Jalclone                                            20\n20      Jasnoate                  Gelsone                   21\n21      Laval                     Lavender Aldehyde         22\n22      Megavanil                 Ultravanil                23\n23      Methyl-3-Nonenoate        Methyl-3-nonenoate        24\n24      Muscomme W                Eddenolide                25\n25      Narangama                 Orange Flower Ether       26\n26      Neroli Ketone             Nerone                    27\n27      Newfoleon                 Neofolione                28\n28      Nutclone One              Nutty Cyclohexanone       29\n29      Orrisnitrile              Irisnitrile               30\n30      Palsantol                                           31\n31      Para Propyl Phenol        Para Propyl Phenol        32\n32      Phenyl Ethyl Propionate   Phenyl Ethyl Propionate   33\n33      Prosethyl                 Rosethyl                  34\n34      Rhumytal                  Rhum Acetal               35\n35      Val Acetate               Vetikyl Acetate           36\n36      Valakon                   Vetikol                   37\n37      Vanilathon                Creosol                   38\n38      Whiskey 91                Whiskey Lactone           39\n39      White Tuberose            Methyle Tuberate          40\n\f",
+  "products": [
+    {
+      "catalogueSNo": 1,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "headerLines": [
+        "Altanol",
+        "Toscanol",
+        "Altanol is a great substitute for"
+      ],
+      "leftColumnText": "Altanol\nToscanol\n\nAltanol is a great substitute for\nbasil oil, tarragon oil, methyl\nchavicol, and even safrole. It has a\nsweet and spicy note of estragole\nand is anisic in essence, with a\nliquorice character and a touch of\nsaﬀron and myrtle.\nChemical Name:\n1-Cyclopropylmethyl-4methoxybenzene\nPhysico Chemical Properties:\nFormula - C11H14O\nCAS no. - 16510-27-3\nFEMA - 4759\n\n",
+      "chemicalName": "1-Cyclopropylmethyl-4methoxybenzene",
+      "formula": "C11H14O",
+      "cas": "16510-27-3",
+      "fema": "4759",
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Altanol",
+        "Toscanol",
+        "Altanol is a great substitute for",
+        "basil oil, tarragon oil, methyl",
+        "chavicol, and even safrole. It has a",
+        "sweet and spicy note of estragole",
+        "and is anisic in essence, with a",
+        "liquorice character and a touch of",
+        "saﬀron and myrtle."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Altanol is a great substitute for basil oil, tarragon oil, methyl chavicol, and even safrole. It has a sweet and spicy note of estragole and is anisic in essence, with a liquorice character and a touch of saffron and myrtle."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-Cyclopropylmethyl-4- methoxybenzene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 16510-27-3 FEMA - 4759"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Altanol"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Toscanol"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 2,
+      "pdfPage": 5,
+      "printedPage": 3,
+      "headerLines": [
+        "Anethole",
+        "(Synthetic)",
+        "Anethole"
+      ],
+      "leftColumnText": "Anethole\n(Synthetic)\nAnethole\nBeing the chief component of star\nanise, anise seed oil and sweet\nfennel, Anethole has a sweet and\nmildly spicy, ﬂoral and fruity,\nanisic-balsamic odour.\nChemical Name:\n1-mthoxy-4-[(1Z)-prop-1-en-1-yl]\nbenzene\nPhysico Chemical Properties:\nFormula - C10H12O\nCAS no. - 4180-23-8\nFEMA - 2086\n\n",
+      "chemicalName": "1-mthoxy-4-[(1Z)-prop-1-en-1-yl] benzene",
+      "formula": "C10H12O",
+      "cas": "4180-23-8",
+      "fema": "2086",
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Anethole",
+        "(Synthetic)",
+        "Anethole",
+        "Being the chief component of star",
+        "anise, anise seed oil and sweet",
+        "fennel, Anethole has a sweet and",
+        "mildly spicy, ﬂoral and fruity,",
+        "anisic-balsamic odour."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Being the chief component of star anise, anise seed oil and sweet fennel, Anethole has a sweet and mildly spicy, floral and fruity, anisic-balsamic odour."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-mthoxy-4-[(1Z)-prop-1-en-1-yl] benzene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 4180-23-8 FEMA - 2086"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Anethole (Synthetic)"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Anethole"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 3,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "headerLines": [
+        "Arednitryl",
+        "Cantryl",
+        "It enhances aromatic and"
+      ],
+      "leftColumnText": "Arednitryl\nCantryl\n\nIt enhances aromatic and\nherbaceous notes, supporting\nRosemary & Lavender. It also adds\nnatural greens to citrus outlines\nimparting a fresh touch to the\ncomposition.\nChemical Name:\n(2,2,3Trimethylcyclopent-3-en-1-yl)\nacetonitrile\nPhysico Chemical Properties:\nFormula - C10H15N\nCAS: 15373-31-6\n\n",
+      "chemicalName": "(2,2,3Trimethylcyclopent-3-en-1-yl) acetonitrile",
+      "formula": "C10H15N",
+      "cas": "15373-31-6",
+      "fema": null,
+      "tenacity": "30 DAYS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Arednitryl",
+        "Cantryl",
+        "It enhances aromatic and",
+        "herbaceous notes, supporting",
+        "Rosemary & Lavender. It also adds",
+        "natural greens to citrus outlines",
+        "imparting a fresh touch to the",
+        "composition."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "It enhances aromatic and herbaceous notes, supporting Rosemary & Lavender. It also adds natural greens to citrus outlines imparting a fresh touch to the composition."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "(2,2,3- Trimethylcyclopent-3-en-1-yl) acetonitrile"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "15"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "N CAS: 15373-31-6"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Arednitryl"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Cantryl"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 4,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "headerLines": [
+        "Capriﬂoren",
+        "Apriﬂoren",
+        "With an excellent diﬀusivity, this"
+      ],
+      "leftColumnText": "Capriﬂoren\nApriﬂoren\n\nWith an excellent diﬀusivity, this\ngreen ﬂoral, lactonic component\nwith aroma notes of peach and\ncoconut, adds more ﬂavour to\nwhite ﬂower compositions.\nChemical Name:\n5-Hexyldihydro-4methylfuran-2(3H)-one\nPhysico Chemical Properties:\nFormula - C11H20O2\nCAS no. - 67663-01-08\nFEMA - 3999\n\n",
+      "chemicalName": "5-Hexyldihydro-4methylfuran-2(3H)-one",
+      "formula": "C11H20O2",
+      "cas": "67663-01-08",
+      "fema": "3999",
+      "tenacity": "180 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Capriﬂoren",
+        "Apriﬂoren",
+        "With an excellent diﬀusivity, this",
+        "green ﬂoral, lactonic component",
+        "with aroma notes of peach and",
+        "coconut, adds more ﬂavour to",
+        "white ﬂower compositions."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "With an excellent diffusivity, this green floral, lactonic component with aroma notes of peach and coconut, adds more flavour to white flower compositions."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "5-Hexyldihydro-4- methylfuran-2(3H)-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "20"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 67663-01-08 FEMA - 3999"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Caprifloren"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Aprifloren"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 5,
+      "pdfPage": 8,
+      "printedPage": 6,
+      "headerLines": [
+        "Celerytone",
+        "Celery Ketone / Celerone",
+        "Celerytone has a green,"
+      ],
+      "leftColumnText": "Celerytone\nCelery Ketone / Celerone\n\nCelerytone has a green,\nherbacious celery ﬂavour that\nblends well with basil and\ntarragon.\nChemical Name:\n3-Methyl-5-propyl-2cyclohexen-1-one\nPhysico Chemical Properties:\nFormula - C10H16O\nCAS no. - 3720-16-9\nFEMA - 3577\n\n",
+      "chemicalName": "3-Methyl-5-propyl-2cyclohexen-1-one",
+      "formula": "C10H16O",
+      "cas": "3720-16-9",
+      "fema": "3577",
+      "tenacity": "15 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Celerytone",
+        "Celery Ketone / Celerone",
+        "Celerytone has a green,",
+        "herbacious celery ﬂavour that",
+        "blends well with basil and",
+        "tarragon."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Celerytone has a green, herbacious celery flavour that blends well with basil and tarragon."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "3-Methyl-5-propyl-2- cyclohexen-1-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 3720-16-9 FEMA - 3577"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Celerytone"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Celery Ketone / Celerone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 6,
+      "pdfPage": 9,
+      "printedPage": 7,
+      "headerLines": [
+        "Chavibetol",
+        "50%",
+        "Chavibetol is the primary"
+      ],
+      "leftColumnText": "Chavibetol\n50%\nChavibetol is the primary\ncomponent of essential oil from\nthe leaves of the betel plant. It is\nan aromatic compound with a\nspicy note.\nChemical Name:\n2-methoxy-5-prop-2-enylphenol\nPhysico Chemical Properties:\nFormula - C10H12O2\nCAS no. - 501-19-9\n\n",
+      "chemicalName": "2-methoxy-5-prop-2-enylphenol",
+      "formula": "C10H12O2",
+      "cas": "501-19-9",
+      "fema": null,
+      "tenacity": "240 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Chavibetol",
+        "50%",
+        "Chavibetol is the primary",
+        "component of essential oil from",
+        "the leaves of the betel plant. It is",
+        "an aromatic compound with a",
+        "spicy note."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Chavibetol is the primary component of essential oil from the leaves of the betel plant. It is an aromatic compound with a spicy note."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2-methoxy-5-prop-2-enylphenol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 501-19-9"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Chavibetol 50%"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 7,
+      "pdfPage": 10,
+      "printedPage": 8,
+      "headerLines": [
+        "Chavicol",
+        "A colourless liquid found together",
+        "with terpenes in betel oil, having a"
+      ],
+      "leftColumnText": "Chavicol\n\nA colourless liquid found together\nwith terpenes in betel oil, having a\nphenolic medicinal and herbal\nodour.\nChemical Name:\n4-prop-2-enylphenol\nPhysico Chemical Properties:\nFormula - C9H10O\nCAS no. - 501-92-8\nFEMA - 4075\n\n",
+      "chemicalName": "4-prop-2-enylphenol",
+      "formula": "C9H10O",
+      "cas": "501-92-8",
+      "fema": "4075",
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Chavicol",
+        "A colourless liquid found together",
+        "with terpenes in betel oil, having a",
+        "phenolic medicinal and herbal",
+        "odour."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A colourless liquid found together with terpenes in betel oil, having a phenolic medicinal and herbal odour."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-prop-2-enylphenol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "9"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 501-92-8 FEMA - 4075"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Chavicol"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 8,
+      "pdfPage": 11,
+      "printedPage": 9,
+      "headerLines": [
+        "Chavicyl Acetate",
+        "Chavicol Acetate",
+        "Another core component of betel,"
+      ],
+      "leftColumnText": "Chavicyl Acetate\nChavicol Acetate\n\nAnother core component of betel,\nchavicyl acetate has a strong and\nspicy odor proﬁle, similar to\nchavicol and chavibetol.\nChemical Name:\n4-(prop-2-en-1-yl)phenyl acetate\nPhysico Chemical Properties:\nFormula - C11H12O2\nCAS no. - 61499-22-7\n\n",
+      "chemicalName": "4-(prop-2-en-1-yl)phenyl acetate",
+      "formula": "C11H12O2",
+      "cas": "61499-22-7",
+      "fema": null,
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Chavicyl Acetate",
+        "Chavicol Acetate",
+        "Another core component of betel,",
+        "chavicyl acetate has a strong and",
+        "spicy odor proﬁle, similar to",
+        "chavicol and chavibetol."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Another core component of betel, chavicyl acetate has a strong and spicy odor profile, similar to chavicol and chavibetol."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-(prop-2-en-1-yl)phenyl acetate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 61499-22-7"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Chavicyl Acetate"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Chavicol Acetate"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 9,
+      "pdfPage": 12,
+      "printedPage": 10,
+      "headerLines": [
+        "Creamy Lactone",
+        "10%",
+        "Methyl Laitone 10%"
+      ],
+      "leftColumnText": "Creamy Lactone\n10%\nMethyl Laitone 10%\nA very powerful and eﬀective\nspiro lactone, wherever creamy or\nfruity core is required. It enhances\nwhite ﬂower notes like jasmine\nand tuberose and fruity notes like\npeach and osmanthus. It adds\nmilkiness to sandalwood accords\nand works very well with tonka.\nChemical Name:\n8-Methyl-1-oxaspiro[4.5]\ndecan-2-one\nPhysico Chemical Properties:\nFormula - C10H16O2\nCAS no. - 77-93-0 / 94201-19-1,\n\n",
+      "chemicalName": "8-Methyl-1-oxaspiro[4.5] decan-2-one",
+      "formula": "C10H16O2",
+      "cas": "77-93-0 / 94201-19-1,",
+      "fema": null,
+      "tenacity": "165 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Creamy Lactone",
+        "10%",
+        "Methyl Laitone 10%",
+        "A very powerful and eﬀective",
+        "spiro lactone, wherever creamy or",
+        "fruity core is required. It enhances",
+        "white ﬂower notes like jasmine",
+        "and tuberose and fruity notes like",
+        "peach and osmanthus. It adds",
+        "milkiness to sandalwood accords",
+        "and works very well with tonka."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A very powerful and effective spiro lactone, wherever creamy or fruity core is required. It enhances white flower notes like jasmine and tuberose and fruity notes like peach and osmanthus. It adds milkiness to sandalwood accords and works very well with tonka."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "8-Methyl-1-oxaspiro[4.5] decan-2-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 77-93-0 / 94201-19-1,"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Creamy Lactone 10%"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Methyl Laitone 10%"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 10,
+      "pdfPage": 13,
+      "printedPage": 11,
+      "headerLines": [
+        "Ethyl Isocaproate",
+        "A fruity aroma with medium",
+        "strength."
+      ],
+      "leftColumnText": "Ethyl Isocaproate\n\nA fruity aroma with medium\nstrength.\nChemical Name:\nEthyl 4-methylpentanoate\nPhysico Chemical Properties:\nFormula - C8H16O2\nCAS no.- 25415-67-2\nFEMA: 4343\n\n",
+      "chemicalName": "Ethyl 4-methylpentanoate",
+      "formula": "C8H16O2",
+      "cas": "25415-67-2",
+      "fema": "4343",
+      "tenacity": "3 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Ethyl Isocaproate",
+        "A fruity aroma with medium",
+        "strength."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A fruity aroma with medium strength."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Ethyl 4-methylpentanoate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "8"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no.- 25415-67-2 FEMA: 4343"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Ethyl Isocaproate"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 11,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "headerLines": [
+        "Fadeus",
+        "Diola",
+        "A colorless to clear liquid with"
+      ],
+      "leftColumnText": "Fadeus\nDiola\n\nA colorless to clear liquid with\nconcentrated sweetness of herbal\nlavender, and fruity tonalities.\nChemical Name:\n1-methoxyhexane\nPhysico Chemical Properties:\nFormula - C7H16O\nCAS no. - 4747-07-3\nFEMA - 4291\n\n",
+      "chemicalName": "1-methoxyhexane",
+      "formula": "C7H16O",
+      "cas": "4747-07-3",
+      "fema": "4291",
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Fadeus",
+        "Diola",
+        "A colorless to clear liquid with",
+        "concentrated sweetness of herbal",
+        "lavender, and fruity tonalities."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A colorless to clear liquid with concentrated sweetness of herbal lavender, and fruity tonalities."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-methoxyhexane"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "7"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 4747-07-3 FEMA - 4291"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Fadeus"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Diola"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 12,
+      "pdfPage": 15,
+      "printedPage": 13,
+      "headerLines": [
+        "Gardeniamide",
+        "Gardamide",
+        "With a grapefruit citrus heartnote"
+      ],
+      "leftColumnText": "Gardeniamide\nGardamide\n\nWith a grapefruit citrus heartnote\nand rhubarb, Gardeniamide works\nwell with other green citrus notes,\nadding a long-lasting citrus eﬀect.\nChemical Name:\nN,2-Dimethyl-Nphenylbutyramide\nPhysico Chemical Properties:\nFormula - C12H17NO\nCAS no. - 84434-18-4\n\n",
+      "chemicalName": "N,2-Dimethyl-Nphenylbutyramide",
+      "formula": "C12H17NO",
+      "cas": "84434-18-4",
+      "fema": null,
+      "tenacity": "72 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Gardeniamide",
+        "Gardamide",
+        "With a grapefruit citrus heartnote",
+        "and rhubarb, Gardeniamide works",
+        "well with other green citrus notes,",
+        "adding a long-lasting citrus eﬀect."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "With a grapefruit citrus heartnote and rhubarb, Gardeniamide works well with other green citrus notes, adding a long-lasting citrus effect."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "N,2-Dimethyl-N- phenylbutyramide"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "17"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "NO CAS no. - 84434-18-4"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Gardeniamide"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Gardamide"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 13,
+      "pdfPage": 16,
+      "printedPage": 14,
+      "headerLines": [
+        "Grecazine",
+        "Verdoracine",
+        "Grecazine is green with fresh"
+      ],
+      "leftColumnText": "Grecazine\nVerdoracine\n\nGrecazine is green with fresh\ncarrots and galbanum. It supports\nearthy and herbaceous notes.\nChemical Name:\n4-isopropyl-1methyl-2-(prop-1-enyl)benzene\nPhysico Chemical Properties:\nFormula - C13H18\nCAS no. - 14374-92-6\n\n",
+      "chemicalName": "4-isopropyl-1methyl-2-(prop-1-enyl)benzene",
+      "formula": "C13H18",
+      "cas": "14374-92-6",
+      "fema": null,
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Grecazine",
+        "Verdoracine",
+        "Grecazine is green with fresh",
+        "carrots and galbanum. It supports",
+        "earthy and herbaceous notes."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Grecazine is green with fresh carrots and galbanum. It supports earthy and herbaceous notes."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-isopropyl-1- methyl-2-(prop-1-enyl)benzene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "13"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 14374-92-6"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Grecazine"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Verdoracine"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 14,
+      "pdfPage": 17,
+      "printedPage": 15,
+      "headerLines": [
+        "Gulabow",
+        "Anatolyl",
+        "A rose-like tropical green waxy"
+      ],
+      "leftColumnText": "Gulabow\nAnatolyl\n\nA rose-like tropical green waxy\nﬂoral note, which is sweet and\nfruity, great for both ﬂavours and\nfragrances.\nChemical Name:\nPhenyl ethyl 2-methyl butyrate\nPhysico Chemical Properties:\nFormula - C13H18O2\nCAS no. - 24817-51-4\nFEMA - 3632\n\n",
+      "chemicalName": "Phenyl ethyl 2-methyl butyrate",
+      "formula": "C13H18O2",
+      "cas": "24817-51-4",
+      "fema": "3632",
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Gulabow",
+        "Anatolyl",
+        "A rose-like tropical green waxy",
+        "ﬂoral note, which is sweet and",
+        "fruity, great for both ﬂavours and",
+        "fragrances."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A rose-like tropical green waxy floral note, which is sweet and fruity, great for both flavours and fragrances."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Phenyl ethyl 2-methyl butyrate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "13"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 24817-51-4 FEMA - 3632"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Gulabow"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Anatolyl"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 15,
+      "pdfPage": 18,
+      "printedPage": 16,
+      "headerLines": [
+        "Hijacynth",
+        "Jacinthaﬂor",
+        "A powerful ﬂoral note in the"
+      ],
+      "leftColumnText": "Hijacynth\nJacinthaﬂor\n\nA powerful ﬂoral note in the\ndirection of Jasmine and\nHyacinth, animalic as well in\ncharacter.\nChemical Name:\n2-methyl-4-phenyl-1,3-dioxolane\nPhysico Chemical Properties:\nFormula - C10H12O2\nCAS no. - 33941-99-0\n\n",
+      "chemicalName": "2-methyl-4-phenyl-1,3-dioxolane",
+      "formula": "C10H12O2",
+      "cas": "33941-99-0",
+      "fema": null,
+      "tenacity": "10 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Hijacynth",
+        "Jacinthaﬂor",
+        "A powerful ﬂoral note in the",
+        "direction of Jasmine and",
+        "Hyacinth, animalic as well in",
+        "character."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A powerful floral note in the direction of Jasmine and Hyacinth, animalic as well in character."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2-methyl-4-phenyl-1,3-dioxolane"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 33941-99-0"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Hijacynth"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Jacinthaflor"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 16,
+      "pdfPage": 19,
+      "printedPage": 17,
+      "headerLines": [
+        "Hyacinth Acetal",
+        "Acetal CD",
+        "Hyacinth Acetal has dried nuances"
+      ],
+      "leftColumnText": "Hyacinth Acetal\nAcetal CD\n\nHyacinth Acetal has dried nuances\nof roses, honey, lilac, black tea and\nof course hyacinth, best used in\nﬂoral compounds demanding soft\nbut very long lasting heart. It\nshows the character of green\naccords with chypre compositions.\nChemical Name:\nPhenylacetaldehyde Glycerylacetal\nPhysico Chemical Properties:\nFormula - C11H14O3\nCAS no. - 29895-73-6\nFEMA - 2877\n\n",
+      "chemicalName": "Phenylacetaldehyde Glycerylacetal",
+      "formula": "C11H14O3",
+      "cas": "29895-73-6",
+      "fema": "2877",
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Hyacinth Acetal",
+        "Acetal CD",
+        "Hyacinth Acetal has dried nuances",
+        "of roses, honey, lilac, black tea and",
+        "of course hyacinth, best used in",
+        "ﬂoral compounds demanding soft",
+        "but very long lasting heart. It",
+        "shows the character of green",
+        "accords with chypre compositions."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Hyacinth Acetal has dried nuances of roses, honey, lilac, black tea and of course hyacinth, best used in floral compounds demanding soft but very long lasting heart. It shows the character of green accords with chypre compositions."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Phenylacetaldehyde Glycerylacetal"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "3"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 29895-73-6 FEMA - 2877"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Hyacinth Acetal"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Acetal CD"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 17,
+      "pdfPage": 20,
+      "printedPage": 18,
+      "headerLines": [
+        "Hyacinth Core",
+        "Hyacinth Body",
+        "Deﬁned by notes of hyacinth"
+      ],
+      "leftColumnText": "Hyacinth Core\nHyacinth Body\n\nDeﬁned by notes of hyacinth\nﬂorals, and sweet pea, Hyacinth\nCore can be used with fruity,\ngreen and violet leaf notes.\nChemical Name:\n[2-(1-Ethoxyethoxy)ethyl]benzene\nPhysico Chemical Properties:\nFormula - C12H18O2\nCAS no. - 2556-10-7\n\n",
+      "chemicalName": "[2-(1-Ethoxyethoxy)ethyl]benzene",
+      "formula": "C12H18O2",
+      "cas": "2556-10-7",
+      "fema": null,
+      "tenacity": "18 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Hyacinth Core",
+        "Hyacinth Body",
+        "Deﬁned by notes of hyacinth",
+        "ﬂorals, and sweet pea, Hyacinth",
+        "Core can be used with fruity,",
+        "green and violet leaf notes."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Defined by notes of hyacinth florals, and sweet pea, Hyacinth Core can be used with fruity, green and violet leaf notes."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "[2-(1-Ethoxyethoxy)ethyl]benzene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 2556-10-7"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Hyacinth Core"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Hyacinth Body"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 18,
+      "pdfPage": 21,
+      "printedPage": 19,
+      "headerLines": [
+        "Isocaproic Acid",
+        "Hexonic Acid",
+        "Isocaproic Acid is a saturated fatty"
+      ],
+      "leftColumnText": "Isocaproic Acid\nHexonic Acid\nIsocaproic Acid is a saturated fatty\nacid with a pungent odor found\nnaturally in various sources like\ncheese, milk and sweat. The odor\ncan be described as sour and\npenetrating, with unpleasant\ncharacter similar to that of rancid\nbutter.\nChemical Name:\n4-Methylpentanoic Acid\n\nPhysico Chemical Properties:\nFormula - C6H12O2\nCAS no. - 646-07-1\nFEMA - 3463\n\n",
+      "chemicalName": "4-Methylpentanoic Acid",
+      "formula": "C6H12O2",
+      "cas": "646-07-1",
+      "fema": "3463",
+      "tenacity": "72 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Isocaproic Acid",
+        "Hexonic Acid",
+        "Isocaproic Acid is a saturated fatty",
+        "acid with a pungent odor found",
+        "naturally in various sources like",
+        "cheese, milk and sweat. The odor",
+        "can be described as sour and",
+        "penetrating, with unpleasant",
+        "character similar to that of rancid",
+        "butter."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Isocaproic Acid is a saturated fatty acid with a pungent odor found naturally in various sources like cheese, milk and sweat. The odor can be described as sour and penetrating, with unpleasant character similar to that of rancid butter."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-Methylpentanoic Acid"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "6"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 646-07-1 FEMA - 3463"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Isocaproic Acid"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Hexonic Acid"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 19,
+      "pdfPage": 22,
+      "printedPage": 20,
+      "headerLines": [
+        "Jalclone",
+        "A personal favourite of many",
+        "perfumers, this watery synthetic"
+      ],
+      "leftColumnText": "Jalclone\n\nA personal favourite of many\nperfumers, this watery synthetic\nis ﬂuid and ozonic, with a marine\nnote that ampliﬁes the creation.\nChemical Name:\n7-propyl 2h,4h-1,5benzodioxepin-3-one\nPhysico Chemical Properties:\nFormula - C12H14O3\nCAS no. - 207228-93-1\n\n",
+      "chemicalName": "7-propyl 2h,4h-1,5benzodioxepin-3-one",
+      "formula": "C12H14O3",
+      "cas": "207228-93-1",
+      "fema": null,
+      "tenacity": "350 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Jalclone",
+        "A personal favourite of many",
+        "perfumers, this watery synthetic",
+        "is ﬂuid and ozonic, with a marine",
+        "note that ampliﬁes the creation."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A personal favourite of many perfumers, this watery synthetic is fluid and ozonic, with a marine note that amplifies the creation."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "7-propyl 2h,4h-1,5- benzodioxepin-3-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "3"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 207228-93-1"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Jalclone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 20,
+      "pdfPage": 23,
+      "printedPage": 21,
+      "headerLines": [
+        "Jasnoate",
+        "Gelsone",
+        "Very jasmin-like, with a wine"
+      ],
+      "leftColumnText": "Jasnoate\nGelsone\n\nVery jasmin-like, with a wine\nbouquet and fruity undertones.\nChemical Name:\nEthyl 2-acetyloctanoate\nPhysico Chemical Properties:\nFormula - C12H22O3\nCAS no. - 29214-60-6\nFEMA - 4459\n\n",
+      "chemicalName": "Ethyl 2-acetyloctanoate",
+      "formula": "C12H22O3",
+      "cas": "29214-60-6",
+      "fema": "4459",
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Jasnoate",
+        "Gelsone",
+        "Very jasmin-like, with a wine",
+        "bouquet and fruity undertones."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Very jasmin-like, with a wine bouquet and fruity undertones."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Ethyl 2-acetyloctanoate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "22"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "3"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 29214-60-6 FEMA - 4459"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Jasnoate"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Gelsone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 21,
+      "pdfPage": 24,
+      "printedPage": 22,
+      "headerLines": [
+        "Laval",
+        "Lavender Aldehyde",
+        "A powerful, diﬀusing herbaceous"
+      ],
+      "leftColumnText": "Laval\nLavender Aldehyde\n\nA powerful, diﬀusing herbaceous\nodour. LAVAL has lavender and\ncocoa powder overtones. It\nblends well with bergamot and\nclary sage, imparting dry woody\nnotes for blueberry, cranberry and\nchocolate.\nChemical Name:\nIsodihydrolavandulal\nPhysico Chemical Properties:\nFormula - C10H18O\nCAS no. - 35158-25-9\nFEMA - 3406\n\n",
+      "chemicalName": "Isodihydrolavandulal",
+      "formula": "C10H18O",
+      "cas": "35158-25-9",
+      "fema": "3406",
+      "tenacity": "8-10 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Laval",
+        "Lavender Aldehyde",
+        "A powerful, diﬀusing herbaceous",
+        "odour. LAVAL has lavender and",
+        "cocoa powder overtones. It",
+        "blends well with bergamot and",
+        "clary sage, imparting dry woody",
+        "notes for blueberry, cranberry and",
+        "chocolate."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A powerful, diffusing herbaceous odour. LAVAL has lavender and cocoa powder overtones. It blends well with bergamot and clary sage, imparting dry woody notes for blueberry, cranberry and chocolate."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Isodihydrolavandulal"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 35158-25-9 FEMA - 3406"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Laval"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Lavender Aldehyde"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 22,
+      "pdfPage": 25,
+      "printedPage": 23,
+      "headerLines": [
+        "Megavanil",
+        "Ultravanil",
+        "Megavanil is a strong vanilla"
+      ],
+      "leftColumnText": "Megavanil\nUltravanil\n\nMegavanil is a strong vanilla\nabsolute note, that mixes well\nwith vanillin and ethyl vanillin.\nUnlike other vanilla notes, it\ndoesn't discolor much.\nChemical Name:\n2-ethoxy-4-Methylphenol\nPhysico Chemical Properties:\nFormula - C9H12O2\nCAS no. - 25265-71-8 /\n2563-07-7\n\n",
+      "chemicalName": "2-ethoxy-4-Methylphenol",
+      "formula": "C9H12O2",
+      "cas": "25265-71-8 /",
+      "fema": null,
+      "tenacity": "> 350 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Megavanil",
+        "Ultravanil",
+        "Megavanil is a strong vanilla",
+        "absolute note, that mixes well",
+        "with vanillin and ethyl vanillin.",
+        "Unlike other vanilla notes, it",
+        "doesn't discolor much."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Megavanil is a strong vanilla absolute note, that mixes well with vanillin and ethyl vanillin. Unlike other vanilla notes, it doesn't discolor much."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2-ethoxy-4-Methylphenol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "9"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 25265-71-8 / 2563-07-7"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Megavanil"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Ultravanil"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 23,
+      "pdfPage": 26,
+      "printedPage": 24,
+      "headerLines": [
+        "Methyl-3Nonenoate",
+        "An intense fresh, fruity, green",
+        "odor with cucumber undertones,"
+      ],
+      "leftColumnText": "Methyl-3Nonenoate\nAn intense fresh, fruity, green\nodor with cucumber undertones,\nwith a varying tropical taste\nresembling melons and apples.\nChemical Name:\nMethyl-3-nonenoate\nPhysico Chemical Properties:\nFormula - C10H18O2\nCAS no. - 13481-87-3\nFEMA - 3710\n\n",
+      "chemicalName": "Methyl-3-nonenoate",
+      "formula": "C10H18O2",
+      "cas": "13481-87-3",
+      "fema": "3710",
+      "tenacity": "> 24 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Methyl-3Nonenoate",
+        "An intense fresh, fruity, green",
+        "odor with cucumber undertones,",
+        "with a varying tropical taste",
+        "resembling melons and apples."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "An intense fresh, fruity, green odor with cucumber undertones, with a varying tropical taste resembling melons and apples."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Methyl-3-nonenoate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 13481-87-3 FEMA - 3710"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Methyl-3- Nonenoate"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 24,
+      "pdfPage": 27,
+      "printedPage": 25,
+      "headerLines": [
+        "Muscomme W",
+        "Edenolide",
+        "White Musk with powdery,"
+      ],
+      "leftColumnText": "Muscomme W\nEdenolide\n\nWhite Musk with powdery,\ncreamy notes; and fresh fruity\nundertones.\nChemical Name:\n1-(3,3-dimethylcyclohexyl)ethyl\npropanedioic acid ethyl ester\nPhysico Chemical Properties:\nFormula - C15H26O4\nCAS no.- 478695-70-4\n\n",
+      "chemicalName": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+      "formula": "C15H26O4",
+      "cas": "478695-70-4",
+      "fema": null,
+      "tenacity": "50 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Muscomme W",
+        "Edenolide",
+        "White Musk with powdery,",
+        "creamy notes; and fresh fruity",
+        "undertones."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "White Musk with powdery, creamy notes; and fresh fruity undertones."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "15"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "26"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no.- 478695-70-4"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Muscomme W"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Edenolide"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 25,
+      "pdfPage": 28,
+      "printedPage": 26,
+      "headerLines": [
+        "Narangama",
+        "Orange Flower Ether",
+        "A complete set of fresh-citrusy"
+      ],
+      "leftColumnText": "Narangama\nOrange Flower Ether\n\nA complete set of fresh-citrusy\nnotes of Orange, Bergamot and\nGrapefruit, underlined with\nNeroli, Narangama possesses\nhints of ﬂorals subtly.\nChemical Name:\n4-(1-Methoxy-1methylethyl)-1methylcyclohexene\nPhysico Chemical Properties:\nFormula - C11H20O\nCAS no.- 14576-08-0\n\n",
+      "chemicalName": "4-(1-Methoxy-1methylethyl)-1methylcyclohexene",
+      "formula": "C11H20O",
+      "cas": "14576-08-0",
+      "fema": null,
+      "tenacity": "3 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Narangama",
+        "Orange Flower Ether",
+        "A complete set of fresh-citrusy",
+        "notes of Orange, Bergamot and",
+        "Grapefruit, underlined with",
+        "Neroli, Narangama possesses",
+        "hints of ﬂorals subtly."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A complete set of fresh-citrusy notes of Orange, Bergamot and Grapefruit, underlined with Neroli, Narangama possesses hints of florals subtly."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-(1-Methoxy-1- methylethyl)-1- methylcyclohexene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "20"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no.- 14576-08-0 (cid:31)"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Narangama"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Orange Flower Ether"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 26,
+      "pdfPage": 29,
+      "printedPage": 27,
+      "headerLines": [
+        "Neroli Ketone",
+        "Nerone",
+        "A powerfully diﬀusive note of"
+      ],
+      "leftColumnText": "Neroli Ketone\nNerone\n\nA powerfully diﬀusive note of\nNeroli together with the dry\nfreshness of the greens.\nChemical Name:\n1-(2-methyl-5-propan-2-yl-1cyclohex-2-enyl)propan-1-one\nPhysico Chemical Properties:\nFormula - C13H22O\nCAS no. - 31375-17-4\n\n",
+      "chemicalName": "1-(2-methyl-5-propan-2-yl-1cyclohex-2-enyl)propan-1-one",
+      "formula": "C13H22O",
+      "cas": "31375-17-4",
+      "fema": null,
+      "tenacity": "> 30 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Neroli Ketone",
+        "Nerone",
+        "A powerfully diﬀusive note of",
+        "Neroli together with the dry",
+        "freshness of the greens."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A powerfully diffusive note of Neroli together with the dry freshness of the greens."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-(2-methyl-5-propan-2-yl-1- cyclohex-2-enyl)propan-1-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "13"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "22"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 31375-17-4"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Neroli Ketone"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Nerone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 27,
+      "pdfPage": 30,
+      "printedPage": 28,
+      "headerLines": [
+        "Newfoleon",
+        "Neofolione / Novafoleon",
+        "NewFoleon is designed for"
+      ],
+      "leftColumnText": "Newfoleon\nNeofolione / Novafoleon\n\nNewFoleon is designed for\nperfect blending with ﬂoral notes,\nimparting the greeny sense of\nfreshness. It is stable, while\ndiﬀusing comfortably.\nChemical Name:\nMethyl-2-nonenoate\nPhysico Chemical Properties:\nFormula - C10H18O2\nCAS no. - 111-79-5\nFEMA - 2725\n\n",
+      "chemicalName": "Methyl-2-nonenoate",
+      "formula": "C10H18O2",
+      "cas": "111-79-5",
+      "fema": "2725",
+      "tenacity": "15 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Newfoleon",
+        "Neofolione / Novafoleon",
+        "NewFoleon is designed for",
+        "perfect blending with ﬂoral notes,",
+        "imparting the greeny sense of",
+        "freshness. It is stable, while",
+        "diﬀusing comfortably."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "NewFoleon is designed for perfect blending with floral notes, imparting the greeny sense of freshness. It is stable, while diffusing comfortably."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Methyl-2-nonenoate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 111-79-5 FEMA - 2725"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Newfoleon"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Neofolione / Novafoleon"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 28,
+      "pdfPage": 31,
+      "printedPage": 29,
+      "headerLines": [
+        "Nutclone One",
+        "Nutty Cyclohexanone",
+        "A powerful nutty, caramel-like"
+      ],
+      "leftColumnText": "Nutclone One\nNutty Cyclohexanone\n\nA powerful nutty, caramel-like\nodor.\nChemical Name:\n3-methyl-2-cyclohexanone\nPhysico Chemical Properties:\nFormula - C7H10O\nCAS no. - 1193-18-6\nFEMA - 3360\n\n",
+      "chemicalName": "3-methyl-2-cyclohexanone",
+      "formula": "C7H10O",
+      "cas": "1193-18-6",
+      "fema": "3360",
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Nutclone One",
+        "Nutty Cyclohexanone",
+        "A powerful nutty, caramel-like",
+        "odor."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A powerful nutty, caramel-like odor."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "3-methyl-2-cyclohexanone"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "7"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 1193-18-6 FEMA - 3360"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Nutclone One"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Nutty Cyclohexanone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 29,
+      "pdfPage": 32,
+      "printedPage": 30,
+      "headerLines": [
+        "Orrisnitril",
+        "Irisnitrile",
+        "Strengthens orris and violet"
+      ],
+      "leftColumnText": "Orrisnitril\nIrisnitrile\n\nStrengthens orris and violet\nﬂower notes, with green fatty\nﬂoral tones.\nChemical Name:\n2-nonene nitrile\nPhysico Chemical Properties:\nFormula - C9H15N\nCAS no. - 29127-83-1\n\n",
+      "chemicalName": "2-nonene nitrile",
+      "formula": "C9H15N",
+      "cas": "29127-83-1",
+      "fema": null,
+      "tenacity": "48 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Orrisnitril",
+        "Irisnitrile",
+        "Strengthens orris and violet",
+        "ﬂower notes, with green fatty",
+        "ﬂoral tones."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Strengthens orris and violet flower notes, with green fatty floral tones."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2-nonene nitrile"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "9"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "15"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "N CAS no. - 29127-83-1"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Orrisnitril"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Irisnitrile"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 30,
+      "pdfPage": 33,
+      "printedPage": 31,
+      "headerLines": [
+        "Palsantol",
+        "A very powerful and natural",
+        "sandalwood note."
+      ],
+      "leftColumnText": "Palsantol\n\nA very powerful and natural\nsandalwood note.\nChemical Name:\nbeta,2,2,3tetramethyldelta-methylene-3cyclopentene-1-butanol\nPhysico Chemical Properties:\nFormula - C14H24O\nCAS no.- 104864-90-6\n\n",
+      "chemicalName": "beta,2,2,3tetramethyldelta-methylene-3cyclopentene-1-butanol",
+      "formula": "C14H24O",
+      "cas": "104864-90-6",
+      "fema": null,
+      "tenacity": "336 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Palsantol",
+        "A very powerful and natural",
+        "sandalwood note."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A very powerful and natural sandalwood note."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "beta,2,2,3- tetramethyl- delta-methylene-3- cyclopentene-1-butanol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "24"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no.- 104864-90-6"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Palsantol"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 31,
+      "pdfPage": 34,
+      "printedPage": 32,
+      "headerLines": [
+        "Para Propyl",
+        "Phenol",
+        "A medicinal phenolic odor that is"
+      ],
+      "leftColumnText": "Para Propyl\nPhenol\nA medicinal phenolic odor that is\nundesirably sweet, clove-like and\nsomewhat smoky.\nChemical Name:\n4-Propylphenol\nPhysico Chemical Properties:\nFormula - C9H12O\nCAS no. - 645-56-7\nFEMA - 3649\n\n",
+      "chemicalName": "4-Propylphenol",
+      "formula": "C9H12O",
+      "cas": "645-56-7",
+      "fema": "3649",
+      "tenacity": "10 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Para Propyl",
+        "Phenol",
+        "A medicinal phenolic odor that is",
+        "undesirably sweet, clove-like and",
+        "somewhat smoky."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A medicinal phenolic odor that is undesirably sweet, clove-like and somewhat smoky."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-Propylphenol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "9"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no. - 645-56-7 FEMA - 3649"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Para Propyl Phenol"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 32,
+      "pdfPage": 35,
+      "printedPage": 33,
+      "headerLines": [
+        "Phenyl Ethyl",
+        "Propionate",
+        "Like other phenolics, Phenyl Ethyl"
+      ],
+      "leftColumnText": "Phenyl Ethyl\nPropionate\nLike other phenolics, Phenyl Ethyl\nPropionate has fruity, honeyed\nand slightly spicy odour.\nChemical Name:\nPhenyl Ethyl Propionate\nPhysico Chemical Properties:\nFormula - C11H14O2\nCAS no. - 122-70-3\nFEMA - 2867\n\n",
+      "chemicalName": "Phenyl Ethyl Propionate",
+      "formula": "C11H14O2",
+      "cas": "122-70-3",
+      "fema": "2867",
+      "tenacity": "96 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Phenyl Ethyl",
+        "Propionate",
+        "Like other phenolics, Phenyl Ethyl",
+        "Propionate has fruity, honeyed",
+        "and slightly spicy odour."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Like other phenolics, Phenyl Ethyl Propionate has fruity, honeyed and slightly spicy odour."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Phenyl Ethyl Propionate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "11"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 122-70-3 FEMA - 2867"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Phenyl Ethyl Propionate"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 33,
+      "pdfPage": 36,
+      "printedPage": 34,
+      "headerLines": [
+        "Prosethyl",
+        "Rosethyl",
+        "Rosy note with green, earthy,"
+      ],
+      "leftColumnText": "Prosethyl\nRosethyl\n\nRosy note with green, earthy,\nspicy and honey undertones.\nChemical Name:\n1-(Ethoxymethyl)-2-methoxy\nbenzene\nPhysico Chemical Properties:\nFormula - C10H14O2\nCAS no. - 64988-06-03\n\n",
+      "chemicalName": "1-(Ethoxymethyl)-2-methoxy benzene",
+      "formula": "C10H14O2",
+      "cas": "64988-06-03",
+      "fema": null,
+      "tenacity": "> 48 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Prosethyl",
+        "Rosethyl",
+        "Rosy note with green, earthy,",
+        "spicy and honey undertones."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Rosy note with green, earthy, spicy and honey undertones."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1-(Ethoxymethyl)-2-methoxy benzene"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 64988-06-03"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Prosethyl"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Rosethyl"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 34,
+      "pdfPage": 37,
+      "printedPage": 35,
+      "headerLines": [
+        "Rhumytal",
+        "Rhum Acetal",
+        "Rummy-tobacco like, with fruity"
+      ],
+      "leftColumnText": "Rhumytal\nRhum Acetal\n\nRummy-tobacco like, with fruity\nnotes and woody undertones.\nChemical Name:\nCyclohexanone Diethyl Acetal\nPhysico Chemical Properties:\nFormula - C10H20O2\nCAS no. - 1670-47-9\nFEMA - 4516\n\n",
+      "chemicalName": "Cyclohexanone Diethyl Acetal",
+      "formula": "C10H20O2",
+      "cas": "1670-47-9",
+      "fema": "4516",
+      "tenacity": "> 24 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Rhumytal",
+        "Rhum Acetal",
+        "Rummy-tobacco like, with fruity",
+        "notes and woody undertones."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Rummy-tobacco like, with fruity notes and woody undertones."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Cyclohexanone Diethyl Acetal"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "20"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 1670-47-9 FEMA - 4516"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Rhumytal"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Rhum Acetal"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 35,
+      "pdfPage": 38,
+      "printedPage": 36,
+      "headerLines": [
+        "Val Acetate",
+        "Vetikolacetate",
+        "This intensiﬁes the spicy-green"
+      ],
+      "leftColumnText": "Val Acetate\nVetikolacetate\n\nThis intensiﬁes the spicy-green\naspects, while enhancing the\nbitterness of grapefruit,\nunderlining Vetiver. The overall\nodour with Vetiver is beautifully\ncomposed with Rhubarb, Grapefruit, and Green Peppers.\nChemical Name:\n1,3-Dimethyl-3phenylbutylacetate\n\nPhysico Chemical Properties:\nFormula - C14H20O2\nCAS no.- 68083-58-9\n\n",
+      "chemicalName": "1,3-Dimethyl-3phenylbutylacetate",
+      "formula": "C14H20O2",
+      "cas": "68083-58-9",
+      "fema": null,
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Val Acetate",
+        "Vetikolacetate",
+        "This intensiﬁes the spicy-green",
+        "aspects, while enhancing the",
+        "bitterness of grapefruit,",
+        "underlining Vetiver. The overall",
+        "odour with Vetiver is beautifully",
+        "composed with Rhubarb, Grapefruit, and Green Peppers."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "This intensifies the spicy-green aspects, while enhancing the bitterness of grapefruit, underlining Vetiver. The overall odour with Vetiver is beautifully composed with Rhubarb, Grape- fruit, and Green Peppers."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "1,3-Dimethyl-3- phenylbutylacetate"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "14"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "20"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no.- 68083-58-9(cid:31)"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Val Acetate"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Vetikolacetate"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 36,
+      "pdfPage": 39,
+      "printedPage": 37,
+      "headerLines": [
+        "Valakon",
+        "Vetikon",
+        "With a vetiver like ﬂoral proﬁle,"
+      ],
+      "leftColumnText": "Valakon\nVetikon\n\nWith a vetiver like ﬂoral proﬁle,\nValakon pulls Vetiver oil to the top\nnotes and enhances the fruitiness\nof gardenia ﬂowers. It also adds a\nfresh and woody touch to the\ncomposition.\nChemical Name:\n4-Methyl-4-phenylpentan-2-one\nPhysico Chemical Properties:\nFormula - C12H16O\nCAS no.- 7403-42-1\n\n",
+      "chemicalName": "4-Methyl-4-phenylpentan-2-one",
+      "formula": "C12H16O",
+      "cas": "7403-42-1",
+      "fema": null,
+      "tenacity": "12 HOURS",
+      "badges": {
+        "foodGrade": false,
+        "kosher": false,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Valakon",
+        "Vetikon",
+        "With a vetiver like ﬂoral proﬁle,",
+        "Valakon pulls Vetiver oil to the top",
+        "notes and enhances the fruitiness",
+        "of gardenia ﬂowers. It also adds a",
+        "fresh and woody touch to the",
+        "composition."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "With a vetiver like floral profile, Valakon pulls Vetiver oil to the top notes and enhances the fruitiness of gardenia flowers. It also adds a fresh and woody touch to the composition."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-Methyl-4-phenylpentan-2-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "12"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O CAS no.- 7403-42-1"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Valakon"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Vetikon"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 37,
+      "pdfPage": 40,
+      "printedPage": 38,
+      "headerLines": [
+        "Vanilathon",
+        "Creosol",
+        "A modiﬁer in ﬂoral, leathery and"
+      ],
+      "leftColumnText": "Vanilathon\nCreosol\n\nA modiﬁer in ﬂoral, leathery and\nanimalic compositions, Vanilathon\nis a spicy vanilla note with\nleather-like hints and balsamic\nundertone.\nChemical Name:\n2-methoxy-4-methylphenol\nPhysico Chemical Properties:\nFormula - C8H10O2\nCAS no. - 93-51-6\nFEMA - 2671\n\n",
+      "chemicalName": "2-methoxy-4-methylphenol",
+      "formula": "C8H10O2",
+      "cas": "93-51-6",
+      "fema": "2671",
+      "tenacity": "24 HOURS",
+      "badges": {
+        "foodGrade": true,
+        "kosher": true,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Vanilathon",
+        "Creosol",
+        "A modiﬁer in ﬂoral, leathery and",
+        "animalic compositions, Vanilathon",
+        "is a spicy vanilla note with",
+        "leather-like hints and balsamic",
+        "undertone."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "A modifier in floral, leathery and animalic compositions, Vanilathon is a spicy vanilla note with leather-like hints and balsamic undertone."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2-methoxy-4-methylphenol"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "8"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 93-51-6 FEMA - 2671"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Vanilathon"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Creosol"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 38,
+      "pdfPage": 41,
+      "printedPage": 39,
+      "headerLines": [
+        "Whiskey 91",
+        "Whiskey Lactone",
+        "With a tonka type odor of"
+      ],
+      "leftColumnText": "Whiskey 91\nWhiskey Lactone\n\nWith a tonka type odor of\ncoumarin, coconut, maple, toasted\nnuts with a burnt character,\nWhiskey 91 is lactonic in ﬂavour,\nwoody, creamy and nutty\nnuances.\nChemical Name:\n5-butyl-4-methyloxolan-2-one\nPhysico Chemical Properties:\nFormula - C9H16O2\nCAS no. - 39212-23-2\nFEMA - 3803\n\n",
+      "chemicalName": "5-butyl-4-methyloxolan-2-one",
+      "formula": "C9H16O2",
+      "cas": "39212-23-2",
+      "fema": "3803",
+      "tenacity": "60 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "Whiskey 91",
+        "Whiskey Lactone",
+        "With a tonka type odor of",
+        "coumarin, coconut, maple, toasted",
+        "nuts with a burnt character,",
+        "Whiskey 91 is lactonic in ﬂavour,",
+        "woody, creamy and nutty",
+        "nuances."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "With a tonka type odor of coumarin, coconut, maple, toasted nuts with a burnt character, Whiskey 91 is lactonic in flavour, woody, creamy and nutty nuances."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "5-butyl-4-methyloxolan-2-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "9"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "16"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 39212-23-2 FEMA - 3803"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "Whiskey 91"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Whiskey Lactone"
+        }
+      ]
+    },
+    {
+      "catalogueSNo": 39,
+      "pdfPage": 42,
+      "printedPage": 40,
+      "headerLines": [
+        "White Tuberose",
+        "Methyl Tuberate",
+        "Methyl Tuberate is a powerful"
+      ],
+      "leftColumnText": "White Tuberose\nMethyl Tuberate\n\nMethyl Tuberate is a powerful\nmodiﬁer to ﬂoral accords. The\ncharacteristic note is that of\nnatural white ﬂower, imparting\ntuberose and lactonic fragrance.\nChemical Name:\n4-methyl-5-pentyloxolan-2-one\nPhysico Chemical Properties:\nFormula - C10H18O2\nCAS no. - 33673-62-0\n\n",
+      "chemicalName": "4-methyl-5-pentyloxolan-2-one",
+      "formula": "C10H18O2",
+      "cas": "33673-62-0",
+      "fema": null,
+      "tenacity": "160 HOURS",
+      "badges": {
+        "foodGrade": null,
+        "kosher": null,
+        "gmo": false
+      },
+      "bodyBeforeChemicalName": [
+        "White Tuberose",
+        "Methyl Tuberate",
+        "Methyl Tuberate is a powerful",
+        "modiﬁer to ﬂoral accords. The",
+        "characteristic note is that of",
+        "natural white ﬂower, imparting",
+        "tuberose and lactonic fragrance."
+      ],
+      "segments": [
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Methyl Tuberate is a powerful modifier to floral accords. The characteristic note is that of natural white flower, imparting tuberose and lactonic fragrance."
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Chemical Name:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "4-methyl-5-pentyloxolan-2-one"
+        },
+        {
+          "size": 11.0,
+          "color": "(0.793, 0.582, 0.763)",
+          "text": "Physico Chemical Properties:"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "Formula - C"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "10"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "H"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "18"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "O"
+        },
+        {
+          "size": 6.4,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "2"
+        },
+        {
+          "size": 11.0,
+          "color": "(1.0, 1.0, 1.0)",
+          "text": "CAS no. - 33673-62-0"
+        },
+        {
+          "size": 24.0,
+          "color": "(0.794, 0.584, 0.764)",
+          "text": "White Tuberose"
+        },
+        {
+          "size": 14.0,
+          "color": "(0.503, 0.514, 0.75)",
+          "text": "Methyl Tuberate"
+        }
+      ]
+    }
+  ]
+}

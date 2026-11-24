@@ -1,0 +1,50 @@
+{
+  "_note": "Products named on the Kosher and Halal certificate copies published on the old website. Most are NOT among the 39 catalogue products (they are mint, essential-oil and other aroma products). They have no specs in any source. Kept here so nothing is lost; whether they should appear on the new site is an open question (see INVENTORY.md). Halal names were transcribed by eye from an image-only PDF.",
+  "kosher": {
+    "certificate": "/assets/certificates/kosher-papl.pdf",
+    "status": "Pareve",
+    "issued": "2023-08-16",
+    "validThrough": "2024-07-31",
+    "condition": "Label must state Petorose Alcones Pvt Ltd of B-522, RIICO Industrial Area, Bhiwadi, Rajasthan, India.",
+    "products": [
+      "2-Isopropyl-5-Methyl-Hexenal", "2-Octen-4-one", "2-Propenyl Para Cymene", "3- Octyl Acetate", "3-Octanol", "Ajwain Oil", "Anethole", "Basil Oil",
+      "Celery Ketone", "Chavibetol", "cis-3-Hexen-1-ol", "cis-3-Hexenyl acetate", "Citronella Oil", "Clove Oil", "Clove Terpenes", "D-Carvone",
+      "Dementholised Peppermint Oil", "Dihydro Anethole", "D-Isomenthone", "D-Limonene", "Estragole/Methyl Chavicol", "Eucalyptol", "Eucalyptus Oil", "Eugenol",
+      "Eugenyl Acetate", "Fenugreek Extract", "Hazelnut Ketone (5-Methylhept-2-en-4-one)", "L-Carvone", "L-Limonene", "Lemongrass Oil", "Mentha Citrata",
+      "Mentha Piperita 1st Cut", "Menthol", "Menthone 70/30", "Menthone 80/20", "Menthone 90/10", "Menthone 95/5", "Menthyl Acetate", "Methyl Eugenol",
+      "Methyl Isoeugenol", "Methyl-2-Nonenoate", "Methyl-3-Nonenoate", "Neo Menthol", "Ocimene", "Palmarosa Oil", "Para Propylphenol",
+      "Peanut (Ground Nut) Oil", "Phenyl Ethyl Anthranilate", "Phenyl Ethyl Propionate", "Propenyl Guaethol", "Rapeseed Oil", "Spearmint Oil", "Thymol",
+      "Verdyl Acetate", "Verdyl Propionate"
+    ],
+    "lotSpecificLetterRequired": ["Peanut (Ground Nut) Oil", "Rapeseed Oil"]
+  },
+  "halal": {
+    "certificate": "/assets/certificates/halal-papl.pdf",
+    "number": "2109/08/23",
+    "issued": "2023-08-09",
+    "validUntil": "2025-08-08",
+    "products": [
+      "3 - Octanone", "3 Octanol", "3 Octyl Acetate", "Methyl Guaiacol (Vanilathon)", "Ajowain Oil", "Anethole", "Basil Oil", "Benzyl Isoeugenol",
+      "Beta Caryophyllene", "Blackpepper Oleoresin", "Celery Ketone (Celerytone)", "Chavibetol", "Chavicol", "Cis - 3 Hexenol", "Cis - 3 Hexenyl Acetate",
+      "Citronella Oil", "Clove Oil", "Clove Terpenes", "D - Limonene", "Dementholised Peppermint Oil", "Dihydro Anethole", "Estragole / Methyl Chavicol",
+      "Eucalyptol", "Eucalyptus Oil", "Eugenol", "Eugenyl Acetate", "Fenugreek Extract", "Ginger Oleoresin", "Hazelnut Ketone (5 - Methylhept- 2 – En - 4 - One)",
+      "Isomenthone", "L - Carvone", "L - Limonene", "Lemongrass Oil", "Mentha Arvensis", "Mentha Citrata", "Mentha Piperita", "Menthol", "Menthones",
+      "Menthyl Acetate", "Methyl - 2 - Nonenoate", "Methyl - 3 - Nonenoate", "Methyl Eugenol", "Methyl Isoeugenol", "Methyl Isopropy Hexenal (Laval)",
+      "Methyl Octalactone", "Ocimene", "Palmarosa Oil", "Peanut Oil", "Phenyl Ethyl Anthranilate", "Phenyl Ethyl Propionate", "Propenyl Guaethol",
+      "Rapeseed Oil", "Spearmint Oil"
+    ]
+  },
+  "matchesToCatalogueProducts": {
+    "anethole": ["kosher: Anethole", "halal: Anethole"],
+    "celerytone": ["kosher: Celery Ketone", "halal: Celery Ketone (Celerytone)"],
+    "chavibetol-50": ["kosher: Chavibetol", "halal: Chavibetol"],
+    "chavicol": ["halal: Chavicol"],
+    "laval": ["kosher: 2-Isopropyl-5-Methyl-Hexenal (probable, same chemical)", "halal: Methyl Isopropy Hexenal (Laval)"],
+    "grecazine": ["kosher: 2-Propenyl Para Cymene (probable, same chemical)"],
+    "methyl-3-nonenoate": ["kosher: Methyl-3-Nonenoate", "halal: Methyl - 3 - Nonenoate"],
+    "para-propyl-phenol": ["kosher: Para Propylphenol"],
+    "phenyl-ethyl-propionate": ["kosher: Phenyl Ethyl Propionate", "halal: Phenyl Ethyl Propionate"],
+    "vanilathon": ["halal: Methyl Guaiacol (Vanilathon)"],
+    "whiskey-91": ["halal: Methyl Octalactone (probable, same chemical)"]
+  }
+}

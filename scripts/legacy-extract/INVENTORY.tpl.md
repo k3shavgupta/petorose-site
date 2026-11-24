@@ -1,0 +1,144 @@
+# Content inventory — petorosealcones.com (Phase 1)
+
+Extracted 2026-11-24 from the live site (client-side React app, rendered with headless Chrome via Playwright), its JavaScript bundle (`/static/js/main.3670ae15.js`), the product catalogue PDF and the six certificate PDFs linked in the footer. Nothing below was invented: where a source is silent the content files say `TODO`. Contradictions are **flagged, not fixed** — both values are kept in `content/products.json` → `sources` / `discrepancies`.
+
+**Content files**
+
+| File | What it holds |
+|---|---|
+| `content/company.json` | Company facts, history (website + catalogue wording), group, address, phones, email, certifications with numbers and expiry dates, catalogue, video, homepage selections, footer, SEO meta |
+| `content/products.json` | 39 products, one object each: top-level fields for the new site + raw `sources.site` / `sources.pdf` + `discrepancies` + `flags` |
+| `content/seo-landing-pages.json` | 56 Anethole SEO landing URLs (title tag, meta description, keywords) |
+| `content/certified-products.json` | Products named on the Kosher and Halal certificates (most are not in the catalogue) |
+| `content/source/` | Raw evidence: rendered page text, catalogue text, certificate text, bundle data, asset manifest, catalogue badge montage, full discrepancy list |
+| `public/assets/` | Every downloaded image, logo, certificate, catalogue PDF, video, font and favicon (no hotlinks) |
+| `scripts/legacy-extract/` | The scripts that produced all of the above (re-runnable) |
+
+## 1. Sources
+
+| Source | How | Taken |
+|---|---|---|
+| `/` (home) | Playwright render + bundle | Hero "INNOVATING AROMAS" + "Know More" → /about; **New Products**: Hyacinth Core, Isocaproic Acid, Jalclone; event banner (FAFAI Expo 2025); feature video; **Featured Products**: Methyl-3-nonenoate, Para Propyl Phenol, Chavibetol 50%; "All Products" button; floating buttons: catalogue, feature video, WhatsApp |
+| `/products` | Playwright render | Searchable table of all 39 products (S.No, name, CAS) |
+| `/product/<slug>` × 39 | Playwright render + bundle arrays | Name, alias, description, chemical name, formula, CAS, FEMA, tenacity, product photo, structure diagram, compliance badge image, "Enquiry" modal |
+| `/about` | Playwright render + bundle | "About Us — Because INNOVATION is the only way forward" + 3 paragraphs; 3 hotlinked stock photos |
+| `/contact` | Playwright render + bundle | "We're here to help.", Head Office address, phones, email, "Send your Query" form |
+| Footer (all pages) | render | Address, phones, email, Important Links (incl. Banwari Group → banwari.org), Certifications (6 PDF links), copyright, "Made in India", Design Avenue credit |
+| Header (all pages) | render + bundle | Products / About us / Contact us / Catalogue (Heyzine flip-book modal) / Brochure (PDF download, filename `ProductCatalogueWeb2025`) |
+| `/product/<56 SEO slugs>` | bundle (+ 9 sampled with Playwright) | Localised title/description/keywords only; page body is identical to `/product/anethole` (verified on all 9 rendered) |
+| `/about.html`, `/contact.html` | Playwright render | Linked from the footer; render **only header + footer** (empty pages) |
+| `ProductCatalogueWeb.da3d1a6d2bcc9e488694.pdf` (44 pp, "Product Catalogue April 2025") | pdftotext / pdfplumber + visual check | Cover, contents (39 products + "Also Known As" + page), About text, one page per product, Jean-Claude Ellena quote, Group Companies, Certifications, contact block |
+| `FDA PAPL.pdf`, `HALAL PAPL.pdf`, `ISO 9001 PAPL.pdf`, `ISO 14001 PAPL.pdf`, `ISO 22000 PAPL.pdf`, `KOSHER PAPL.pdf` | pdftotext; Halal and ISO 14001 are image-only and were read visually | Issuer, numbers, scope, issue and expiry dates, certified product lists |
+| `robots.txt` | curl | Allows everything; **no sitemap.xml** exists (request returns the SPA shell) |
+
+## 2. Products
+
+The website and the catalogue list **the same 39 products** — the catalogue adds no extra products. (Extra product *names* do appear on the Kosher/Halal certificates; see §5.) Anethole, which you mentioned, is product #2 and also has 56 SEO landing pages.
+
+{{PRODUCT_TABLE}}
+
+Compliance column: ✓ / ✗ = tick / cross icon on the catalogue page, – = badge not printed. Read visually for every page (`content/source/catalogue-badges-montage.png`) because the PDF text layer doesn't record the icon.
+
+**How the top-level product fields were chosen.** Default = catalogue value (April 2025, the newest document); website value used when the catalogue is silent. Exceptions where the catalogue has an evident typo or less information: Anethole chemical name ("1-mthoxy…" in catalogue), Anethole alias (catalogue just repeats "Anethole"; website "Anethole 21/22"), and the Orrisnitrile name ("Orrisnitril" on its catalogue page). Both raw values are always kept in `sources`. Fields that no source provides — separate odour profile, applications, purity, packaging — are `TODO`. "50%" (Chavibetol) and "10%" (Creamy Lactone) are part of the product names; no other purity data exists.
+
+## 3. Contradictions and unclear items (flagged, not fixed)
+
+### Certifications
+1. **"ISO 90001"** in the website footer. The linked certificate is **ISO 9001:2015** (QRO, no. 305023011113Q). Almost certainly a typo.
+2. **Every certificate copy on the old site has expired** (today is 2026-11-24):
+
+   | Certificate | Number | Issued | Valid until |
+   |---|---|---|---|
+   | US FDA registration (via Willow Glen Consultancy) | 17306564766 | 2023-11-11 | **2024-12-31** |
+   | Kosher (Pareve), acct OOS9148M | — | 2023-08-16 | **2024-07-31** |
+   | Halal (Indian Halal Services) | 2109/08/23 | 2023-08-09 | **2025-08-08** |
+   | ISO 9001:2015 (QRO) | 305023011113Q | 2023-09-08 | **2026-01-10** |
+   | ISO 22000:2018 (QRO) | 305023091406F | 2023-09-14 | **2026-09-13** |
+   | ISO 14001:2015 (Royal Assessments) | E2023115636 | 2023-11-22 | **2026-11-21** |
+
+   TODO: current certificates are needed before the new site links to them.
+3. **Website vs catalogue certification sets differ.** Website footer: FDA, Halal, ISO 9001, ISO 14001, ISO 22000, Kosher. Catalogue back cover: Halal, ISO 22000:2018, ISO 9001:2015, Kosher, **FSSAI**. FSSAI is not on the website and has no certificate or licence number. FDA and ISO 14001 are not in the catalogue.
+4. The FDA document is a private agent's certificate of registration; the agent states that the US FDA does not recognise it. Showing it as "FDA certified" would overstate it. Suggest wording such as "US FDA registered facility".
+5. Old site says "ensuring all certifications like Halal and Kosher"; the catalogue says "availability of certifications like Kosher and Halal **on a product-to-product basis**". The badges confirm it varies by product.
+
+### Per-product compliance badges (Food Grade / Kosher / GMO)
+The website and catalogue disagree for most products. Example: the website shows Altanol, Gardeniamide, Grecazine, Megavanil, Neroli Ketone and Rhumytal as Food grade ✓ Kosher ✓; the catalogue marks all three ✗. The Kosher certificate lists Chavibetol and (probably) Grecazine, but the catalogue marks Kosher ✗ for both. Three products (Anethole, Caprifloren, Celerytone) show a **broken badge image** on the website. "GMO ✗" appears on every product and probably means "non-GMO", but that's an interpretation — confirm.
+`compliance` in products.json uses the catalogue values with `needsConfirmation: true` wherever the sources conflict. **Nothing about Kosher/Halal/food-grade status should go live until confirmed.**
+
+{{BADGE_TABLE}}
+
+### Technical data
+- **Invalid CAS check digits**: Caprifloren `67663-01-08` and Prosethyl `64988-06-03` (in both sources) aren't valid CAS numbers — the last segment must be one digit. Not corrected.
+- **Nutclone One**: the website's CAS field contains the formula `C7H10O`; the catalogue gives CAS `1193-18-6`.
+- **Chavibetol 50%**: website formula `- C10H1202` (zeros instead of letter O); catalogue `C10H12O2`.
+- **Tenacity**: the website has "&gt;" on several values that the catalogue drops (Anethole, Caprifloren, Chavicyl Acetate, Gardeniamide, Hyacinth Acetal). The website also renders every tenacity as e.g. "18 HOURS HOURS" (duplicated unit) and shows none for Fadeus (catalogue: 24 HOURS).
+- **Hyacinth Acetal**: different chemical name (website `2-(phenylmethyl)-1,3-dioxan-5-ol`; catalogue `Phenylacetaldehyde Glycerylacetal`) and a completely different description.
+- **Gardeniamide**: FEMA 3241 appears on the website only.
+- **Anethole**: catalogue title "Anethole (Synthetic)"; the website alias is "Anethole 21/22" (meaning of 21/22 not stated). The catalogue chemical name has a typo ("1-mthoxy").
+- **Names**: "Creamy Lactone" (website) vs "Creamy Lactone 10%" (catalogue); "Orrisnitrile" vs "Orrisnitril" (catalogue product page; its contents page says Orrisnitrile).
+- **The catalogue contradicts itself** (contents page vs product page alias): Muscomme W "Eddenolide" vs "Edenolide"; Val Acetate "Vetikyl Acetate" vs "Vetikolacetate"; Valakon "Vetikol" vs "Vetikon"; White Tuberose "Methyle Tuberate" vs "Methyl Tuberate"; Ethyl Isocaproate "Ethyle Isocaproate" vs no alias. products.json uses the product-page alias (which matches the website).
+
+{{SPEC_TABLE}}
+
+### Company facts
+- **Group age**: website "a 40 years old business group"; catalogue "roots in the early 1970s" (50+ years).
+- **Location wording**: "family-owned and operated Banwari Group based in New Delhi" (website sentence is ungrammatical — the catalogue says "is a part of the … Banwari Group"). Manufacturing and the head office are in Bhiwadi, Rajasthan.
+- **Address variants**: certificates add "Phase-1"/"Phase I" and "Distt. Alwar". The website and catalogue omit them.
+- **Group companies**: the catalogue shows Banwari, **Sampe** and Petorose Alcones. The website mentions only Banwari Group. There is no information on Sampe beyond its logo.
+- **Claims to keep verbatim** (unverified marketing claims): "India's first manufacturer of purest Anethole", "Having pioneered the mint industry", "makes us the leader in the field of Aroma Chemicals".
+- **Copyright** "©2019-2024" is stale.
+
+### Site defects worth not carrying over
+- Every non-product page has the `<title>` "Anethole | Petorose Alcones Pvt Ltd" (pre-render bug). Product meta descriptions read "…is a leading manufacturer and exporter of alcone products in India".
+- The home "New Products" card for Isocaproic Acid uses alt text "Fadeus".
+- Footer links to `/about.html` and `/contact.html` render empty pages. Redirect them in the new site.
+- The 56 SEO URLs (`/product/anethole-supplier-uk`, `/product/comprar-anetol-brasil`, …) all show the same Anethole page under localised titles (EN, PT, DE, PL, FR, ES, IT, SK; the Belgium/Netherlands/Thailand/South Africa pages are in English). Decide whether to redirect them to `/products/anethole` (301) or keep them. They may carry search traffic. **Their copy contradicts the catalogue**: titles and keywords say "Natural Flavoring", "natural Anethole", "natural sweetener", while the catalogue calls the product "Anethole (Synthetic)".
+- The homepage event banner advertises **XXVI FAFAI International Convention & Expo 2025, 5–7 March 2025, Stall S8**, which is a past event.
+- Forms posted to `https://www.petorosealcones.com/api/v1/{contact,product,whatsapp}`. They will be replaced in Phase 3.
+
+### Typos in website product copy
+The catalogue version (used in products.json) corrects these: "methyl chavical", "balsimic", "add more flavour", "betelplant", "odor profil", "thedirection", "LOVAL", "Magavanil", "undrtones", "ha fruity", "vanila … balsamin". Every website/catalogue wording difference is listed below. Some are substantive (Hyacinth Acetal, Creamy Lactone, Isocaproic Acid).
+
+<details><summary>All 23 description differences</summary>
+
+{{DESC_LIST}}
+</details>
+
+## 4. Assets (`public/assets/`)
+
+| Folder | Contents |
+|---|---|
+| `img/site/` | 39 product photos, 29 structure diagrams (6 of them were inlined in the bundle, saved as `inline-module-*.png`), logo mark (`petroselogo.jpg`), wordmark (`typefacee.png`), footer lockup (`mono.jpg`), hero (`banner.png`), product banner, FAFAI event banner |
+| `img/cloudinary/` | 3 compliance-badge images and 10 structure diagrams that the old site loaded from Cloudinary |
+| `img/third-party-about/` | 2 of 3 hotlinked About-page stock photos (mygardenlife.com, perfumersapprentice.com). **Probably not licensed for reuse — don't use them on the new site.** The 3rd (IndiaMART `5.imimg.com`) refused download (HTTP 444). |
+| `certificates/` | 6 certificate PDFs |
+| `docs/productcatalogueweb.pdf` | Catalogue, April 2025 (3.5 MB) |
+| `video/petorose-alcones-feature-video.mp4` | Feature video, 2:08, 1920×1080, **22 MB**. Needs compressing and captions. No transcript exists. |
+| `fonts/poppins-regular.ttf` | Old site font (Poppins, OFL) |
+| `site-meta/` | favicon.ico, logo192.png, logo512.png, manifest.json |
+
+Not downloaded: the Flag of India image (Wikimedia returned HTTP 400; it's trivial to recreate) and the Heyzine flip-book (an external embed: https://heyzine.com/flip-book/e08acd5c76.html). No vector/SVG logo exists anywhere. Group-company logos (Banwari, Sampe) and certification logos exist only inside the catalogue PDF. URL → file mapping: `content/source/asset-manifest.json`.
+
+## 5. Open questions / TODOs for Petorose Alcones
+
+1. Current, unexpired certificates (FDA, Kosher, Halal, ISO 9001, ISO 22000, ISO 14001) and the FSSAI licence number.
+2. Per-product Food Grade / Kosher / GMO status — the website and catalogue disagree (§3). What does "GMO ✗" mean?
+3. Correct CAS numbers for Caprifloren and Prosethyl; tenacity "&gt;" values; Hyacinth Acetal description and chemical name; Gardeniamide FEMA.
+4. Should the ~45 additional products named on the Kosher/Halal certificates (menthol, mint oils, eugenol, limonene, etc., in `content/certified-products.json`) be listed on the new site? There are no specs for them.
+5. Applications, purity/grade, packaging and MOQ per product — none exist in any source.
+6. WhatsApp number for the WhatsApp button (none is published).
+7. Map pin or coordinates for the Bhiwadi facility.
+8. Group age (40 years vs since the early 1970s), and whether to present Sampe as a group company.
+9. Vector logo (SVG), plus licensed imagery to replace the third-party About photos.
+10. What to do with the 56 Anethole SEO landing URLs (redirect vs keep).
+
+## 6. Reproducing
+
+```
+cd scripts/legacy-extract   # run in a scratch dir that has playwright-core, acorn, acorn-walk, pdfplumber, pillow
+node crawl.mjs              # render pages → pages/*.txt|html, screenshots
+node extract-bundle.mjs     # parse main.js → bundle-arrays.json (+ inline images)
+node download-assets.mjs <repo>   # → public/assets + asset-manifest.json
+python parse_pdf.py         # catalogue → pdf-products.json (badge matrix is hand-read; see BADGES)
+node merge.mjs <repo>       # → content/products.json, content/seo-landing-pages.json, discrepancies.json
+```
