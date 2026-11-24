@@ -10,6 +10,10 @@
   --color-noir-saffron: #ffb648;
   --color-noir-text: #efebff;
   --color-noir-muted: #b9b2dd;
+  --color-noir-deep: #0b0818;
+  /* Text on saffron buttons: dark in both themes. */
+  --color-noir-on-accent: #120e24;
+  --color-noir-warn: #ffb648;
 
   --animate-drift: drift 22s ease-in-out infinite alternate;
   --animate-drift-slow: drift 30s ease-in-out infinite alternate-reverse;
@@ -34,6 +38,32 @@
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-noir-display: var(--font-fraunces), ui-serif, Georgia, serif;
   --font-noir-body: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* `light:` variant for the few places that need a theme-specific tweak. */
+@custom-variant light (&:where(.light, .light *));
+
+/*
+ * Light theme: same brand, lavender-white surfaces. Components use the noir-* tokens, so only the
+ * values change here. `white` is remapped to ink so the translucent white borders and tints used on
+ * dark surfaces (border-white/10, bg-white/5) become faint ink lines and tints on light surfaces.
+ * Real white uses bg-[#fff].
+ */
+:root {
+  color-scheme: dark;
+}
+:root.light {
+  color-scheme: light;
+  --color-noir-bg: #f7f5fd;
+  --color-noir-surface: #ffffff;
+  --color-noir-raised: #ede8fb;
+  --color-noir-periwinkle: #4845e4;
+  --color-noir-orchid: #9c2fae;
+  --color-noir-text: #16152a;
+  --color-noir-muted: #55526b;
+  --color-noir-deep: #efeafa;
+  --color-noir-warn: #9a5b00;
+  --color-white: #16152a;
 }
 
 html {

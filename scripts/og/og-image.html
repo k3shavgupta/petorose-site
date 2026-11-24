@@ -1,0 +1,117 @@
+<!doctype html>
+<!--
+  Social share image (Open Graph / WhatsApp / LinkedIn preview), 1200×630.
+  Regenerate after editing:
+    google-chrome --headless=new --hide-scrollbars --window-size=1200,630 --virtual-time-budget=8000 \
+      --screenshot=/tmp/og.png "file://$PWD/scripts/og/og-image.html"
+    node -e 'require("sharp")("/tmp/og.png").jpeg({quality:90,mozjpeg:true}).toFile("public/og-image.jpg")'
+  Then bump the ?v= in OG_IMAGE (app/layout.tsx) so WhatsApp and others refetch it.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&display=block"
+      rel="stylesheet"
+    />
+    <style>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body { width: 1200px; height: 630px; overflow: hidden; }
+      body {
+        position: relative;
+        background: #120e24;
+        color: #efebff;
+        font-family: Inter, sans-serif;
+      }
+      .glow { position: absolute; border-radius: 50%; filter: blur(90px); }
+      .g1 { width: 620px; height: 620px; left: -220px; top: -300px; background: rgba(139, 141, 255, 0.45); }
+      .g2 { width: 560px; height: 560px; right: -120px; bottom: -320px; background: rgba(227, 132, 234, 0.38); }
+      .g3 { width: 380px; height: 380px; left: 380px; bottom: -260px; background: rgba(139, 141, 255, 0.22); }
+      .grain {
+        position: absolute; inset: 0; opacity: 0.06;
+        background-image: radial-gradient(rgba(255, 255, 255, 0.9) 0.6px, transparent 0.6px);
+        background-size: 4px 4px;
+      }
+
+      .left { position: absolute; left: 72px; top: 64px; width: 610px; }
+      .brand { display: flex; align-items: center; gap: 18px; }
+      .mark {
+        width: 68px; height: 68px; border-radius: 20px; background: #fff;
+        display: grid; place-items: center;
+        box-shadow: 0 10px 30px -10px rgba(227, 132, 234, 0.7), 0 0 0 1px rgba(255, 255, 255, 0.6);
+      }
+      .mark img { width: 52px; height: 52px; }
+      .name { font-family: Fraunces, serif; font-size: 34px; font-weight: 500; letter-spacing: 0.01em; line-height: 1; }
+      .name span { color: #e384ea; }
+      .sub { margin-top: 6px; font-size: 15px; letter-spacing: 0.22em; text-transform: uppercase; color: #b9b2dd; }
+
+      h1 {
+        margin-top: 58px;
+        font-family: Fraunces, serif; font-weight: 300; font-size: 112px; line-height: 0.92; letter-spacing: -0.01em;
+      }
+      h1 em {
+        display: block; font-style: italic; font-weight: 400;
+        background: linear-gradient(90deg, #8b8dff 0%, #c58df3 45%, #e384ea 100%);
+        -webkit-background-clip: text; background-clip: text; color: transparent;
+        padding-bottom: 10px;
+      }
+      .lede { margin-top: 26px; font-size: 27px; line-height: 1.35; color: #d6d0f2; }
+
+      .pills { position: absolute; left: 72px; bottom: 56px; display: flex; gap: 12px; }
+      .pill {
+        padding: 10px 18px; border-radius: 999px; font-size: 18px; font-weight: 500;
+        border: 1px solid rgba(255, 255, 255, 0.18); background: rgba(255, 255, 255, 0.05); color: #efebff;
+      }
+      .pill.accent { background: #ffb648; border-color: #ffb648; color: #120e24; font-weight: 600; }
+
+      .arch {
+        position: absolute; right: 70px; top: 46px; width: 380px; height: 538px;
+        border-radius: 190px 190px 32px 32px; overflow: hidden;
+        box-shadow: 0 30px 80px -20px rgba(227, 132, 234, 0.55), 0 0 0 1px rgba(255, 255, 255, 0.14);
+      }
+      .arch img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 45%; }
+      .arch::after {
+        content: ""; position: absolute; inset: 0;
+        background: linear-gradient(180deg, transparent 55%, rgba(18, 14, 36, 0.55));
+      }
+      .bubble {
+        position: absolute; width: 150px; height: 150px; border-radius: 50%; overflow: hidden;
+        border: 5px solid #120e24; box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.18), 0 18px 40px -12px rgba(0, 0, 0, 0.6);
+      }
+      .bubble img { width: 100%; height: 100%; object-fit: cover; }
+      .b1 { right: 380px; top: 360px; }
+      .b2 { right: 40px; top: 30px; width: 118px; height: 118px; }
+      .url {
+        position: absolute; right: 70px; bottom: 22px; font-size: 15px; color: #b9b2dd; letter-spacing: 0.04em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="glow g1"></div>
+    <div class="glow g2"></div>
+    <div class="glow g3"></div>
+    <div class="grain"></div>
+
+    <div class="left">
+      <div class="brand">
+        <div class="mark"><img src="../../public/assets/img/site/petroselogo.jpg" alt="" /></div>
+        <div>
+          <div class="name">Petorose <span>Alcones</span></div>
+          <div class="sub">Aroma chemicals · India</div>
+        </div>
+      </div>
+      <h1>Innovating<em>Aromas</em></h1>
+      <p class="lede">Specialty aroma chemicals for fragrance &amp; flavour, made in Bhiwadi, Rajasthan.</p>
+    </div>
+
+    <div class="pills">
+      <span class="pill accent">39 aroma chemicals</span>
+      <span class="pill">Part of the Banwari Group</span>
+    </div>
+
+    <div class="arch"><img src="../../public/assets/img/photos/hero-bloom.jpg" alt="" /></div>
+    <div class="bubble b1"><img src="../../public/assets/img/photos/anethole.jpg" alt="" /></div>
+    <div class="bubble b2"><img src="../../public/assets/img/photos/megavanil.jpg" alt="" /></div>
+  </body>
+</html>

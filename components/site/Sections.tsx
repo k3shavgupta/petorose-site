@@ -78,7 +78,7 @@ export function EnquiryCta({ id }: { id?: string }) {
         Tell us the product and quantity and our team will get back to you. We are more than happy to send samples.
       </p>
       <div className="mt-8 flex flex-wrap gap-3">
-        <Link href="/contact/#enquiry" className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-bg transition hover:bg-[#ffc56b]">
+        <Link href="/contact/#enquiry" className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-on-accent transition hover:bg-[#ffc56b]">
           Send an enquiry
         </Link>
         <a href={catalogueHref()} download className="rounded-full border border-white/20 px-6 py-3 font-medium text-noir-text hover:bg-white/5">
