@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@theme {
+  /* Direction A — Rose Noir */
+  --color-noir-bg: #120e24;
+  --color-noir-surface: #1d1636;
+  --color-noir-raised: #2a2150;
+  --color-noir-periwinkle: #8b8dff;
+  --color-noir-orchid: #e384ea;
+  --color-noir-saffron: #ffb648;
+  --color-noir-text: #efebff;
+  --color-noir-muted: #b9b2dd;
+
+  /* Direction B — Spectrum Lab */
+  --color-lab-paper: #faf8f4;
+  --color-lab-white: #ffffff;
+  --color-lab-ink: #16152a;
+  --color-lab-muted: #57546d;
+  --color-lab-indigo: #4845e4;
+  --color-lab-orchid: #a832ba;
+  --color-lab-tangerine: #ff6b2c;
+  --color-lab-lime: #2fb36b;
+  --color-lab-lemon: #ffd23f;
+
+  --animate-drift: drift 22s ease-in-out infinite alternate;
+  --animate-drift-slow: drift 30s ease-in-out infinite alternate-reverse;
+  --animate-float: float 9s ease-in-out infinite;
+  --animate-rise: rise 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  --animate-spin-slower: spin 40s linear infinite;
+
+  @keyframes drift {
+    0% { transform: translate3d(0, 0, 0) scale(1); }
+    100% { transform: translate3d(8%, -6%, 0) scale(1.15); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: none; }
+  }
+}
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-noir-display: var(--font-fraunces), ui-serif, Georgia, serif;
+  --font-noir-body: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-lab-display: var(--font-grotesk), ui-sans-serif, system-ui, sans-serif;
+  --font-lab-mono: var(--font-jbmono), ui-monospace, SFMono-Regular, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
