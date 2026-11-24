@@ -160,12 +160,13 @@
     "quote": { "text": "Perfume is a story in odor, sometimes poetry in memory.", "author": "Jean-Claude Ellena" }
   },
   "featureVideo": {
-    "file": "/assets/video/petorose-alcones-feature-video.mp4",
+    "file": "/assets/video/petorose-alcones-feature-video-720p.mp4",
+    "master": "/assets/video/petorose-alcones-feature-video.mp4",
     "poster": "/assets/img/video/feature-video-poster.jpg",
     "captions": "/assets/video/petorose-alcones-feature-video.en.vtt",
     "transcript": "content/source/video-transcript.txt",
     "duration": "2:08",
-    "resolution": "1920x1080",
+    "resolution": "1920x1080 master; site serves a 1280x720 H.264 copy (8.9 MB, faststart)",
     "sizeMB": 22,
     "format": "AI avatar presenter ('Rose', disclosed on screen as 'Powered by AI') over stock imagery. Contains no footage of the Petorose facility, lab or products being made.",
     "claims": [
