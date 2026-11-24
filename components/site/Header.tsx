@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { ThemeToggle } from "./ThemeToggle";
 
 const NAV = [
   { href: "/products/", label: "Products" },
@@ -21,7 +22,7 @@ export function Header({ catalogueHref }: { catalogueHref: string }) {
     <header className="sticky top-0 z-40 border-b border-white/10 bg-noir-bg/85 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-5 sm:px-8">
         <Link href="/" className="flex items-center gap-3 rounded-lg" aria-label="Petorose Alcones, home">
-          <span className="grid size-9 place-items-center rounded-xl bg-white p-1">
+          <span className="grid size-9 place-items-center rounded-xl bg-[#fff] p-1">
             <Image src="/assets/img/site/petroselogo.jpg" alt="" width={28} height={28} />
           </span>
           <span className="font-noir-display text-lg leading-none tracking-wide">
@@ -48,9 +49,10 @@ export function Header({ catalogueHref }: { catalogueHref: string }) {
         </nav>
 
         <div className="flex items-center gap-2">
+          <ThemeToggle />
           <Link
             href="/contact/#enquiry"
-            className="rounded-full bg-noir-saffron px-4 py-2 text-sm font-semibold text-noir-bg transition hover:bg-[#ffc56b]"
+            className="rounded-full bg-noir-saffron px-4 py-2 text-sm font-semibold text-noir-on-accent transition hover:bg-[#ffc56b]"
           >
             Enquire
           </Link>

@@ -54,7 +54,7 @@ export function CertificateCards() {
       {certs.map((c) => (
         <li key={c.id} className="flex flex-col overflow-hidden rounded-3xl border border-white/10 bg-noir-surface">
           {c.display.thumb ? (
-            <div className="relative aspect-[4/3] overflow-hidden border-b border-white/10 bg-white">
+            <div className="relative aspect-[4/3] overflow-hidden border-b border-white/10 bg-[#fff]">
               <Image
                 src={c.display.thumb}
                 alt={`${c.display.title} certificate, first page`}

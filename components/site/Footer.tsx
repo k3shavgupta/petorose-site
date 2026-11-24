@@ -5,7 +5,7 @@ import { catalogueHref, company, email, phones, whatsappHref } from "@/lib/conte
 export function Footer() {
   const year = new Date().getFullYear();
   return (
-    <footer className="border-t border-white/10 bg-[#0b0818] text-sm text-noir-muted">
+    <footer className="border-t border-white/10 bg-noir-deep text-sm text-noir-muted">
       <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 sm:px-8 md:grid-cols-[1.3fr_1fr_1fr]">
         <div>
           <p className="font-noir-display text-2xl text-noir-text">Petorose Alcones Pvt Ltd</p>

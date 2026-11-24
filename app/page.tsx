@@ -46,7 +46,7 @@ export default function HomePage() {
               </Link>
               <Link
                 href="/contact/#enquiry"
-                className="rounded-full bg-noir-saffron px-5 py-2.5 text-sm font-semibold text-noir-bg transition hover:bg-[#ffc56b]"
+                className="rounded-full bg-noir-saffron px-5 py-2.5 text-sm font-semibold text-noir-on-accent transition hover:bg-[#ffc56b]"
               >
                 Request a quote
               </Link>

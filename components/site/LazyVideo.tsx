@@ -26,7 +26,7 @@ export function LazyVideo({ src, poster, title, duration, captions }: Props) {
           <Image src={poster} alt="" fill sizes="(min-width: 1024px) 720px, 100vw" className="object-cover opacity-80 transition group-hover:opacity-100" />
           <span className="absolute inset-0 bg-gradient-to-t from-noir-bg/90 via-noir-bg/20 to-transparent" />
           <span className="absolute bottom-5 left-5 flex items-center gap-4 sm:bottom-7 sm:left-7">
-            <span className="grid size-14 place-items-center rounded-full bg-noir-saffron text-noir-bg shadow-lg transition group-hover:scale-105">
+            <span className="grid size-14 place-items-center rounded-full bg-noir-saffron text-noir-on-accent shadow-lg transition group-hover:scale-105">
               <svg aria-hidden viewBox="0 0 24 24" className="ml-1 size-6" fill="currentColor">
                 <path d="M7 4.5v15l13-7.5z" />
               </svg>

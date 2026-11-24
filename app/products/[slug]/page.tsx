@@ -126,7 +126,7 @@ export default async function ProductPage({ params }: PageProps<"/products/[slug
           )}
 
           <div className="mt-8 flex flex-wrap gap-3">
-            <Link href={enquiryHref} className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-bg transition hover:bg-[#ffc56b]">
+            <Link href={enquiryHref} className="rounded-full bg-noir-saffron px-6 py-3 font-semibold text-noir-on-accent transition hover:bg-[#ffc56b]">
               Request a quote / sample
             </Link>
             <a
